@@ -1,0 +1,42 @@
+---
+title: "أمر أميري رقم (3) لسنة 1996 بتعين رئيس مجلس الوزراء"
+type: "emiri_order"
+number: "3"
+year: "1996"
+date: "1996-10-29"
+date_hijri: "17/06/1417"
+effective: "1996-10-29"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 13 لسنة 1996, p. 157"
+issuer: "general"
+identifier: "/legislations/emiri-order/1996/3/general"
+source: "https://almeezan.qa/legislations/emiri-order/1996/3/general"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# أمر أميري رقم (3) لسنة 1996 بتعين رئيس مجلس الوزراء
+
+نحن حمد بن خليفة آل ثاني أمير دولة قطر،
+
+بعد الاطلاع على النظام الأساسي المؤقت المعدل، وبخاصة على المادتين (23)، (29) منه، المعدلتين بقرار أمير دولة قطر رقم (28) لسنة 1996،
+
+وعلى الأمر الأميري رقم (2) لسنة 1995 بإعادة تشكيل مجلس الوزراء،
+
+أمرنا بما يأتي:
+
+## المواد (1-3)
+
+### مادة 1
+
+يُعين سمو الشيخ عبد الله بن خليفة آل ثاني، رئيساً لمجلس الوزراء.
+
+### مادة 2
+
+يُلغى كل حكم يخالف أحكام هذا الأمر الأميري.
+
+### مادة 3
+
+يعمل بهذا الأمر الأميري من تاريخ صدوره. وينشر في الجريدة الرسمية.
+
+حمد بن خليفة آل ثاني. — أمير دولة قطر
