@@ -4,10 +4,11 @@ kind: "ministerial-decision"
 number: "8"
 year: "1983"
 issued: "1983-10-25"
-effective: "1983-10-25"
-version: "as issued"
+effective: "1999-03-22"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/1983/8/interior-minister"
 source: "https://almeezan.qa/legislations/ministerial-decision/1983/8/interior-minister"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1983&typeCode=ministerial-decision&sourceCode=interior-minister&culture=ar"
 ---
 
 # قرار وزير الداخلية رقم (8) لسنة 1983 بتحديد فئات وقواعد الغرامة التي يجوز التصالح عليها في جرائم دخول وإقامة الأجانب في قطر
@@ -29,6 +30,8 @@ source: "https://almeezan.qa/legislations/ministerial-decision/1983/8/interior-m
 د- الداخلون إلى قطر بطريقة غير مشروعة:- يغرم المخالف الحد الأقصى لقيمة الغرامة وقدره أربعة آلاف وخمسمائة ريال قطري.
 ه- المتأخرون في استخراج رخص الإقامة في الموعد المحدد:
 يغرم المخالف مبلغ ثلاثمائة ريال عن كل شهر تأخير.
+و) يغرم ربان السفينة أو قائد الطائرة أو السيارة الذي لم يقدم كشفاً بأسماء الأطقم والركاب، أو ينقل ركاباً للبلاد لا يحملون جوازات سفر أو سمات دخول أو يسمح لهم بمغادرة وسيلة النقل قبل إبلاغ السلطات المختصة، بغرامة لا تقل عن ثلاثة آلاف ريال ولا تزيد على عشرة آلاف ريال.
+ز) يغرم مدير الفندق ومن في حكمه، الذي يقدم معلومات غير صحيحة عن المطلوب السماح لهم بدخول البلاد، أو يسكنهم في غير الفندق المخصص لإقامتهم في غير ضرورة، بغرامة لا تقل عن ثلاثة آلاف ريال ولا تزيد على عشرة آلاف ريال.
 
 ## مادة 2
 
