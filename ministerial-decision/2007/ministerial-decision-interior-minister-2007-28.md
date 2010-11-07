@@ -5,10 +5,11 @@ number: "28"
 year: "2007"
 issued: "2007-12-12"
 gazette_day: "2008-01-31"
-effective: "2007-12-12"
-version: "as issued"
+effective: "2010-11-07"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2007/28/interior-minister"
 source: "https://almeezan.qa/legislations/ministerial-decision/2007/28/interior-minister"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2007&typeCode=ministerial-decision&sourceCode=interior-minister&culture=ar"
 ---
 
 # قرار وزير الداخلية رقم (28) لسنة 2007 بتنظيم عمل البوابة الإلكترونية بمطار الدوحة الدولي
@@ -44,13 +45,13 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2007/28/interior-
 
 ## مادة 6
 
-تكون رسوم إصدار البطاقة الإلكترونية أو تجديدها، وفقاً لما يلي:
+تكون رسوم إصدار البطاقة الإلكترونية أو تجديدها، وفقاً لما يلي:-
 1- سنة واحدة
-(150) مائة وخمسون ريالاً.
+(100) مائة ريال.
 2- سنتان
-(250) مائتان وخمسون ريالاً.
+(150) مائة وخمسون ريال.
 3- ثلاث سنوات
-(350) ثلاثمائة وخمسون ريالاً.
+(200) مائتان ريال.
 وتحصل ذات الرسوم في حالة طلب استخراج بدل تالف أو فاقد.
 
 ## مادة 7
