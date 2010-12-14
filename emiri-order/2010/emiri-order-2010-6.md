@@ -1,0 +1,50 @@
+---
+title: "أمر أميري رقم (6) لسنة 2010 بمنح درجة وزير"
+type: "emiri_order"
+number: "6"
+year: "2010"
+date: "2010-12-14"
+date_hijri: "08/01/1431"
+effective: "2010-12-14"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 1 لسنة 2011, p. 34"
+issuer: "general"
+identifier: "/legislations/emiri-order/2010/6/general"
+source: "https://almeezan.qa/legislations/emiri-order/2010/6/general"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# أمر أميري رقم (6) لسنة 2010 بمنح درجة وزير
+
+نحن حمد بن خليفة آل ثاني أمير دولة قطر،
+
+بعد الاطلاع على الدستور،
+
+وعلى القانون رقم (21) لسنة 2004 بشأن الوزراء، المعدل بالقانون رقم (12) لسنة 2010،
+
+أمرنا بما يلي:
+
+## المواد (1-2)
+
+### مادة 1
+
+تُمنح درجة وزير لكل من:
+
+1- سعادة السيد/ محمد همام العبد الله.
+
+2- سعادة السيد/ سيف مقدم البوعينين.
+
+3- سعادة السيد/ محمد عبد الله الرميحي.
+
+4- سعادة السيد/ عبد الله محمد العثمان.
+
+5- سعادة السيد/ محمد جهام الكواري.
+
+6- سعادة السيد/ علي عبد الله آل محمود.
+
+### مادة 2
+
+يُعمل بهذا الأمر الأميري من تاريخ صدوره. ويُنشر في الجريدة الرسمية.
+
+حمد بن خليفة آل ثاني. — أمير دولة قطر
