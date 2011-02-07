@@ -1,0 +1,46 @@
+---
+title: "قرار رئيس مجلس الوزراء رقم (3) لسنة 2011 بنقل مساعدي قضاة"
+type: "prime_minister_decision"
+number: "3"
+year: "2011"
+date: "2011-02-07"
+date_hijri: "04/03/1432"
+effective: "2011-02-07"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 3 لسنة 2011, p. 225"
+issuer: "general"
+identifier: "/legislations/prime-minister-decision/2011/3/general"
+source: "https://almeezan.qa/legislations/prime-minister-decision/2011/3/general"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# قرار رئيس مجلس الوزراء رقم (3) لسنة 2011 بنقل مساعدي قضاة
+
+رئيس مجلس الوزراء،
+
+بعد الاطلاع على الدستور،
+
+وعلى قانون السلطة القضائية الصادر بالقانون رقم (10) لسنة 2002،
+
+وعلى قانون إدارة الموارد البشرية الصادر بالقانون رقم (8) لسنة 2009،
+
+وبناءً على اقتراح المجلس الأعلى للقضاء،
+
+قرر ما يلي:
+
+## المواد (1-2)
+
+### مادة 1
+
+يُنقل مساعدي القضاة التالية أسمائهم، للعمل بالأمانة العامة لمجلس الوزراء بذات مخصصاتهم المالية:
+
+1- السيد/ مبارك حمد سالم سفران المري.
+
+2- السيد/ علي محمد أحمد الإبراهيم.
+
+### مادة 2
+
+على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية.
+
+حمد بن جاسم بن جبر آل ثاني — رئيس مجلس الوزراء
