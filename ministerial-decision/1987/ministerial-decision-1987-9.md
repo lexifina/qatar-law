@@ -4,10 +4,11 @@ kind: "ministerial-decision"
 number: "9"
 year: "1987"
 issued: "1987-11-25"
-effective: "1987-11-25"
-version: "as issued"
+effective: "2013-11-27"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/1987/9/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/1987/9/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1987&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزاري رقم (9) لسنة 1987 بالشروط والمواصفات والتجهيزات الصحية الواجب توافرها في العيادات الخاصة
@@ -36,7 +37,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/1987/9/general"
 
 يشترط في العيادة الطبية الخاصة الشروط والمواصفات التالية:
 (1) أن توافق اللجنة الدائمة للتراخيص على موقع العيادة عند افتتاحها.
-(2) أن تكون العيادة غير متصلة اتصالا مباشرا أو غير مباشر بأي محل آخر أو سكن.
+(2) أن تكون العيادة غير متصلة اتصالاً مباشراً أو غير مباشر بأي مسكن..
 (3) أن تكون العيادة في الدور الأرضي أو الدور الأول من المبنى ويجوز أن تكون في الأدوار العليا إذا توافرت لها المصاعد الصالحة للاستعمال.
 (4) أن يكون بالعيادة غرفتان بخلاف غرفة الكشف لا تقل مساحة كل منها عن اثنى عشر متراً، تخصص إحداهما لانتظار النساء وتخصص الأخرى لانتظار الرجال.
 (5) أن تكون لكل غرفة النوافذ (الشبابيك) اللازمة وأن تكون مغطاة بالسلك.
