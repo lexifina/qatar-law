@@ -5,10 +5,11 @@ number: "32"
 year: "2012"
 issued: "2012-08-07"
 gazette_day: "2012-09-18"
-effective: "2014-09-15"
-version: "as amended"
+effective: "2015-02-06"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2012/32/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2012/32/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2012&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار مجلس الوزراء رقم (32) لسنة 2012 بإنشاء لجنة مراقبة مخزون وأسعار المواد الأولية
@@ -68,7 +69,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2012/32/general"
 
 ## مادة 6
 
-ترفع اللجنة إلى وزير الأعمال والتجارة تقاريراً دورية بنتائج أعمالها، مشفوعة بتوصياتها ومقترحاتها.
+ترفع اللجنة إلى وزير الاقتصاد والتجارة تقاريراً دورية بنتائج أعمالها، مشفوعة بتوصياتها ومقترحاتها.
 
 ## مادة 7
 
