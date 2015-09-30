@@ -1,0 +1,46 @@
+---
+title: "قرار وزير البيئة رقم (151) لسنة 2015م بشأن تمديد حظر رعي الإبل"
+type: "ministerial_decision"
+number: "151"
+year: "2015"
+date: "2015-09-02"
+date_hijri: "18/11/1436"
+effective: "2015-09-30"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 16 لسنة 2015, p. 151"
+issuer: "environment-minister"
+identifier: "/legislations/ministerial-decision/2015/151/environment-minister"
+source: "https://almeezan.qa/legislations/ministerial-decision/2015/151/environment-minister"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# قرار وزير البيئة رقم (151) لسنة 2015م بشأن تمديد حظر رعي الإبل
+
+وزير البيئة،
+
+بعد الاطلاع على القانون رقم (32) لسنة 1995م، بشأن منع الأضرار بالبيئة النباتية ومكوناتها،
+
+وعلى القرار الوزاري رقم (29) لسنة 1996م، بشأن قرارات مجلس الوزراء التي ترفع للأمير للتصديق عليها وإصدارها،
+
+وعلى القرار الأميري رقم (16) لسنة 2014م، بتعيين اختصاصات الوزارات،
+
+وعلى قرار وزير البيئة رقم (95) لسنة 2011م، بشأن حظر رعي الإبل،
+
+وعلى قرار وزير البيئة رقم (146) لسنة 2013م، بشأن تمديد حظر رعي الإبل،
+
+وعلى اعتماد مجلس الوزراء لمشروع هذا القرار في اجتماعه العادي الخامس لعام 2011 المنعقد بتاريخ 2/2/2011م.
+
+قررنا ما يلي:
+
+## المواد (1-2)
+
+### مادة 1
+
+يتم تمديد فترة حظر رعي الإبل في جميع مناطق الدولة لمدة سنتين تبدأ من تاريخ 24/8/2015م حتى 23/8/2017م
+
+### مادة 2
+
+على جميع الجهات، كل فيما يخصه، تنفيذ هذا القرار، وينشر في الجريدة الرسمية.
+
+أحمد بن عامر بن محمد الحميدي — وزير البيئة
