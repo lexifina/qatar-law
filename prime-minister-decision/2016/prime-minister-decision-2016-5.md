@@ -1,0 +1,44 @@
+---
+title: "قرار رئيس مجلس الوزراء رقم (5) لسنة 2016 بتكليف مدير لمكتب رئيس مجلس الوزراء"
+type: "prime_minister_decision"
+number: "5"
+year: "2016"
+date: "2016-04-10"
+date_hijri: "03/07/1437"
+effective: "2016-04-10"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 5 لسنة 2016, p. 87"
+issuer: "general"
+identifier: "/legislations/prime-minister-decision/2016/5/general"
+source: "https://almeezan.qa/legislations/prime-minister-decision/2016/5/general"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# قرار رئيس مجلس الوزراء رقم (5) لسنة 2016 بتكليف مدير لمكتب رئيس مجلس الوزراء
+
+رئيس مجلس الوزراء،
+
+بعد الاطلاع على الدستور،
+
+وعلى قانون إدارة الموارد البشرية الصادر بالقانون رقم (8) لسنة 2009،
+
+وعلى القرار الأميري رقم (15) لسنة 2014 بتنظيم مجلس الوزراء، المعدل بالقرار الأميري رقم (27) لسنة 2015،
+
+وعلى قرار رئيس مجلس الوزراء رقم (11) لسنة 2008 بتنظيم مكتب رئيس مجلس الوزراء،
+
+وعلى قرار رئيس مجلس الوزراء رقم (13) لسنة 2015 بتعيين مدير مكتب الاتصال الحكومي،
+
+قرر ما يلي:
+
+## المواد (1-2)
+
+### مادة 1
+
+يُكلف سعادة الشيخ/ سيف بن أحمد بن سيف آل ثاني، بالقيام بمهام "مدير مكتب رئيس مجلس الوزراء"، بالإضافة إلى عمله "مديراً لمكتب الاتصال الحكومي".
+
+### مادة 2
+
+على جميع الجهات المختصة، كل فيما يخصه، تنفيذ هذا القرار. ويعمل به من تاريخ صدوره، وينشر في الجريدة الرسمية.
+
+عبد الله بن ناصر بن خليفة آل ثاني — رئيس مجلس الوزراء
