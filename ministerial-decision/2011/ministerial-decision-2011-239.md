@@ -5,10 +5,11 @@ number: "239"
 year: "2011"
 issued: "2011-09-20"
 gazette_day: "2012-07-15"
-effective: "2012-07-15"
-version: "as issued"
+effective: "2017-05-01"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2011/239/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2011/239/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=239&year=2011&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزير الأعمال والتجارة رقم (239) لسنة 2011 بشأن ضوابط منح تراخيص مؤقتة بفتح محال تجارية وعامة مماثلة بالمناطق السكنية
@@ -56,7 +57,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2011/239/general"
 
 ## مادة 4
 
-يجوز تجديد تراخيص المحال التجارية والعامة المماثلة الكائنة بالمناطق السكنية، القائمة وقت العمل بهذا القرار، والتي تزاول أي من الأنشطة غير تلك المنصوص عليها في المادة (1) منه، وذلك لمدة لا تزيد على سنتين غير قابلة للتجديد.
+يجوز تجديد تراخيص المحال التجارية والعامة المماثلة الكائنة بالمناطق السكنية، القائمة وقت العمل بهذا القرار، والتي تزاول أياً من الأنشطة غير المنصوص عليها في المادة (1) منه، ويكون التجديد سنوياً وبحد أقصى إلى مدة تنتهي في 31/12/2019.
 ويكون التجديد بناء على طلب يتقدم به صاحب الشأن إلى الوحدة الإدارية المختصة بالوزارة، وفقاً لأحكام هذا القرار، وذلك خلال شهر من تاريخ العمل به.
 
 ## مادة 5
