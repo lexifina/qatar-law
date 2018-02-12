@@ -5,10 +5,11 @@ number: "47"
 year: "2014"
 issued: "2014-06-18"
 gazette_day: "2014-07-07"
-effective: "2014-06-18"
-version: "as issued"
+effective: "2018-02-12"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2014/47/youth-and-sports-minister"
 source: "https://almeezan.qa/legislations/ministerial-decision/2014/47/youth-and-sports-minister"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=47&year=2014&typeCode=ministerial-decision&sourceCode=youth-and-sports-minister&culture=ar"
 ---
 
 # قرار وزير الشباب والرياضة رقم (47) لسنة 2014 بتأسيس مركز نوماس
@@ -25,7 +26,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2014/47/youth-and
 
 ## مادة 1
 
-تؤسس هيئة شبابية تسمى "مركز نوماس"، تتبع وزارة الشباب والرياضة.
+تؤسس هيئة ثقافية تسمى "مركز نوماس"، تتبع وزارة الثقافة والرياضة.
 
 ## مادة 2
 
