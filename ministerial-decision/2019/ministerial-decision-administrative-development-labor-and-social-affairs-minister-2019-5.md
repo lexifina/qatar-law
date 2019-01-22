@@ -1,0 +1,46 @@
+---
+title: "قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (5) لسنة 2019م بالموافقة على تسجيل وشهر جمعية مكافحة التدخين"
+type: "ministerial_decision"
+number: "5"
+year: "2019"
+date: "2019-01-22"
+date_hijri: "22/01/2019"
+effective: "2019-01-22"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 4 لسنة 2019, p. 98"
+issuer: "administrative-development-labor-and-social-affairs-minister"
+identifier: "/legislations/ministerial-decision/2019/5/administrative-development-labor-and-social-affairs-minister"
+source: "https://almeezan.qa/legislations/ministerial-decision/2019/5/administrative-development-labor-and-social-affairs-minister"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# قرار وزير التنمية الإدارية والعمل والشؤون الاجتماعية رقم (5) لسنة 2019م بالموافقة على تسجيل وشهر جمعية مكافحة التدخين
+
+وزير التنمية الإدارية والعمل والشؤون الاجتماعية،
+
+بعد الاطلاع على القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة والقوانين المعدلة له،
+
+وعلى القرار الأميري رقم (6) لسنة 2016 بالهيكل التنظيمي لوزارة التنمية الإدارية والعمل والشؤون الاجتماعية،
+
+وعلى قرار وزير شؤون الخدمة المدنية والإسكان رقم (2) لسنة 2005 بإصدار نماذج عقد أو وثيقة تأسيس الجمعيات والجمعيات المهنية والمؤسسات الخاصة والنظام الأساسي لكل منها.
+
+وعلى ما تم عرضه على رئيس مجلس الوزراء، بشأن الموافقة على تسجيل وشهر جمعية مكافحة التدخين (جمعية ثقافية).
+
+قرر ما يلي:
+
+## المواد (1-3)
+
+### مادة 1
+
+وُوفق على تسجيل جمعية مكافحة التدخين (جمعية ثقافية).
+
+### مادة 2
+
+تُسجل الجمعية وتُشهر وفقاً لأحكام القانون رقم (12) لسنة 2004 المشار إليه.
+
+### مادة 3
+
+على جميع الوحدات الإدارية المختصة، كل فيما يخصه، تنفيذ هذا القرار، ويُعمل به من تاريخ صدوره، ويُنشر في الجريدة الرسمية.
+
+يوسف بن محمد العثمان فخرو — وزير التنمية الإدارية والعمل والشؤون الاجتماعية
