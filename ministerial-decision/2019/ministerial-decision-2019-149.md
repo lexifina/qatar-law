@@ -1,0 +1,40 @@
+---
+title: "قرار رقم (149) لسنة 2019م بتخويل أحد موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي"
+type: "ministerial_decision"
+number: "149"
+year: "2019"
+date: "2019-10-07"
+date_hijri: "07/10/2019"
+effective: "2019-10-07"
+status: "in_force"
+gazette: "الجريدة الرسمية - العدد 21 لسنة 2019, p. 128"
+issuer: "general"
+identifier: "/legislations/ministerial-decision/2019/149/general"
+source: "https://almeezan.qa/legislations/ministerial-decision/2019/149/general"
+source_copy: "https://github.com/LawCodex/qa (commit 7176055b002b, retrieved 2026-10-13 from api.moj.gov.qa): third-party copy of almeezan.qa (Al Meezan, Qatar Legal Portal, Ministry of Justice)"
+source_copy_status: "third-party copy (unofficial); verification against the official source almeezan.qa pending"
+---
+
+# قرار رقم (149) لسنة 2019م بتخويل أحد موظفي وزارة التجارة والصناعة صفة مأموري الضبط القضائي
+
+النائب العام،
+
+بعد الإطلاع على القانون رقم (23) لسنة 2004م بإصدار قانون الإجراءات الجنائية وتعديلاته وبخاصة على المادة رقم (27) منه،
+
+وعلى القانون رقم (5) لسنة 2015م بشأن المحال التجارية والصناعية والعامة المماثلة والباعة المتجولين وتعديلاته،
+
+وعلى إقتراح وزير التجارة والصناعة،
+
+قرر الآتي:-
+
+## المواد (1-2)
+
+### مادة 1
+
+يكون لموظف وزارة التجارة والصناعة المدعو / تويم تركي تويم الحنيتم المري (باحث شؤون إدارية ثاني)، صفة مأموري الضبط القضائي، في ضبط وإثبات الجرائم التي تقع بالمُخالفة لأحكام القانون المُشار إليه والقرارات المُنفذة له.
+
+### مادة 2
+
+على جميع الجهات المُختصة كُلٍ فيما يَخُصه، تَنفيذ هذا القرار، ويُعمل بهِ من تاريخ صدوره، ويُنشر في الجريدة الرسمية.
+
+د. علي بن فطيس المري — النائب العام
