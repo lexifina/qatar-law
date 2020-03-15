@@ -5,10 +5,11 @@ number: "351"
 year: "2018"
 issued: "2018-12-09"
 gazette_day: "2018-12-31"
-effective: "2019-01-01"
-version: "as issued"
+effective: "2020-03-15"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2018/351/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2018/351/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=351&year=2018&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزاري رقم (351) لسنة 2018 بتنظيم بيع وتوزيع المواصفات القياسية واللوائح الفنية والمطبوعات والنشرات المتعلقة بها
@@ -39,7 +40,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2018/351/general"
 
 ## مادة 4
 
-يجوز بموافقة الوزير، بناءً على عرض رئيس الهيئة العامة القطرية للمواصفات والتقييس، تزويد الوزارات والأجهزة الحكومية الأخرى والأجهزة العربية والأجنبية والدولية العاملة في مجال المواصفات والتقييس، بنسخ مجانية من المواصفات القياسية واللوائح الفنية القطرية والمطبوعات والنشرات المتعلقة بهما.
+يجوز بموافقة رئيس الهيئة العامة القطرية للمواصفات والتقييس، بناءً على عرض مدير إدارة المواصفات والمقاييس، تزويد الوزارات والأجهزة الحكومية الأخرى والأجهزة العربية والأجنبية والدولية العاملة في مجال المواصفات والتقييس، بنسخ مجانية من المواصفات القياسية واللوائح الفنية القطرية والمطبوعات والنشرات المتعلقة بهما
 
 ## مادة 5
 
