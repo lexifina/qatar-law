@@ -1,9 +1,9 @@
 ---
 court: "Qatar International Court (QICDRC), First Instance Circuit"
 citation: "[2020] QIC (F) 17"
-date: "2020-11-29"
-source: "https://www.qicdrc.gov.qa/judgments/case-no-3-2020-2020-qic-f-17"
-pdf: "https://www.qicdrc.gov.qa/sites/default/files/2021-12/case_no_3_of_2020_judgment_29_nov_2020.pdf"
+date: "2020-12-14"
+source: "https://www.qicdrc.gov.qa/judgments/case-no-ctfic00112020-2020-qic-f-17"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2021-12/case_no_ctfic00112020_judgment_14_december_2020_ar.pdf"
 ---
 
 # [2020] QIC (F) 17
