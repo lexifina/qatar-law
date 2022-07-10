@@ -1,9 +1,9 @@
 ---
 court: "Qatar International Court (QICDRC), First Instance Circuit"
 citation: "[2022] QIC (F) 11"
-date: "2022-05-26"
-source: "https://www.qicdrc.gov.qa/judgments/case-no-ctfic00242021-2022-qic-f-11"
-pdf: "https://www.qicdrc.gov.qa/sites/default/files/2022-06/CTFIC00242021_%20Judgment_%2026%20May%202022_AR.pdf"
+date: "2022-07-10"
+source: "https://www.qicdrc.gov.qa/judgments/case-no-ctfic00082022-2022-qic-f-11"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2022-07/Foodino%20Trading%20QFZ%20LLC%20v%20Neptune%3B%20Judgment%3B%2010%20July%202022_AR.pdf"
 ---
 
 # [2022] QIC (F) 11
