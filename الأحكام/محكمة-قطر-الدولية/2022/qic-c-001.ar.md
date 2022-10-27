@@ -1,9 +1,9 @@
 ---
 court: "Qatar International Court (QICDRC), Civil and Commercial Court"
 citation: "[2022] QIC (C) 1"
-date: "2022-06-26"
-source: "https://www.qicdrc.gov.qa/judgments/case-no-11-2019-2022-qic-c-1"
-pdf: "https://www.qicdrc.gov.qa/sites/default/files/2022-07/QFCRA%20v%20FAB-%20Judgment%20%28interest%29%2026%20June%202022_ARA.pdf"
+date: "2022-10-27"
+source: "https://www.qicdrc.gov.qa/judgments/ctfic00192021-fadi-sabsabi-v-devisers-advisory-services-llc"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2022-11/CTFIC00192021_%20Costs%20Assessment_%2027%20October%202022_AR.pdf"
 ---
 
 # [2022] QIC (C) 1
