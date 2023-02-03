@@ -5,10 +5,11 @@ number: "37"
 year: "2016"
 issued: "2016-08-10"
 gazette_day: "2016-10-26"
-effective: "2016-10-27"
-version: "as issued"
+effective: "2023-02-03"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2016/37/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2016/37/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2016&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزير الداخلية رقم (37) لسنة 2016 بتحديد المعدات والأجهزة والمواد الخاصة بالدفاع المدني
@@ -23,7 +24,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2016/37/general"
 
 ## مادة 1
 
-تُحدد المعدات والأجهزة والمواد الخاصة بالدفاع المدني، المحظور استيرادها والاتجار فيها، دون موافقة الإدارة العامة للدفاع المدني، وفقاً للقائمة المرفقة بهذا القرار.
+تُستبدل القائمة المرفقة بهذا القرار بالقائمة المرفقة بالقرار رقم (37) لسنة 2016 المشار إليه.
 
 ## مادة 2
 
