@@ -5,10 +5,11 @@ number: "47"
 year: "2015"
 issued: "2015-03-11"
 gazette_day: "2015-04-22"
-effective: "2015-03-11"
-version: "as issued"
+effective: "2024-04-29"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2015/47/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2015/47/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=47&year=2015&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزير الشباب والرياضة رقم (47) لسنة 2015 بإنشاء الاتحاد القطري للرياضة للجميع
@@ -44,16 +45,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2015/47/general"
 
 ## مادة 4
 
-يُشكل مجلس إدارة الاتحاد برئاسة ممثل عن وزارة الشباب والرياضة، وعضوية ممثلين عن كل من الجهات التالية:-
-1- وزارة الداخلية
-2- وزارة التعليم والتعليم والعالي
-3- وزارة الصحة العامة
-4- وزارة البلدية والتخطيط العمراني
-5- وزارة المواصلات
-6- مؤسسة اسباير زون
-7- اللجنة الأولمبية القطرية
-ويصدر بتسمية رئيس وأعضاء الاتحاد. بعد التنسيق مع الجهات المشار إليها، قرار من وزير الشباب والرياضة.
-وتكون مدة العضوية في مجلس الإدارة أربع سنوات قابلة للتجديد لمدة، أو مدد أخرى مماثلة.
+يصدر بتعيين إدارة الاتحاد من قرار وزير الرياضة والشباب، وتكون مدة العضوية في إدارة الاتحاد أربع سنوات قابلة للتجديد، لمدة، أو مُدد أخرى مماثلة
 
 ## مادة 5
 
