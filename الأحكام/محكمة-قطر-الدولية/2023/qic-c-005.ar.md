@@ -1,9 +1,9 @@
 ---
 court: "Qatar International Court (QICDRC), Civil and Commercial Court"
 citation: "[2023] QIC (C) 5"
-date: "2023-07-03"
-source: "https://www.qicdrc.gov.qa/judgments/ctfic00232021-0"
-pdf: "https://www.qicdrc.gov.qa/sites/default/files/2023-07/Stephen%20Ferris%20v%20Sanguine%20Investment%20Managers%20LLC%20and%20Christopher%20John%20Leach%20-%20Sealed%20Costs%20Judgment%20-%203%20July%202023%20-%20Arabic.pdf"
+date: "2024-08-08"
+source: "https://www.qicdrc.gov.qa/judgments/ctfic00592023-0"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2024-08/Eversheds%20Sutherland%20%28International%29%20LLP%20v%20Harinsa%20Contracting%20Company%20%28Qatar%29%20WLL%20-%20Sealed%20Costs%20Judgment%20-%208%20August%202024%20-%20Arabic.pdf"
 ---
 
 # [2023] QIC (C) 5
