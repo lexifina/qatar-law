@@ -5,10 +5,11 @@ number: "95"
 year: "2024"
 issued: "2024-09-01"
 gazette_day: "2024-10-17"
-effective: "2024-09-01"
-version: "as issued"
+effective: "2024-12-22"
+version: "today's text of an amended instrument"
 identifier: "/legislations/ministerial-decision/2024/95/general"
 source: "https://almeezan.qa/legislations/ministerial-decision/2024/95/general"
+api: "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=95&year=2024&typeCode=ministerial-decision&sourceCode=general&culture=ar"
 ---
 
 # قرار وزير العدل رقم (95) لسنة 2024 بإعادة تسمية رئيس وأعضاء لجنة شؤون الخبراء
@@ -25,7 +26,7 @@ source: "https://almeezan.qa/legislations/ministerial-decision/2024/95/general"
 ## مادة 1
 
 يُسمى رئيس وأعضاء لجنة شؤون الخبراء المنصوص عليها في المادة (3) من القانون رقم (16) لسنة 2017 المشار إليه، على النحو التالي:
-1 - السيد/ سعيد عبد الله السويدي ممثلًا عن وزارة العدل رئيساً
+1 - السيد/علي محمد اليافعي ممثلًا عن وزارة العدل رئيساً
 2 - الدكتور/ منصور ناصر القحطاني ممثلًا عن المجلس الأعلى للقضاء عضواً
 3 - السيد/ صالح علي الكبيسي ممثلًا عن النيابة العامة عضواً
 4 - السيد/ عبد الله محمد أبو شهاب ممثلًا عن وزارة العدل عضواً
