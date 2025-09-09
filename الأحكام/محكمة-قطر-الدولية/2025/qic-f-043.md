@@ -1,0 +1,35 @@
+---
+court: "Qatar International Court (QICDRC), First Instance Circuit"
+citation: "[2025] QIC (F) 43"
+date: "2025-09-09"
+source: "https://www.qicdrc.gov.qa/judgments/ctfic00212025-1"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2025-09/Parley%20Parsons%20LLC%20v%20Structurel%20Facility%20Management%20Contracting%20W.L.L.%20-%20Sealed%20Judgment%20-%209%20September%202025.pdf"
+---
+
+# [2025] QIC (F) 43
+
+In the name of His Highness Sheikh Tamim bin Hamad Al Thani, Emir of the State of Qatar
+Neutral Citation: [2025] QIC (F) 43 IN THE QATAR FINANCIAL CENTRE CIVIL AND COMMERCIAL COURT FIRST INSTANCE CIRCUIT
+
+Date: 9 September 2025
+
+CASE NO: CTFIC0021/2025
+
+PARLEY PARSONS LLC v
+
+Claimant
+
+STRUCTUREL FACILITY MANAGEMENT & CONTRACTING W.L.L Defendant
+
+JUDGMENT
+Before: Justice Fritz Brand
+
+QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QIC
+
+1. On 4 June 2025, I issued a judgment in this matter (Parley Parsons LLC v Structurel Facility Management & Contracting W.L.L [2025] QIC (F) 26) in which the Claimant was awarded QAR 35,000, plus interest on the said amount calculated at the rate of 5% per annum from 7 July 2022 to the date of payment.
+2. The purpose of this judgment is to clarify the precise amount that is owed in interest on the above-mentioned sum, in order that the Claimant may pursue enforcement proceedings in respect of the judgment debt in this matter.
+3. In calculating the amount of interest on the sum of QAR 35,000 at the rate of 5% per annum from 7 July 2022 to the date of this judgment, the total amount that is owed in interest is QAR 5,566.41. By the Court,
+[signed] Justice Fritz Brand A signed copy of this Judgment has been filed with the Registry.
+Representation The Claimant was represented by Ms Almas Lokhandwala of Maniar Law PLLC (Austin, Texas, USA). The Defendant did not appear and was not represented.
+2
+QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QIC
