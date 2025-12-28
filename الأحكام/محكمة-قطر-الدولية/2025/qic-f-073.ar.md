@@ -1,0 +1,42 @@
+---
+court: "Qatar International Court (QICDRC), First Instance Circuit"
+citation: "[2025] QIC (F) 73"
+date: "2025-12-28"
+source: "https://www.qicdrc.gov.qa/judgments/ctfic00662025"
+pdf: "https://www.qicdrc.gov.qa/sites/default/files/2025-12/Rathmore%20Consulting%20LLC%20vs%20Gulf%20GRC%20%26%20Trading%20Co%20W.L.L.%20-%20Sealed%20Judgment%20-%2028%20December%202025%20-%20Arabic.pdf"
+---
+
+# [2025] QIC (F) 73
+
+[2025] QIC (F) 73 :الرقم المرجعي
+
+،باسم صاحب السمو الشيخ تميم بن حمد آل ثاني أمير دولة قطر
+لدى مركز قطر للمال المحكمة المدنية والتجارية
+الدائرة الابتدائية
+
+2025  ديسمبر28 :التاريخ
+
+CTFIC0066/2025 :القضية رقم
+
+ال ُم ّدعي
+
+م.م.راثمور كونسلتينج ذ
+
+ضد
+
+ال ُم ّدعى عليھا
+
+سي والتجارة.ار.شركة الخليج جي
+
+ال ُحكم
+:ھيئة المحكمة القاضي فريتز براند
+
+QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QIC
+
+بعد الاطلاع على إتفاقية التسوية الموقعة بين الطرفين بتاريخ  21ديسمبر  ،2025والتي تم تزويد المحكمة بنسخة منھا.
+وحيث أن الطرفين قد إتفقا على الشروط الواردة في إتفاقية التسوية. فلھذه الأسباب تقرر المحكمة ما يلي:
+ .1يُوقف السير في جميع الإجراءات المتبقية في ھذه الدعوى بإستثناء ما يلزم لتنفيذ بنود إتفاقية التسوية.  .2للطرفين الحق في التقدم بطلب إلى المحكمة عند الحاجة. صدر عن المحكمة،
+]توقيع[ القاضي فريتز براند تم إيداع نسخة مو ّقعة من ھذا ال ُحكم لدى قلم المحكمة.
+التمثيل القانوني مثل المدعي بالأصالة عن نفسھ. مثل المدعي عليھا بالأصالة عن نفسھا.
+2
+QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QICDRC 2025QIC
