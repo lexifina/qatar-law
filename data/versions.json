@@ -1,0 +1,95 @@
+{
+ "country": "QA",
+ "acts": [
+  {
+   "slug": "dustur",
+   "short": "الدستور",
+   "title": "إصدار الدستور الدائم لدولة قطر",
+   "url": "https://almeezan.qa/legislations/constitution/2004/0/general",
+   "versions": [
+    {
+     "from": "2005-06-09",
+     "units": 151,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/8e6147cb-a8a8-4378-b59f-6f85d59b83f3",
+     "sha256": "6c953fbf5a576faef834b4606048e77f03953effc0214fe90bd97e9d2f408a63"
+    },
+    {
+     "from": "2024-11-06",
+     "units": 149,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/8e6147cb-a8a8-4378-b59f-6f85d59b83f3",
+     "sha256": "6c953fbf5a576faef834b4606048e77f03953effc0214fe90bd97e9d2f408a63"
+    }
+   ]
+  },
+  {
+   "slug": "qanun-al-uqubat",
+   "short": "قانون العقوبات",
+   "title": "قانون رقم (11) لسنة 2004 بإصدار قانون العقوبات",
+   "url": "https://almeezan.qa/legislations/law/2004/11/general",
+   "versions": [
+    {
+     "from": "2004-06-14",
+     "units": 402,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2006-11-10",
+     "units": 402,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2010-02-21",
+     "units": 405,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2010-07-30",
+     "units": 406,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2016-01-13",
+     "units": 411,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2017-04-30",
+     "units": 411,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2020-01-20",
+     "units": 419,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    },
+    {
+     "from": "2024-11-17",
+     "units": 421,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=law&sourceCode=general",
+     "sha256": "33d9812f9894046631ec8f9eaa8cde47b90e7b1eebb06d323900b55b062ae694"
+    }
+   ]
+  },
+  {
+   "slug": "himayat-al-bayanat-al-shakhsiya",
+   "short": "قانون حماية خصوصية البيانات الشخصية",
+   "title": "قانون رقم (13) لسنة 2016 بشأن حماية خصوصية البيانات الشخصية",
+   "url": "https://almeezan.qa/legislations/law/2016/13/general",
+   "versions": [
+    {
+     "from": "2017-01-29",
+     "units": 33,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2016&typeCode=law&sourceCode=general",
+     "sha256": "2957c5a2201af4600ccc5a47e2d9a6514ee3700dc590bdabc8cee0507f6a99b6"
+    }
+   ]
+  }
+ ]
+}

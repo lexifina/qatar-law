@@ -1,0 +1,5 @@
+[
+ {"slug": "dustur", "short": "الدستور", "id": "8e6147cb-a8a8-4378-b59f-6f85d59b83f3", "type": "constitution", "year": 2004, "number": 0},
+ {"slug": "qanun-al-uqubat", "short": "قانون العقوبات", "type": "law", "year": 2004, "number": 11},
+ {"slug": "himayat-al-bayanat-al-shakhsiya", "short": "قانون حماية خصوصية البيانات الشخصية", "type": "law", "year": 2016, "number": 13}
+]
