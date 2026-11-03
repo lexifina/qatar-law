@@ -525,6 +525,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-2015-18` | قانون رقم (18) لسنة 2015 بتنظيم مزاولة الخدمات التعليمية | 1 | 2015-12-10 to 2015-12-10 |
 | `law-2015-19` | قانون رقم (19) لسنة 2015 بإصدار النظام الموحد بشأن المواد المستنفدة لطبقة الأوزون لدول مجلس التعاون لدول الخليج العربية | 1 | 2015-12-10 to 2015-12-10 |
 | `law-2015-20` | قانون رقم (20) لسنة 2015 بتعديل بعض أحكام القانون رقم (26) لسنة 2008 بشأن ترشيد استهلاك الكهرباء والماء | 1 | 2015-12-10 to 2015-12-10 |
+| `law-2015-21` | قانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم | 1 | 2016-12-13 to 2016-12-13 |
 | `law-2015-22` | قانون رقم (22) لسنة 2015 بتعديل بعض أحكام قانون العقوبات الصادر بالقانون رقم (11) لسنة 2004 | 1 | 2016-01-13 to 2016-01-13 |
 | `law-2015-23` | قانون رقم (23) لسنة 2015 بتنظيم المدارس الخاصة | 1 | 2016-01-13 to 2016-01-13 |
 | `law-2015-25` | قانون رقم (25) لسنة 2015 بشأن الدفاع المدني | 1 | 2016-01-31 to 2016-01-31 |
@@ -578,6 +579,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-2018-12` | قانون رقم (12) لسنة 2018 بتعديل بعض أحكام القانون رقم (1) لسنة 2016 بتنظيم الأندية الرياضية | 1 | 2018-09-04 to 2018-09-04 |
 | `law-2018-13` | قانون رقم (13) لسنة 2018 بتعديل بعض أحكام القانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم | 1 | 2018-10-24 to 2018-10-24 |
 | `law-2018-15` | قانون رقم (15) لسنة 2018 بتعديل بعض أحكام القانون رقم (15) لسنة 2002 بشأن الطيران المدني | 1 | 2018-10-24 to 2018-10-24 |
+| `law-2018-16` | قانون رقم (16) لسنة 2018 بشأن تنظيم تملك غير القطريين للعقارات والانتفاع بها | 1 | 2018-12-19 to 2018-12-19 |
 | `law-2018-17` | قانون رقم (17) لسنة 2018 بإنشاء صندوق دعم وتأمين العمال | 1 | 2018-12-19 to 2018-12-19 |
 | `law-2018-20` | قانون رقم (20) لسنة 2018 بشأن تنظيم السياحة | 1 | 2019-01-12 to 2019-01-12 |
 | `law-2018-21` | قانون رقم (21) لسنة 2018 بشأن تنظيم فعاليات الأعمال | 1 | 2019-01-12 to 2019-01-12 |
@@ -629,6 +631,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-2021-2` | قانون رقم (2) لسنة 2021 بتنظيم تحصيل مقابل استهلاك التيار الكهربائي والماء | 1 | 2021-06-26 to 2021-06-26 |
 | `law-2021-4` | قانون رقم (4) لسنة 2021 بتعديل بعض أحكام القانون رقم (5) اسنة 2015 بشأن المحال التجارية والصناعية والعامة المماثلة والباعة المتجولين | 1 | 2021-08-04 to 2021-08-04 |
 | `law-2021-5` | قانون رقم (5) لسنة 2021 بتعديل بعض أحكام القانون رقم (4) لسنة 2007 إصدار النظام الموحد لمدّ الحماية التأمينية لمواطني دول مجلس التعاون لدول الخليج العربية العاملين في غير دولهم في أيّ دولة عضو في المجلس | 1 | 2021-08-04 to 2021-08-04 |
+| `law-2021-7` | قانون رقم (7) لسنة 2021 بشأن مجلس الشورى | 1 | 2021-07-29 to 2021-07-29 |
 | `law-2021-8` | قانون رقم (8) لسنة 2021 بتعديل بعض أحكام قانون الشركات التجارية الصادر بالقانون رقم (11) لسنة 2015 | 1 | 2021-09-08 to 2021-09-08 |
 | `law-2021-9` | قانون رقم (9) لسنة 2021 بشأن الوقف | 1 | 2021-08-09 to 2021-08-09 |
 | `law-2021-10` | قانون رقم (10) لسنة 2021 بشأن تدابير استضافة كأس العالم فيفا قطر 2022 | 1 | 2021-09-08 to 2021-09-08 |
@@ -720,19 +723,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-2026-12` | قانون رقم (12) لسنة 2026 بشأن الصحة الحيوانية | 1 | 2026-09-02 to 2026-09-02 |
 | `law-2026-13` | قانون رقم (13) لسنة 2026 بتعديل بعض أحكام القانون رقم (22) لسنة 2017 بتنظيم أعمال الوساطة العقارية | 1 | 2026-09-02 to 2026-09-02 |
 
-The build made 712 commits:
+The build made 715 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 704 | first version of an act |
+| 707 | first version of an act |
 | 8 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 14 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 705 laws in the record.
-- 1312 tags.
+- 708 laws in the record.
+- 1315 tags.
 
 ## Dates
 
@@ -744,7 +747,7 @@ When a law gives no date of its own, the default rule applies: Constitution art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e4ecce94ae4a06a7019510affc9c3be06a484c5378a8c2e64be5cfef13e55bd5` (11577617 bytes).
+- Corpus: sha256 `7551a3bc710cdff55b72fe77756d8fca4b16db91f797760a9345aca888ade8a0` (11642505 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1287,6 +1290,7 @@ No second build of this corpus has been compared yet.
 - law-2015-18: current text (amended act), dated by the act's own in-force day 2015-12-10 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2015-19: in force 2015-12-10 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2015-20: in force 2015-12-10 by no own rule: Constitution art. 142, one month after the Official Gazette date.
+- law-2015-21: current text (amended act), dated by the act's own in-force day 2016-12-13 by its own rule, "ويُعمل به بعد سنة من تاريخ نشره في الجريدة الرسمية": the Official Gazette date plus سنة.
 - law-2015-22: in force 2016-01-13 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2015-23: current text (amended act), dated by the act's own in-force day 2016-01-13 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2015-25: current text (amended act), dated by the act's own in-force day 2016-01-31 by no own rule: Constitution art. 142, one month after the Official Gazette date.
@@ -1340,6 +1344,7 @@ No second build of this corpus has been compared yet.
 - law-2018-12: in force 2018-09-04 by in-force rule "يُعمل به خلال ستة أشهر من تاريخ إخطار صاحب الشأن به" not computable from the record (Official Gazette date 2018-10-21); dated by its issue day.
 - law-2018-13: in force 2018-10-24 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
 - law-2018-15: in force 2018-10-24 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- law-2018-16: current text (amended act), dated by the act's own in-force day 2018-12-19 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2018-17: in force 2018-12-19 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2018-20: current text (amended act), dated by the act's own in-force day 2019-01-12 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2018-21: current text (amended act), dated by the act's own in-force day 2019-01-12 by no own rule: Constitution art. 142, one month after the Official Gazette date.
@@ -1391,6 +1396,7 @@ No second build of this corpus has been compared yet.
 - law-2021-2: in force 2021-06-26 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2021-4: in force 2021-08-04 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2021-5: in force 2021-08-04 by no own rule: Constitution art. 142, one month after the Official Gazette date.
+- law-2021-7: current text (amended act), dated by the act's own in-force day 2021-07-29 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
 - law-2021-8: in force 2021-09-08 by no own rule: Constitution art. 142, one month after the Official Gazette date.
 - law-2021-9: in force 2021-08-09 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
 - law-2021-10: in force 2021-09-08 by no own rule: Constitution art. 142, one month after the Official Gazette date.
@@ -1498,6 +1504,7 @@ No second build of this corpus has been compared yet.
 - Open problem: law-2023-8: duplicate unit art-001
 - Open problem: law-2023-9: duplicate unit art-001
 - Open problem: law-2023-15: duplicate unit art-001
+- Open problem: law-2024-4: duplicate unit art-002
 - Open problem: law-2024-8: duplicate unit art-001
 - Open problem: law-2024-18: duplicate unit art-001
 - Open problem: law-2026-20: duplicate unit art-003

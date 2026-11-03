@@ -7190,6 +7190,20 @@
    ]
   },
   {
+   "slug": "law-2015-21",
+   "short": "القانون رقم (21) لسنة 2015",
+   "title": "قانون رقم (21) لسنة 2015 بتنظيم دخول وخروج الوافدين وإقامتهم",
+   "url": "https://almeezan.qa/legislations/law/2015/21/general",
+   "versions": [
+    {
+     "from": "2016-12-13",
+     "units": 50,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2015&typeCode=law&sourceCode=general",
+     "sha256": "fb461e0f8f90f3362fcbcb49cc2814efdaea00b796014ae8781d75d9f67d8163"
+    }
+   ]
+  },
+  {
    "slug": "law-2015-22",
    "short": "القانون رقم (22) لسنة 2015",
    "title": "قانون رقم (22) لسنة 2015 بتعديل بعض أحكام قانون العقوبات الصادر بالقانون رقم (11) لسنة 2004",
@@ -7932,6 +7946,20 @@
    ]
   },
   {
+   "slug": "law-2018-16",
+   "short": "القانون رقم (16) لسنة 2018",
+   "title": "قانون رقم (16) لسنة 2018 بشأن تنظيم تملك غير القطريين للعقارات والانتفاع بها",
+   "url": "https://almeezan.qa/legislations/law/2018/16/general",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2018&typeCode=law&sourceCode=general",
+     "sha256": "fb5aa3213fdb036ebfc1f5a1c569dfd8ada1e09e4bf69c38af9dbbd6ef564718"
+    }
+   ]
+  },
+  {
    "slug": "law-2018-17",
    "short": "القانون رقم (17) لسنة 2018",
    "title": "قانون رقم (17) لسنة 2018 بإنشاء صندوق دعم وتأمين العمال",
@@ -8642,6 +8670,20 @@
      "units": 3,
      "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2021&typeCode=law&sourceCode=general",
      "sha256": "4626878a2d1f9bb107165ce59f85708602361a669413252477526312525cd3ee"
+    }
+   ]
+  },
+  {
+   "slug": "law-2021-7",
+   "short": "القانون رقم (7) لسنة 2021",
+   "title": "قانون رقم (7) لسنة 2021 بشأن مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/law/2021/7/general",
+   "versions": [
+    {
+     "from": "2021-07-29",
+     "units": 34,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2021&typeCode=law&sourceCode=general",
+     "sha256": "63502a471d5ff17139ebf5490c184744a02b77a78b6fbe6c7331110f8e838f49"
     }
    ]
   },
