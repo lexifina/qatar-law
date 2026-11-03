@@ -4,7 +4,11 @@ The law of Qatar as a git history: one file per provision, one commit per law on
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (a first build, not complete)**
+**What is in it now**
+
+Three acts with their full dated history, and (from November 2026) every other constitution, law and decree-law that Al Meezan marks in force (قيد التطبيق), each in its own folder named `<type>-<year>-<number>/` (for example `law-2016-13/`, `decree-law-1995-24/`). `data/versions.json` lists them all.
+
+The three acts with full history:
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -16,9 +20,11 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 **Source.** The texts are from [Al Meezan](https://almeezan.qa), the legal portal of the Ministry of Justice of Qatar, through the public JSON API behind it. Each article's dated history chain on Al Meezan names the amending law; changes are credited only to the law it names.
 
+**The other acts.** An act whose articles Al Meezan shows no amendment, addition or repeal for is recorded as enacted, credited to itself. An act Al Meezan shows as amended is recorded as Al Meezan's current text: one version, the oldest version available, credited to the publisher, dated by the act's own in-force day, with repealed articles left out. Its dated history (the original wording and each amending law) is not yet recorded; it will be added on top, never by rewriting.
+
 ## Dates
 
-Each commit is dated by the day the change took effect: the law's own in-force clause where it has one, otherwise one month after publication in the Official Gazette (Constitution art. 142). The six Penal Code amendments that only say "shall be published in the Official Gazette" take effect on that default. The 2024 constitutional amendments took effect on the announcement of the referendum result (6 November 2024).
+Each commit is dated by the day the change took effect: the law's own in-force clause where it has one, otherwise one month after publication in the Official Gazette (Constitution art. 142). For many older laws Al Meezan records only the year of the Official Gazette issue; where the law takes effect on publication, or the record has no in-force rule, those laws are dated by the day they were issued. Each act's rule is listed in REPRODUCE.md. The six Penal Code amendments that only say "shall be published in the Official Gazette" take effect on that default. The 2024 constitutional amendments took effect on the announcement of the referendum result (6 November 2024).
 
 ## How it is checked
 
@@ -30,4 +36,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-Only three acts are here so far. Part and chapter headings are not files. Al Meezan's record of the draft 2024 constitutional amendments is credited to the amendments as issued. Al Meezan's English texts are partial and unofficial and were not used.
+Only constitutions, laws and decree-laws are here: decrees, Amiri decisions, ministerial and cabinet decisions are not. Amended acts other than the three above have no dated history yet, so their one version reads as in force from the act's own start although its text is today's. Part and chapter headings are not files. Al Meezan's record of the draft 2024 constitutional amendments is credited to the amendments as issued. Al Meezan's English texts are partial and unofficial and were not used.
