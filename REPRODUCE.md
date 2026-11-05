@@ -1,6 +1,6 @@
 # How this repository was made (Qatar)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -8,6 +8,7 @@ This file is written by the build on 2026-11-03, the day the source data was ret
 | --- | --- | --- | --- |
 | Al Meezan, Qatar Legal Portal (Ministry of Justice) | <https://almeezan.qa> | 2026-10-28 | Official texts published by the Ministry of Justice of Qatar, credited to Al Meezan. The portal states no licence; see the README on copyright in official texts. |
 | Al Meezan, Qatar Legal Portal (Ministry of Justice) | <https://almeezan.qa> | 2026-11-03 | Official texts published by the Ministry of Justice of Qatar, credited to Al Meezan. See the README on copyright in official texts. |
+| Al Meezan, Qatar Legal Portal (Ministry of Justice) | <https://almeezan.qa> | 2026-11-05 | Official texts published by the Ministry of Justice of Qatar, credited to Al Meezan. See the README on copyright in official texts. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -722,20 +723,127 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `law-2026-11` | قانون رقم (11) لسنة 2026 بشأن اتحاد الملاك | 1 | 2026-10-17 to 2026-10-17 |
 | `law-2026-12` | قانون رقم (12) لسنة 2026 بشأن الصحة الحيوانية | 1 | 2026-09-02 to 2026-09-02 |
 | `law-2026-13` | قانون رقم (13) لسنة 2026 بتعديل بعض أحكام القانون رقم (22) لسنة 2017 بتنظيم أعمال الوساطة العقارية | 1 | 2026-09-02 to 2026-09-02 |
+| `cabinet-decision-2026-1` | قرار مجلس الوزراء رقم (1) لسنة 2026 بتنظيم إجراءات مباشرة الدعاوى المتعلقة بالجهات الحكومية | 1 | 2026-02-02 to 2026-02-02 |
+| `cabinet-decision-2026-2` | قرار مجلس الوزراء رقم (2) لسنة 2026 بإصدار ضوابط تطبيق الضريبة الدنيا العالمية والمحلية | 1 | 2026-02-12 to 2026-02-12 |
+| `cabinet-decision-2026-3` | قرار مجلس الوزراء رقم (3) لسنة 2026 بشأن الميزة الضريبية المرتبطة بالأرباح الرأسمالية الناشئة عن إعادة الهيكلة للشركات | 1 | 2026-03-02 to 2026-03-02 |
+| `cabinet-decision-2026-4` | قرار مجلس الوزراء رقم (4) لسنة 2026 بتعديل بعض أحكام اللائحة التنفيذية لقانون الضريبة على الدخل الصادرة بقرار مجلس الوزراء رقم (39) لسنة 2019 | 1 | 2026-03-16 to 2026-03-16 |
+| `cabinet-decision-2026-5` | قرار مجلس الوزراء رقم (5) لسنة 2026 بتحديد بعض المناطق السياحية في الدولة | 1 | 2026-02-13 to 2026-02-13 |
+| `cabinet-decision-2026-6` | قرار مجلس الوزراء رقم (6) لسنة 2026 بتعديل بعض أحكام القرار رقم (17) لسنة 2014 بإنشاء اللجنة الوطنية لشؤون المتفجرات | 1 | 2026-01-29 to 2026-01-29 |
+| `cabinet-decision-2026-7` | قرار مجلس الوزراء رقم (7) لسنة 2026 بتعديل بعض أحكام القرار رقم (1) لسنة 2023 بإنشاء اللجنـة الفنيـة لدراسة رسوم الخدمات التي تؤديها الجهات الحكومية وتحديد اختصاصاتها | 1 | 2026-01-29 to 2026-01-29 |
+| `cabinet-decision-2026-9` | قرار مجلس الوزراء رقم (9) لسنة 2026 بتنظيم لجنة تراخيص المجسمات والنصب التذكارية | 1 | 2026-01-29 to 2026-01-29 |
+| `cabinet-decision-2026-10` | قرار مجلس الوزراء رقم (10) لسنة 2026 بمنح بدل مظهر للمُطلين على الشاشة بالمؤسسة القطرية للإعلام | 1 | 2026-03-24 to 2026-03-24 |
+| `cabinet-decision-2026-11` | قرار مجلس الوزراء رقم (11) لسنة 2026 بإعفاء بعض المواد التي تستوردها الجهات العسكرية من الرسوم الجمركية | 1 | 2026-03-24 to 2026-03-24 |
+| `cabinet-decision-2026-13` | قرار مجلس الوزراء رقم (13) لسنة 2026 بشأن اللجنة الوطنية لأخلاقيات البحث الصحي  | 1 | 2026-05-08 to 2026-05-08 |
+| `cabinet-decision-2026-14` | قرار مجلس الوزراء رقم (14) لسنة 2026 بشأن لجنة مراقبة البحث الصحي | 1 | 2026-05-08 to 2026-05-08 |
+| `cabinet-decision-2026-15` | قرار مجلس الوزراء رقم (15) لسنة 2026 بإنشاء اللجنة التوجيهية لمشروع مخطط قطر | 1 | 2026-04-08 to 2026-04-08 |
+| `cabinet-decision-2026-16` | قرار مجلس الوزراء رقم (16) لسنة 2026 بتعديل بعض أحكام القرار رقم (12) لسنة 2024 بإنشاء اللجنة الدائمة لإدارة دخول الزوار لدولة قطر (منصة هيا) | 1 | 2026-05-08 to 2026-05-08 |
+| `cabinet-decision-2026-17` | قرار مجلس الوزراء رقم (17) لسنة 2026 بإنشاء لجنة استضافة مؤتمر المندوبين المفوضين للاتحاد الدولي للاتصالات 2026 (PP-26) | 1 | 2026-04-13 to 2026-04-13 |
+| `cabinet-decision-2026-19` | قرار مجلس الوزراء رقم (19) لسنة 2026 بإلغاء بعض القرارات | 1 | 2026-06-08 to 2026-06-08 |
+| `cabinet-decision-2026-20` | قرار مجلس الوزراء رقم (20) لسنة 2026 بتعديل بعض أحكام القرار رقم (27) لسنة 2012 بإنشاء اللجنة الوطنية للقانون الدولي الإنساني | 1 | 2026-05-14 to 2026-05-14 |
+| `cabinet-decision-2026-22` | قرار مجلس الوزراء رقم (22) لسنة 2026 بإصدار اللائحة الداخلية لمجلس الوزراء | 1 | 2026-06-07 to 2026-06-07 |
+| `cabinet-decision-2026-24` | قرار مجلس الوزراء رقم (24) لسنة 2026 بتعديل بعض أحكام القرار رقم (24) لسنة 2018 بإنشاء لجنة تسيير مشروع نقطة قطر لتبادل الإنترنت | 1 | 2026-05-14 to 2026-05-14 |
+| `cabinet-decision-2026-25` | قرار مجلس الوزراء رقم (25) لسنة 2026 بإنشاء اللجنة الطبية لقوة الأمن الداخلي وتعيين اختصاصاتها | 1 | 2026-05-14 to 2026-05-14 |
+| `cabinet-decision-2026-26` | قرار مجلس الوزراء رقم (26) لسنة 2026 بتعديل بعض أحكام القرار رقم (36) لسنة 2014 بإنشاء اللجنة الوطنية لنظام التخليص الجمركي وتيسير التجارة عبر الحدود | 1 | 2026-05-14 to 2026-05-14 |
+| `cabinet-decision-prime-minister-2026-27` | قرار مجلس الوزراء رقم (27) لسنة 2026 بإنشاء لجنة المشاريع الرقمية في القطاع الحكومي | 1 | 2026-06-11 to 2026-06-11 |
+| `cabinet-decision-prime-minister-2026-28` | قرار مجلس الوزراء رقم (28) لسنة 2026 بإصدار النظام الوظيفي لأعضاء هيئة التدريس  بكلية المجتمع في قطر | 1 | 2026-06-11 to 2026-06-11 |
+| `cabinet-decision-2025-1` | قرار مجلس الوزراء رقم (1) لسنة 2025 بشروط وضوابط تملك مواطني دول مجلس التعاون لدول الخليج العربية للعقارات | 1 | 2025-02-14 to 2025-02-14 |
+| `cabinet-decision-2025-2` | قرار مجلس الوزراء رقم (2) لسنة 2025 بتشكيل لجنة التراخيص بالهيئة العامة لتنظيم القطاع العقاري ونظام عملها والإجراءات التي تتبع أمامها وتحديد مكافآتهـا | 1 | 2025-01-15 to 2025-01-15 |
+| `cabinet-decision-2025-5` | قرار مجلس الوزراء رقم (5) لسنة 2025 بتعديل بعض أحكام القرار رقم (1) لسنة 2021 بإنشاء اللجنة الفنية الاستشارية لتصنيف وتقييم المقاولين والموردين ومقدمي الخدمات | 1 | 2025-01-27 to 2025-01-27 |
+| `cabinet-decision-2025-6` | قرار مجلس الوزراء رقم (6) لسنة 2025 بشأن حق الانتفاع ببيوت البر | 1 | 2025-02-14 to 2025-02-14 |
+| `cabinet-decision-2025-8` | قرار مجلس الوزراء رقم (8) لسنة 2025 بتعديل بعض أحكام اللائحة التنفيذية لقانون الجمارك الصادرة بقرار مجلس الوزراء رقم (21) لسنة 2004 | 1 | 2025-03-03 to 2025-03-03 |
+| `cabinet-decision-2025-9` | قرار مجلس الوزراء رقم (9) لسنة 2025 بتعديل بعض أحكام القرار رقم (8) لسنة 2019 بتشكيل لجنة تنظيم تملك غير القطريين للعقارات والانتفاع بها | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-10` | قرار مجلس الوزراء رقم (10) لسنة 2025 بتعديل بعض أحكام القرار رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئة قطر للأسواق المالية | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-11` | قرار مجلس الوزراء رقم (11) لسنة 2025 بإنشاء اللجنة الوزارية للمحتوى المحلي الوطني | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-12` | قرار مجلس الوزراء رقم (12) لسنة 2025 بتعديل بعض أحكام القرار رقم (11) لسنة 2009 بإعادة تنظيم اللجنة الدائمة للسكان | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-13` | قرار مجلس الوزراء رقم (13) لسنة 2025 بإعادة تنظيم لجنة التغير المناخي والتنمية النظيفة وتحديد اختصاصاتها | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-14` | قرار مجلس الوزراء رقم (14) لسنة 2025 بشأن إضافة أعمال ذات منفعة عامة إلى الأعمال المنصوص عليها في القانون رقم (8) لسنة 2022 بشأن نزع ملكية العقارات والاستيلاء عليها مؤقتاً للمنفعة العامة | 1 | 2025-04-29 to 2025-04-29 |
+| `cabinet-decision-2025-15` | قرار مجلس الوزراء رقم (15) لسنة 2025 بتعديل بعض أحكام القرار رقم (29) لسنة 2020 بتشكيل اللجنة الوطنية لمكافحة الإرهاب وتحديد نظام عملها ومكافآت أعضائها | 1 | 2025-03-25 to 2025-03-25 |
+| `cabinet-decision-2025-16` | قرار مجلس الوزراء رقم (16) لسنة 2025 بتعديل بعض أحكام القرار رقم (10) لسنة 2007 بإنشاء اللجنة الوطنية لأمن الطيران المدني | 1 | 2025-05-05 to 2025-05-05 |
+| `cabinet-decision-2025-17` | قرار مجلس الوزراء رقم (17) لسنة 2025 بتعديل بعض أحكام القرار رقم (15) لسنة 2017 بشأن إنشاء اللجنة الوطنية لمكافحة الاتجار بالبشر | 1 | 2025-05-05 to 2025-05-05 |
+| `cabinet-decision-2025-19` | قرار مجلس الوزراء رقم (19) لسنة 2025 بإصدار دليل استخدام شعار الدولة | 1 | 2025-06-05 to 2025-06-05 |
+| `cabinet-decision-2025-20` | قرار مجلس الوزراء رقم (20) لسنة 2025 بشأن إجراء التعداد المبسط والتعداد المبني على السجلات الإدارية للسكان والمساكن والمنشآت للعام 2025 | 1 | 2025-05-21 to 2025-05-21 |
+| `cabinet-decision-2025-21` | قرار مجلس الوزراء رقم (21) لسنة 2025 بإلغاء بعض القرارات الصادرة بشأن اللجان التي انتهت مهامها | 1 | 2025-06-05 to 2025-06-05 |
+| `cabinet-decision-2025-22` | قرار مجلس الوزراء رقم (22) لسنة 2025 بإعادة تنظيم لجنة متابعة تنفيذ سياسات الأمن الغذائي في القطاعين الحكومي والخاص | 1 | 2025-05-25 to 2025-05-25 |
+| `cabinet-decision-2025-23` | قرار مجلس الوزراء رقم (23) لسنة 2025 بتعديل بعض أحكام النظام الوظيفي لموظفي المدارس الصادر بقرار مجلس الوزراء رقم (32) لسنة 2019 | 1 | 2025-06-25 to 2025-06-25 |
+| `cabinet-decision-2025-24` | قرار مجلس الوزراء رقم (24) لسنة 2025 بتعديل بعض أحكام القرار رقم (4) لسنة 2020 بإنشاء اللجنة الدائمة لشؤون العلاج من الإدمان | 1 | 2025-06-25 to 2025-06-25 |
+| `cabinet-decision-2025-25` | قرار مجلس الوزراء رقم (25) لسنة 2025 بإلغاء بعض القرارات | 1 | 2025-09-12 to 2025-09-12 |
+| `cabinet-decision-2025-26` | قرار مجلس الوزراء رقم (26) لسنة 2025 بتشكيل لجان فض منازعات التطوير العقاري | 1 | 2025-08-20 to 2025-08-20 |
+| `cabinet-decision-2025-27` | قرار مجلس الوزراء رقم (27) لسنة 2025 بشأن القواعد والإجراءات الواجب اتباعها أمام لجان فض منازعات التطوير العقاري وآلية تنفيذ قراراتها والرسوم الواجب تحصيلها | 1 | 2025-08-20 to 2025-08-20 |
+| `cabinet-decision-2025-28` | قرار مجلس الوزراء رقم (28) لسنة 2025 بتشكيل لجنة التظلمات المتعلقة بنزع ملكية العقارات والاستيلاء عليها مؤقتاً للمنفعة العامة وإجراءات التظلم أمامها | 1 | 2025-08-20 to 2025-08-20 |
+| `cabinet-decision-2025-29` | قرار مجلس الوزراء رقم (29) لسنة 2025 بإعادة تنظيم اللجنة الوطنية للسلامة والصحة المهنيتين | 1 | 2025-08-20 to 2025-08-20 |
+| `cabinet-decision-2025-30` | قرار مجلس الوزراء رقم (30) لسنة 2025 بتحديد الوحدات الإدارية التي تتألف منها الهيئة العامة للتقاعد والتأمينات الاجتماعية وتعيين اختصاصاتها | 1 | 2025-10-05 to 2025-10-05 |
+| `cabinet-decision-2025-31` | قرار مجلس الوزراء رقم (31) لسنة 2025 بتشكيل لجنة التسجيل العقاري ونظام عملها ومكافآت أعضائها | 1 | 2025-10-20 to 2025-10-20 |
+| `cabinet-decision-2025-32` | قرار مجلس الوزراء رقم (32) لسنة 2025 بنزع ملكية بعض العقارات للمنفعة العامة | 1 | 2025-10-19 to 2025-10-19 |
+| `cabinet-decision-2025-33` | قرار مجلس الوزراء رقم (33) لسنة 2025 بتعديل بعض أحكام القرار رقم (31) لسنة 2013 بتشكيل لجنة التظلمات بهيئة قطر للأسواق المالية وتحديد الإجراءات التي تتبع أمامها | 1 | 2025-10-05 to 2025-10-05 |
+| `cabinet-decision-2025-34` | قرار مجلس الوزراء رقم (34) لسنة 2025 بتعديل بعض أحكام اللائحة التنفيذية لقانون الموارد البشرية المدنية الصادرة بقرار مجلس الوزراء رقم (32) لسنة 2016 | 1 | 2025-10-07 to 2025-10-07 |
+| `cabinet-decision-2025-35` | قـرار مجلـس الـوزراء رقـم (35) لسنـة 2025 بتعديـل بعـض أحكـام القـرار رقـم (20) لسنـة 2017 بإنشـاء وتشكيـل اللجنـة الفنيـة لمعادلـة الشهـادات الدراسيـة الجامعيـة | 1 | 2025-10-22 to 2025-10-22 |
+| `cabinet-decision-2025-36` | قـرار مجلـس الـوزراء رقـم (36) لسنـة 2025 بنـزع ملكيـة بعـض العقـارات للمنفعـة العامـة | 1 | 2025-11-13 to 2025-11-13 |
+| `cabinet-decision-2025-37` | قرار مجلس الوزراء رقم (37) لسنة 2025 بإنشاء اللجنة الوطنية لمكافحة الأضرار والتعديات البيئية | 1 | 2025-12-09 to 2025-12-09 |
+| `cabinet-decision-2025-38` | قرار مجلس الوزراء رقم (38) لسنة 2025 بإنشاء لجنة السلامة الرقمية للأطفال والنشء | 1 | 2025-12-09 to 2025-12-09 |
+| `cabinet-decision-2024-1` | قرار مجلس الوزراء رقم (1) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2006 بإنشاء اللجنة الوطنية لأمن الموانئ | 1 | 2024-02-20 to 2024-02-20 |
+| `cabinet-decision-2024-2` | قرار مجلس الوزراء رقم (2) لسنة 2024 بتشكيل لجنة مكافحة التستر وتحديد مكافآتها والإجراءات التي تتبع أمامها | 1 | 2024-02-20 to 2024-02-20 |
+| `cabinet-decision-2024-3` | قرار مجلس الوزراء رقم (3) لسنة 2024 بشأن منح تراخيص إقامة بدون مستقدم لبعض الفئات | 1 | 2024-03-03 to 2024-03-03 |
+| `cabinet-decision-2024-4` | قرار مجلس الوزراء رقم (4) لسنة 2024 بإنشاء لجنة تخطيط القوى العاملة وتحديد اختصاصاتها | 1 | 2024-03-03 to 2024-03-03 |
+| `cabinet-decision-2024-5` | قرار مجلس الوزراء رقم (5) لسنة 2024 بشروط وضوابط منح المطور امتياز تطوير وإدارة منطقة صناعية | 1 | 2024-05-20 to 2024-05-20 |
+| `cabinet-decision-2024-6` | قرار مجلس الوزراء رقم ( 6 ) لسنة 2024 بمنح علاوة استقطاب للموظفين القطريين العاملين بالكادر الإداري لجامعة قطر | 1 | 2024-04-30 to 2024-04-30 |
+| `cabinet-decision-2024-7` | قرار مجلس الوزراء رقم ( 7 ) لسنة 2024 بتعديل بعض أحكام القرار رقم (35) لسنة 2014 بإنشاء لجنة تنظيم النقل الثقيل | 1 | 2024-04-30 to 2024-04-30 |
+| `cabinet-decision-2024-8` | قرار مجلس الوزراء رقم ( 8 ) لسنة 2024 بنزع ملكية بعض العقارات للمنفعة العامة | 1 | 2024-04-30 to 2024-04-30 |
+| `cabinet-decision-2024-9` | قرار مجلس الوزراء رقم ( 9 ) لسنة 2024 بمنح علاوة احترافية للموظفين الفنيين القطريين العاملين بالمؤسسة العامة القطرية للكهرباء والماء | 1 | 2024-05-12 to 2024-05-12 |
+| `cabinet-decision-2024-10` | قرار مجلس الوزراء رقم (10) لسنة 2024 بتشكيل لجنة فض المنازعات بالهيئة العامة للتقاعد والتأمينات الاجتماعية وتحديد اختصاصاتها الأخرى ونظام عملها والقواعد والإجراءات الواجب اتباعها أمامها | 1 | 2024-05-20 to 2024-05-20 |
+| `cabinet-decision-2024-11` | قرار مجلس الوزراء رقم (11) لسنة 2024 بتحديد شروط استحقاق المعاش المبكر | 1 | 2024-05-20 to 2024-05-20 |
+| `cabinet-decision-2024-12` | قرار مجلس الوزراء رقم (12) لسنة 2024 بإنشاء اللجنة الدائمة لإدارة دخول الزوار وطالبي الإقامات المميزة بدولة قطر (منصة هيا) | 1 | 2026-05-08 to 2026-05-08 |
+| `cabinet-decision-2024-13` | قرار مجلس الوزراء رقم (13) لسنة 2024 بشأن ضوابط وشروط تسجيل الوثائق الخاصة لدى دار الوثائق القطرية | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-14` | قرار مجلس الوزراء رقم (14) لسنة 2024 بشأن ضوابط وإجراءات تحويل الوثائق العامة وفرزها وحفظ وترحيل المحفوظات | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-15` | قرار مجلس الوزراء رقم (15) لسنة 2024 بشأن ضوابط وشروط وقواعد إتلاف الوثائق والمحفوظات | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-16` | قرار مجلس الوزراء رقم (16) لسنة 2024 بشأن أسس وضوابط وإجراءات تصنيف الوثائق من حيث السرية وقواعد الاطلاع عليها | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-17` | قرار مجلس الوزراء رقم (17) لسنة 2024 بتشكيل لجنة تثمين الوثائق ونظام عملها وتحديد مكافآت أعضائها | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-18` | قرار مجلس الوزراء رقم (18) لسنة 2024 بتشكيل لجنة إتلاف الوثائق والمحفوظات | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-19` | قرار مجلس الوزراء رقم (19) لسنة 2024 بتعديل بعض رسوم الخدمات التي تؤديها غرفة تجارة وصناعة قطر | 1 | 2024-10-18 to 2024-10-18 |
+| `cabinet-decision-2024-20` | قرار مجلس الوزراء رقم (20) لسنة 2024 بتعديل بعض أحكام القرار رقم (8) لسنة 2020 بإعادة تنظيم لجنة الإيجارات المركزية | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-21` | قرار مجلس الوزراء رقم (21) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2020 بتشكيل لجنة الحد الأدنى للأجور ونظام عملها وتحديد مكافآتها | 1 | 2024-08-21 to 2024-08-21 |
+| `cabinet-decision-2024-22` | قرار مجلس الوزراء رقم (22) لسنة 2024 بإعادة تشكيل لجنة قبول المحامين | 1 | 2024-09-10 to 2024-09-10 |
+| `cabinet-decision-2024-23` | قرار مجلس الوزراء رقم (23) لسنة 2024 بإنشاء اللجنة الوطنية لذاكرة العالم | 1 | 2024-09-15 to 2024-09-15 |
+| `cabinet-decision-2024-24` | قرار مجلس الوزراء رقم (24) لسنة 2024 بشأن نظام الملحقين والموظفين الفنيين والإداريين المنتدبين للعمل في البعثات الدبلوماسية والقنصلية للدولة | 1 | 2024-12-23 to 2024-12-23 |
+| `cabinet-decision-2024-25` | قرار مجلس الوزراء رقم (25) لسنة 2024 بتعديل بعض أحكام القرار رقم (16) لسنة 2008 بإنشاء اللجنة الدائمة لأعمال الإنقاذ والإغاثة والمساعدات الإنسانية في المناطق المنكوبة بالدول الشقيقة والصديقة | 1 | 2024-11-10 to 2024-11-10 |
+| `cabinet-decision-2024-26` | قرار مجلس الوزراء رقم (26) لسنة 2024 بإنشاء لجنة استضافة مؤتمر قمة الويب « قطر 2024-2028» | 1 | 2024-12-09 to 2024-12-09 |
+| `cabinet-decision-2024-27` | قرار مجلس الوزراء رقم (27) لسنة 2024 بمنح علاوة استقطاب للموظفين القطريين العاملين بالكادر الإداري لكلية المجتمع | 1 | 2024-12-09 to 2024-12-09 |
+| `cabinet-decision-2024-28` | قرار مجلس الوزراء رقم (28) لسنة 2024 بإنشاء لجنة لدراسة شطب الذمم المدينة والدائنة بالمؤسسة العامة القطرية للكهرباء والماء وتحديد اختصاصاتها | 1 | 2024-12-09 to 2024-12-09 |
+| `cabinet-decision-2024-29` | قرار مجلس الوزراء رقم (29) لسنة 2024 بتحديد رسوم الدعاوى والطعون والطلبات والكفالات أمام محكمة التنفيذ | 1 | 2024-12-09 to 2024-12-09 |
+| `cabinet-decision-2024-30` | قرار مجلس الوزراء رقم (30) لسنة 2024 بإنشاء لجنة حصر المخازن الحكومية | 1 | 2024-12-09 to 2024-12-09 |
+| `cabinet-decision-2023-1` | قرار مجلس الوزراء رقم (1) لسنة 2023 بإنشاء اللجنة الفنية لدراسة رسوم الخدمات التي تؤديها الجهات الحكومية وتحديد اختصاصاتها | 1 | 2026-01-29 to 2026-01-29 |
+| `cabinet-decision-2023-2` | قرار مجلس الوزراء رقم (2) لسنة 2023 بإنشاء لجنة التمويل المستدام | 1 | 2023-03-06 to 2023-03-06 |
+| `cabinet-decision-2023-3` | قرار مجلس الوزراء رقم (3) لسنة 2023 بتعديل بعض أحكام اللائحة التنفيذية لقانون الضريبة على الدخل الصادرة بقرار مجلس الوزراء رقم (39) لسنة 2019 | 1 | 2023-05-17 to 2023-05-17 |
+| `cabinet-decision-2023-4` | قرار مجلس الوزراء رقم (4) لسنة 2023 بتعديل بعض أحكام القرار رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي | 1 | 2023-04-16 to 2023-04-16 |
+| `cabinet-decision-2023-5` | قرار مجلس الوزراء رقم (5) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 2019 بتشكيل لجنة الإحصاء الاستشارية وتنظيم أعمالها | 1 | 2023-04-16 to 2023-04-16 |
+| `cabinet-decision-2023-6` | قرار مجلس الوزراء رقم (6) لسنة 2023 بإنشاء لجنة تسيير مشروع نظام تخطيط وإدارة الموارد الحكومية | 1 | 2023-06-18 to 2023-06-18 |
+| `cabinet-decision-2023-7` | قرار مجلس الوزراء رقم (7) لسنة 2023 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية وتحديد مكافآت أعضائها | 1 | 2023-06-18 to 2023-06-18 |
+| `cabinet-decision-2023-8` | قرار مجلس الوزراء رقم ( 8) لسنة 2023 بمنح بدل تخصص للأطباء البيطريين القطريين العاملين بوزارة البلدية | 1 | 2023-06-18 to 2023-06-18 |
+| `cabinet-decision-2023-9` | قرار مجلس الوزراء رقم (9) لسنة 2023 باستثناء بعض الفئات من الخضوع لنظام التأمين الصحي الإلزامي | 1 | 2023-08-07 to 2023-08-07 |
+| `cabinet-decision-2023-10` | قرار مجلس الوزراء رقم (10) لسنة 2023 بتحديد الفئات التي تقدم لها خدمات الرعاية الصحية في المنشآت الصحية الحكومية دون مقابل وحدود هذه الخدمات | 1 | 2023-08-07 to 2023-08-07 |
+| `cabinet-decision-2023-11` | قرار مجلس الوزراء رقم (11) لسنة 2023 بتحديد أراضي منطقة الصناعات الصغيرة والمتوسطة | 1 | 2023-08-07 to 2023-08-07 |
+| `cabinet-decision-2023-12` | قرار مجلس الوزراء رقم (12) لسنة 2023 بتعديل بعض أحكام القرار رقم (3) لسنة 2003 بإنشاء لجنة دائمة لإدارة منفذ أبوسمرة | 1 | 2023-07-18 to 2023-07-18 |
+| `cabinet-decision-2023-13` | قرار مجلس الوزراء رقم (13) لسنة 2023 بمنح علاوة تخصص ضريبي للموظفين القطريين العاملين في التخصص الضريبي بالهيئة العامة للضرائب | 1 | 2023-07-18 to 2023-07-18 |
+| `cabinet-decision-2023-14` | قرار مجلس الوزراء رقم (14) لسنة 2023 بتعديل بعض أحكام القرار رقم (8) لسنة 2010 بإنشاء اللجنة القطرية لتحالف الحضارات | 1 | 2023-07-18 to 2023-07-18 |
+| `cabinet-decision-2023-15` | قرار مجلس الوزراء رقم (15) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (26) لسنة 2017 بإنشاء لجنة التنسيق بين الجهات العاملة بمطار حمد الدولي | 1 | 2023-10-11 to 2023-10-11 |
+| `cabinet-decision-2023-16` | قرار مجلس الوزراء رقم (16) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (26) لسنة 2019 بإنشاء اللجنة الوطنية المعنية بشؤون المرأة والطفل وكبار السن والأشخاص ذوي الإعاقة | 1 | 2023-09-10 to 2023-09-10 |
+| `cabinet-decision-2023-17` | قرار مجلس الوزراء رقم (17) لسنة 2023 بتعديل بعض أحكام القرار رقم (38) لسنة 2017 بإنشاء اللجنة الدائمة لإدارة المنافذ البحرية | 1 | 2023-10-11 to 2023-10-11 |
+| `cabinet-decision-2023-18` | قرار مجلس الوزراء رقم (18) لسنة 2023 بإنشاء اللجنة الاستشارية لنظام التأمين الصحي الإلزامي وتحديد اختصاصاتها | 1 | 2023-10-09 to 2023-10-09 |
+| `cabinet-decision-2023-19` | قرار مجلس الوزراء رقم (19) لسنة 2023 بتشكيل لجنتي تثمين العقارات المنزوعة ملكيتها للمنفعة العامة وتحديد اختصاصاتهما ونظام عملهما والإجراءات التي تتبع أمامهما | 1 | 2023-10-26 to 2023-10-26 |
+| `cabinet-decision-2023-20` | قرار مجلس الوزراء رقم (20) لسنة 2023 بشأن لجنة تنظيم تلك البعثات الدبلوماسية والقنصلية للعقارات في الدولة | 1 | 2023-10-26 to 2023-10-26 |
 
-The build made 715 commits:
+The build made 822 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 707 | first version of an act |
+| 814 | first version of an act |
 | 8 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-05.
 - 14 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 708 laws in the record.
-- 1315 tags.
+- 815 laws in the record.
+- 1527 tags.
 
 ## Dates
 
@@ -747,9 +855,9 @@ When a law gives no date of its own, the default rule applies: Constitution art.
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `7551a3bc710cdff55b72fe77756d8fca4b16db91f797760a9345aca888ade8a0` (11642505 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `df5e9e133822250a1c7cd0328d46a23ee7d044e74cf14e05e5295959a7346946` (12517460 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
@@ -1508,6 +1616,116 @@ No second build of this corpus has been compared yet.
 - Open problem: law-2024-8: duplicate unit art-001
 - Open problem: law-2024-18: duplicate unit art-001
 - Open problem: law-2026-20: duplicate unit art-003
+- Runner part: decrees, decisions and orders Al Meezan marks in force, beyond the constitutions, laws and decree-laws already published. An instrument with no amended, added or repealed article is published as issued, credited to itself. An instrument Al Meezan shows as amended is its current text, repealed articles left out, credited to the publisher (oldest version available) and dated by the latest in-force day among its own and the instruments its changed articles' history chains name.
+- In-force day: the instrument's own clause (يعمل به ...) where the record allows; a law-type instrument with no clause, Constitution art. 142; any other instrument with no clause, its Official Gazette day where Al Meezan records a real day, else its issue day. Each instrument's rule is listed below.
+- Left out: individual instruments (appointments, promotions, retirements, secondments, transfers, pardons, awards, nationality), which set no general rule and name persons; instruments whose text carries personal identifiers (ID or passport numbers); instruments Al Meezan does not mark in force; company documents; instruments whose Akoma Ntoso XML does not carry the same Arabic text (the independent check cannot be made).
+- cabinet-decision-2026-1: in force 2026-02-02 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-2: in force 2026-02-12 by its own rule, "ويُعمل به من تاريخ نشره في الجريدة الرسمية": the Official Gazette date.
+- cabinet-decision-2026-3: in force 2026-03-02 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-4: in force 2026-03-16 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-5: in force 2026-02-13 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-6: in force 2026-01-29 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-7: in force 2026-01-29 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-9: in force 2026-01-29 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-10: in force 2026-03-24 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-11: in force 2026-03-24 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-13: in force 2026-05-08 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-14: in force 2026-05-08 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-15: in force 2026-04-08 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-16: in force 2026-05-08 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-17: in force 2026-04-13 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-19: in force 2026-06-08 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2026-20: in force 2026-05-14 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-22: in force 2026-06-07 by no in-force rule in its text (Constitution art. 142 covers laws only): its Official Gazette day.
+- cabinet-decision-2026-24: in force 2026-05-14 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-25: in force 2026-05-14 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2026-26: in force 2026-05-14 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-prime-minister-2026-27: in force 2026-06-11 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-prime-minister-2026-28: in force 2026-06-11 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-1: in force 2025-02-14 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-2: in force 2025-01-15 by its own rule, "ويُعمل بها من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-5: in force 2025-01-27 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-6: in force 2025-02-14 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-8: in force 2025-03-03 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-9: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-10: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-11: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-12: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-13: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-14: in force 2025-04-29 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-15: in force 2025-03-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-16: in force 2025-05-05 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-17: in force 2025-05-05 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-19: in force 2025-06-05 by its own rule, "يُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-20: in force 2025-05-21 by in-force rule "ويُعمل به من اليوم التالي التاريخ نشره في الجريدة الرسمية" not computable from the record (Official Gazette date 2025-06-04); dated by its issue day.
+- cabinet-decision-2025-21: in force 2025-06-05 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-22: in force 2025-05-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-23: in force 2025-06-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-24: in force 2025-06-25 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-25: in force 2025-09-12 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-26: in force 2025-08-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-27: in force 2025-08-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-28: in force 2025-08-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-29: in force 2025-08-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-30: in force 2025-10-05 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-31: in force 2025-10-20 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2025-32: in force 2025-10-19 by its own rule, "ويُعمل به من تاريخ نشره في الجريدة الرسمية": the Official Gazette date.
+- cabinet-decision-2025-33: in force 2025-10-05 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-34: in force 2025-10-07 by in-force rule "يعمل بها" not computable from the record (Official Gazette date 2025-10-19); dated by its issue day.
+- cabinet-decision-2025-35: in force 2025-10-22 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-36: in force 2025-11-13 by its own rule, "ويُعمل به من تاريخ نشره في الجريدة الرسمية": the Official Gazette date.
+- cabinet-decision-2025-37: in force 2025-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2025-38: in force 2025-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-1: in force 2024-02-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-2: in force 2024-02-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-3: in force 2024-03-03 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-4: in force 2024-03-03 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-5: in force 2024-05-20 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره فى الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2024-6: in force 2024-04-30 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-7: in force 2024-04-30 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-8: in force 2024-04-30 by in-force rule "ويُعمل به من تاریخ نشره في الجريدة الرسمية" not computable from the record (Official Gazette date 2024-06-05); dated by its issue day.
+- cabinet-decision-2024-9: in force 2024-05-12 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-10: in force 2024-05-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-11: in force 2024-05-20 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-12: today's text (amended), dated 2026-05-08 by today's text of an amended instrument: the latest in-force day among the instruments its changed articles name (قرار مجلس الوزراء رقم (16) لسنة 2026 بتعديل بعض أحكام القرار رقم (12) لسنة 2024 بإنشاء اللجنة الدائمة لإدارة دخول الزوار لدولة قطر (منصة هيا): its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date).
+- cabinet-decision-2024-13: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-14: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-15: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-16: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-17: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-18: in force 2024-08-21 by its own rule, "ويعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-19: in force 2024-10-18 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2024-20: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-21: in force 2024-08-21 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-22: in force 2024-09-10 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-23: in force 2024-09-15 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-24: in force 2024-12-23 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2024-25: in force 2024-11-10 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-26: in force 2024-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-27: in force 2024-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-28: in force 2024-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-29: in force 2024-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2024-30: in force 2024-12-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-1: today's text (amended), dated 2026-01-29 by today's text of an amended instrument: the latest in-force day among the instruments its changed articles name (قرار مجلس الوزراء رقم (7) لسنة 2026 بتعديل بعض أحكام القرار رقم (1) لسنة 2023 بإنشاء اللجنـة الفنيـة لدراسة رسوم الخدمات التي تؤديها الجهات الحكومية وتحديد اختصاصاتها: its own rule, "ويُعمل به من تاريخ صدوره": the issue day).
+- cabinet-decision-2023-2: in force 2023-03-06 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-3: in force 2023-05-17 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-4: in force 2023-04-16 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-5: in force 2023-04-16 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-6: in force 2023-06-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-7: in force 2023-06-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-8: in force 2023-06-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-9: in force 2023-08-07 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-10: in force 2023-08-07 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-11: in force 2023-08-07 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-12: in force 2023-07-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-13: in force 2023-07-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-14: in force 2023-07-18 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-15: in force 2023-10-11 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-16: in force 2023-09-10 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-17: in force 2023-10-11 by its own rule, "ويُعمل به من اليوم التالي لتاريخ نشره في الجريدة الرسمية": the day after the Official Gazette date.
+- cabinet-decision-2023-18: in force 2023-10-09 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-19: in force 2023-10-26 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
+- cabinet-decision-2023-20: in force 2023-10-26 by its own rule, "ويُعمل به من تاريخ صدوره": the issue day.
 
 ## What AI did and did not do
 
@@ -1520,3 +1738,4 @@ The commit messages are written by `build.py` from the source data.
 Model use at data-build time:
 - None at data-build time: Lexifina's code are deterministic code written with Claude Code (claude-opus-5-5); no model reads, writes, translates or summarises legal text.
 - None at data-build time: Lexifina's code are deterministic code written with Claude Code (claude-opus-5-5); no model reads, writes, translates or summarises legal text.
+- None at data-build time: Lexifina's code is deterministic code written with Claude Code (claude-opus-5-5); no model reads, writes, translates or summarises legal text.

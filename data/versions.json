@@ -9946,6 +9946,1504 @@
      "sha256": "6e00052b21abc2f71f4053f3826d3fa052f99714fecf2c2da9c655b3371389cc"
     }
    ]
+  },
+  {
+   "slug": "cabinet-decision-2026-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2026 بتنظيم إجراءات مباشرة الدعاوى المتعلقة بالجهات الحكومية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/1/general",
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4979c3310b3850aa0589b9db9bade1e731f41b33944ed72db028a7b72bc42317"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2026 بإصدار ضوابط تطبيق الضريبة الدنيا العالمية والمحلية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/2/general",
+   "versions": [
+    {
+     "from": "2026-02-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6a422067413929698540abdcbef074bae02e3ccbc4d25e1e00db574494e3f763"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2026 بشأن الميزة الضريبية المرتبطة بالأرباح الرأسمالية الناشئة عن إعادة الهيكلة للشركات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/3/general",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9f90e7c565f32ba102b72223c1240ad62b369d7e0b8f01530476cb48a648e7c2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2026 بتعديل بعض أحكام اللائحة التنفيذية لقانون الضريبة على الدخل الصادرة بقرار مجلس الوزراء رقم (39) لسنة 2019",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/4/general",
+   "versions": [
+    {
+     "from": "2026-03-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f2d0f660142c63269233281d4036f54c2510b3401dc2d68dee2d3d3e9d65bb48"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2026 بتحديد بعض المناطق السياحية في الدولة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/5/general",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b7a92e9019fbc1cc531c9861ff30fcf763f1021eb4235d407402d91f256b5b13"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2026 بتعديل بعض أحكام القرار رقم (17) لسنة 2014 بإنشاء اللجنة الوطنية لشؤون المتفجرات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/6/general",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cf263ce6b27a9d6e0bfaf6135dc50848bae6b314943c6ff31a18a30533f24043"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2026 بتعديل بعض أحكام القرار رقم (1) لسنة 2023 بإنشاء اللجنـة الفنيـة لدراسة رسوم الخدمات التي تؤديها الجهات الحكومية وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/7/general",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dacb794a36bfb9daf6672f47a9ff5bdd0fdf944b5feb62a7f32a0efcd9cc5c23"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2026 بتنظيم لجنة تراخيص المجسمات والنصب التذكارية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/9/general",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "51886a74213d80799018f45db142a40b8cb899f0ad8e5eb740520f9398465532"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2026 بمنح بدل مظهر للمُطلين على الشاشة بالمؤسسة القطرية للإعلام",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/10/general",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "14de808d4fdaa5ea883f65a5aba101df3320ac19527ed3e2d3e1fae2973baa88"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2026 بإعفاء بعض المواد التي تستوردها الجهات العسكرية من الرسوم الجمركية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/11/general",
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e24092ae9b601454ccb2c7adc10b29e830060ef7c931a75a03ea83f82b970148"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2026 بشأن اللجنة الوطنية لأخلاقيات البحث الصحي ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/13/general",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 14,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0a0575d79abc6f11e19b4de46ba866629eb2cf8227c957dad19b1f9509aaa8ed"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2026 بشأن لجنة مراقبة البحث الصحي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/14/general",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 14,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1625c133cd73275a8c371c0be95b686234af895e18c971799c793f766789ff6f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2026 بإنشاء اللجنة التوجيهية لمشروع مخطط قطر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/15/general",
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "39af23b3e8a75c6b0189be36eb1d14ae99a1e5f0ffaf85125ea63328d5b4ce21"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2026 بتعديل بعض أحكام القرار رقم (12) لسنة 2024 بإنشاء اللجنة الدائمة لإدارة دخول الزوار لدولة قطر (منصة هيا)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/16/general",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "92c3f42a513052e1e831f41aad1707d747acb1985b17d20aeefeaea195162a36"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2026 بإنشاء لجنة استضافة مؤتمر المندوبين المفوضين للاتحاد الدولي للاتصالات 2026 (PP-26)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/17/general",
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0f376b73c4604a946fd24189821cd2f40b1dba8234c2c844f2a5a701d1a74662"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2026 بإلغاء بعض القرارات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/19/general",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "01639fe14803dd1820f4bf612cc0a0788a06b6137dc6666832f6c0824e72b45c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2026 بتعديل بعض أحكام القرار رقم (27) لسنة 2012 بإنشاء اللجنة الوطنية للقانون الدولي الإنساني",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/20/general",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bd8a95c8e9c372d73faf0b888b984f3829e4f87dbbd448448aa330913c6098dc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2026 بإصدار اللائحة الداخلية لمجلس الوزراء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/22/general",
+   "versions": [
+    {
+     "from": "2026-06-07",
+     "units": 43,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "446dc825eea269e9f7f85b74c45734d67afa44d0315f288100f9aa41a17b74f9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2026 بتعديل بعض أحكام القرار رقم (24) لسنة 2018 بإنشاء لجنة تسيير مشروع نقطة قطر لتبادل الإنترنت",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/24/general",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9e968dc92dc0d2f2a95bbcfc958f5d76f3b1017a3284f11e2225d148b14cf54d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2026 بإنشاء اللجنة الطبية لقوة الأمن الداخلي وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/25/general",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4dd2656bb6d38d3cd812619c113b8b0130d8db870754838fdb8a40f1c5929dc9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2026 بتعديل بعض أحكام القرار رقم (36) لسنة 2014 بإنشاء اللجنة الوطنية لنظام التخليص الجمركي وتيسير التجارة عبر الحدود",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/26/general",
+   "versions": [
+    {
+     "from": "2026-05-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ae082f72d8e728dc9e052be7778e6c673cfd8c3a97d03f79d0477829a5fca6ba"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-prime-minister-2026-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2026 بإنشاء لجنة المشاريع الرقمية في القطاع الحكومي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/27/prime-minister",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 15,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2026&typeCode=cabinet-decision&sourceCode=prime-minister&culture=ar",
+     "sha256": "56241c98ee41f02394c5f46bcb90794e689d5c53758c8dd991a7f65eef8dff07"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-prime-minister-2026-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2026 بإصدار النظام الوظيفي لأعضاء هيئة التدريس  بكلية المجتمع في قطر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/28/prime-minister",
+   "versions": [
+    {
+     "from": "2026-06-11",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2026&typeCode=cabinet-decision&sourceCode=prime-minister&culture=ar",
+     "sha256": "b096fdbe432e68fe6b979d7a2a6206910ccf81e2e20c3803c62a9cd112ef47c7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2025 بشروط وضوابط تملك مواطني دول مجلس التعاون لدول الخليج العربية للعقارات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/1/general",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "be0a2a76affde2665df5854bde992644cb81d1f8495d3e1ed25e306159121b94"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2025 بتشكيل لجنة التراخيص بالهيئة العامة لتنظيم القطاع العقاري ونظام عملها والإجراءات التي تتبع أمامها وتحديد مكافآتهـا",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/2/general",
+   "versions": [
+    {
+     "from": "2025-01-15",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ad7a7e0d906d1da27d00e0a4b95e5a4bad1100f7830caa9ff355adc2977a3ac9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2025 بتعديل بعض أحكام القرار رقم (1) لسنة 2021 بإنشاء اللجنة الفنية الاستشارية لتصنيف وتقييم المقاولين والموردين ومقدمي الخدمات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/5/general",
+   "versions": [
+    {
+     "from": "2025-01-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7301583cbbe1bcb4a90611eeb43b251dec0f81aad05bbbc920eab1676f487dc9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2025 بشأن حق الانتفاع ببيوت البر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/6/general",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 20,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3693b752e3e617998419c43c541118483b0488ef18cea79b69db44ef5fedf043"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2025 بتعديل بعض أحكام اللائحة التنفيذية لقانون الجمارك الصادرة بقرار مجلس الوزراء رقم (21) لسنة 2004",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/8/general",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "96db2a2f974da90d4fe8e6d3b0fbf3e7b3ef7ea1b909ee5f4f696e61d56ee8de"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2025 بتعديل بعض أحكام القرار رقم (8) لسنة 2019 بتشكيل لجنة تنظيم تملك غير القطريين للعقارات والانتفاع بها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/9/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c20982b0da002766c1349e529826176652e3f7af1d72dbaf6dacf4b055513853"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2025 بتعديل بعض أحكام القرار رقم (32) لسنة 2013 بتسمية رئيس وأعضاء لجنة التظلمات بهيئة قطر للأسواق المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/10/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d11766acb91c704ad0423d4592a12da0396946a410009015841c91630de510a6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2025 بإنشاء اللجنة الوزارية للمحتوى المحلي الوطني",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/11/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "036db465169e618f6f8aece70373a213da64d2d19e700c45eafa13f51aa4f90b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2025 بتعديل بعض أحكام القرار رقم (11) لسنة 2009 بإعادة تنظيم اللجنة الدائمة للسكان",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/12/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1e261a8d21ba441316937f3d2db45eab1ad480a6af2255916c917d6fa8273f15"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2025 بإعادة تنظيم لجنة التغير المناخي والتنمية النظيفة وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/13/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "df5895b5e9924bbf83f736b1f7336e90b0174641be4262ce8b30f93a34fe21d7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2025 بشأن إضافة أعمال ذات منفعة عامة إلى الأعمال المنصوص عليها في القانون رقم (8) لسنة 2022 بشأن نزع ملكية العقارات والاستيلاء عليها مؤقتاً للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/14/general",
+   "versions": [
+    {
+     "from": "2025-04-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1407c48cf27eecb974e806c0da32f11a8880f350e6d167404a4837af4398fc41"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2025 بتعديل بعض أحكام القرار رقم (29) لسنة 2020 بتشكيل اللجنة الوطنية لمكافحة الإرهاب وتحديد نظام عملها ومكافآت أعضائها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/15/general",
+   "versions": [
+    {
+     "from": "2025-03-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "faea832e70fdb5f654a8a3aacad8ee28af42d876ae466f994b954ed91b7bb11e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2025 بتعديل بعض أحكام القرار رقم (10) لسنة 2007 بإنشاء اللجنة الوطنية لأمن الطيران المدني",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/16/general",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a2b83fc34fef6e7f98f47aa4e8ae27b38915972051515aea5127a6f057222514"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2025 بتعديل بعض أحكام القرار رقم (15) لسنة 2017 بشأن إنشاء اللجنة الوطنية لمكافحة الاتجار بالبشر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/17/general",
+   "versions": [
+    {
+     "from": "2025-05-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "eaa2101c5555746964ece95af4b058e5d11d6f64dc3aacc2eeef36e9c06b197c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2025 بإصدار دليل استخدام شعار الدولة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/19/general",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d0a78895e19522e1630fca7b468da65d54f9904158ed8f272848e37bd35ad80f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2025 بشأن إجراء التعداد المبسط والتعداد المبني على السجلات الإدارية للسكان والمساكن والمنشآت للعام 2025",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/20/general",
+   "versions": [
+    {
+     "from": "2025-05-21",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "90db71af1edad12cb745b21fadf0d2249f37a5812cd7752682e1021ee55f6fd5"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2025 بإلغاء بعض القرارات الصادرة بشأن اللجان التي انتهت مهامها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/21/general",
+   "versions": [
+    {
+     "from": "2025-06-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7dcc6250b49f96257ff80964754069012b27315bb68a053d865affb2afa40ad3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2025 بإعادة تنظيم لجنة متابعة تنفيذ سياسات الأمن الغذائي في القطاعين الحكومي والخاص",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/22/general",
+   "versions": [
+    {
+     "from": "2025-05-25",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "aa2ec525fe1918a31fdcfd1f9c19037da703a38c66875dca62df7096326f3134"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2025 بتعديل بعض أحكام النظام الوظيفي لموظفي المدارس الصادر بقرار مجلس الوزراء رقم (32) لسنة 2019",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/23/general",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dbbd6a94517986138db899b63117144a78dfe2725d28dd8ef7d9fba9dd97161c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2025 بتعديل بعض أحكام القرار رقم (4) لسنة 2020 بإنشاء اللجنة الدائمة لشؤون العلاج من الإدمان",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/24/general",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "227512e45a41fb8bc7aed2018b771e1ab6d86ef266d2a08655f1e921dc35ff3b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2025 بإلغاء بعض القرارات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/25/general",
+   "versions": [
+    {
+     "from": "2025-09-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2c6ef15d8c53790b6fa7b11c3e9a421abf83b26b03a5096444b4d266e3fce1bc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2025 بتشكيل لجان فض منازعات التطوير العقاري",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/26/general",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e344ba8f8e6d0a74aa563178140e9c3d01dc2fc2b6a82e3a56a7328bcd45a414"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2025 بشأن القواعد والإجراءات الواجب اتباعها أمام لجان فض منازعات التطوير العقاري وآلية تنفيذ قراراتها والرسوم الواجب تحصيلها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/27/general",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 20,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5a5b6ab8d41a35cd2bb268c0e14f24e875995e9e842d447428bf00be9f01659b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2025 بتشكيل لجنة التظلمات المتعلقة بنزع ملكية العقارات والاستيلاء عليها مؤقتاً للمنفعة العامة وإجراءات التظلم أمامها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/28/general",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3196539f4d96a8e14b4cce94447a03b0f82d37937d5ab5cc1cf4d2ab5b8cfc5b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 2025 بإعادة تنظيم اللجنة الوطنية للسلامة والصحة المهنيتين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/29/general",
+   "versions": [
+    {
+     "from": "2025-08-20",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1db0d3a20abcd40c2bbea3a55e620124326d0e767d6b1caddb63a2e458f76f3e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2025 بتحديد الوحدات الإدارية التي تتألف منها الهيئة العامة للتقاعد والتأمينات الاجتماعية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/30/general",
+   "versions": [
+    {
+     "from": "2025-10-05",
+     "units": 24,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "491ad572f369b8af5f07cee9c58dc2fe729ee998905f38ac796ca163a1d9d139"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-31",
+   "short": "قرار مجلس الوزراء رقم (31) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (31) لسنة 2025 بتشكيل لجنة التسجيل العقاري ونظام عملها ومكافآت أعضائها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/31/general",
+   "versions": [
+    {
+     "from": "2025-10-20",
+     "units": 15,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b53866d6049becadfa42a51d5a6b83543cf1ef5467aae1045aaeeded913395a3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2025 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/32/general",
+   "versions": [
+    {
+     "from": "2025-10-19",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8638f284e2a35f05f63b28922c08b75ee564685c13853fe5ff724ec043f4bde4"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-33",
+   "short": "قرار مجلس الوزراء رقم (33) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (33) لسنة 2025 بتعديل بعض أحكام القرار رقم (31) لسنة 2013 بتشكيل لجنة التظلمات بهيئة قطر للأسواق المالية وتحديد الإجراءات التي تتبع أمامها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/33/general",
+   "versions": [
+    {
+     "from": "2025-10-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "33496ae6dacb6fc264b687ee5e1e687f53a338f9906315072e3374bc9caf3ff2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-34",
+   "short": "قرار مجلس الوزراء رقم (34) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (34) لسنة 2025 بتعديل بعض أحكام اللائحة التنفيذية لقانون الموارد البشرية المدنية الصادرة بقرار مجلس الوزراء رقم (32) لسنة 2016",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/34/general",
+   "versions": [
+    {
+     "from": "2025-10-07",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "40b3997e8bae726d47fc01205da5ac2ec83d412f29db949d058a8e4874583826"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-35",
+   "short": "قرار مجلس الوزراء رقم (35) لسنة 2025",
+   "title": "قـرار مجلـس الـوزراء رقـم (35) لسنـة 2025 بتعديـل بعـض أحكـام القـرار رقـم (20) لسنـة 2017 بإنشـاء وتشكيـل اللجنـة الفنيـة لمعادلـة الشهـادات الدراسيـة الجامعيـة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/35/general",
+   "versions": [
+    {
+     "from": "2025-10-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fa6cfcfba4734608fa9952e2be2e0e35939b22af16323cb5713c29d03556bf00"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-36",
+   "short": "قرار مجلس الوزراء رقم (36) لسنة 2025",
+   "title": "قـرار مجلـس الـوزراء رقـم (36) لسنـة 2025 بنـزع ملكيـة بعـض العقـارات للمنفعـة العامـة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/36/general",
+   "versions": [
+    {
+     "from": "2025-11-13",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5d6f1f79439be080ecdb3080b057ca4b12f71cfb2ced9ef06ff45ce2b2755387"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-37",
+   "short": "قرار مجلس الوزراء رقم (37) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (37) لسنة 2025 بإنشاء اللجنة الوطنية لمكافحة الأضرار والتعديات البيئية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/37/general",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c793d5c17e5c449390e3cce7d800176fd60b210cc5e1ccdbb7d2497b286c4b2d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-38",
+   "short": "قرار مجلس الوزراء رقم (38) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (38) لسنة 2025 بإنشاء لجنة السلامة الرقمية للأطفال والنشء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/38/general",
+   "versions": [
+    {
+     "from": "2025-12-09",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b5179e46bcba78a5862375db32c1cf79cacc8c2a4c8433039ff93a5864c64aec"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2006 بإنشاء اللجنة الوطنية لأمن الموانئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/1/general",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b39c6c33abd9d6aa9329e6b1f95deb45d5db5839b9d2117708e10f210235acc1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2024 بتشكيل لجنة مكافحة التستر وتحديد مكافآتها والإجراءات التي تتبع أمامها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/2/general",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 22,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3d1060a7e8901905f4b9bb506f4362f3ff0f731da5420ee7ab77342ed4cdcb7f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2024 بشأن منح تراخيص إقامة بدون مستقدم لبعض الفئات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/3/general",
+   "versions": [
+    {
+     "from": "2024-03-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c646aef127708aeeb57d9e781ccbd1123507abd931165aaa06f04e4f749c0802"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2024 بإنشاء لجنة تخطيط القوى العاملة وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/4/general",
+   "versions": [
+    {
+     "from": "2024-03-03",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e4a1444e7352e60316124cb8e875bfc119c708030ca21acd79b59be3040150b2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2024 بشروط وضوابط منح المطور امتياز تطوير وإدارة منطقة صناعية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/5/general",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0a61770fecbb065466fc5664842e78530b4591ce573ead3d054b05e2677b105d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-6",
+   "short": "قرار مجلس الوزراء رقم ( 6 ) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم ( 6 ) لسنة 2024 بمنح علاوة استقطاب للموظفين القطريين العاملين بالكادر الإداري لجامعة قطر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/6/general",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dd8236098ba7a3fb83283cf27f0d309ed965cda90b21a09f55a85ede5a43bb06"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-7",
+   "short": "قرار مجلس الوزراء رقم ( 7 ) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم ( 7 ) لسنة 2024 بتعديل بعض أحكام القرار رقم (35) لسنة 2014 بإنشاء لجنة تنظيم النقل الثقيل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/7/general",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d55c31b19f289228b71c41158e0a7afc48e98d441c0c53409f79cd887a67e241"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-8",
+   "short": "قرار مجلس الوزراء رقم ( 8 ) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم ( 8 ) لسنة 2024 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/8/general",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "08ebdfef1a1944b7b387919a297d59daff3ae21e44b02f0d15b8d7312f026a85"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-9",
+   "short": "قرار مجلس الوزراء رقم ( 9 ) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم ( 9 ) لسنة 2024 بمنح علاوة احترافية للموظفين الفنيين القطريين العاملين بالمؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/9/general",
+   "versions": [
+    {
+     "from": "2024-05-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cb725ee951f7339d7d88c042a19d00e71b18d0705842abe83cd6190f2751d7b9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2024 بتشكيل لجنة فض المنازعات بالهيئة العامة للتقاعد والتأمينات الاجتماعية وتحديد اختصاصاتها الأخرى ونظام عملها والقواعد والإجراءات الواجب اتباعها أمامها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/10/general",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 21,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "72fffbf56d4135d88a86a89c1b7f13833b7eebdb1933157fbd136eb50fdf0f85"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2024 بتحديد شروط استحقاق المعاش المبكر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/11/general",
+   "versions": [
+    {
+     "from": "2024-05-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ccc8466cd3c14a4c80633306ebb6d9a63930f2c82ed08e9527c0e3a9762ffcc6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2024 بإنشاء اللجنة الدائمة لإدارة دخول الزوار وطالبي الإقامات المميزة بدولة قطر (منصة هيا)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/12/general",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 15,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "971d68bf15d2aa5597e8294a009fb415ea991e0c4f0ad4717ea6c24424f48b49"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2024 بشأن ضوابط وشروط تسجيل الوثائق الخاصة لدى دار الوثائق القطرية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/13/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0405f9aa4cd509635dbd91c62e4baff08b7eeddd533379e9c33660845c8869ae"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2024 بشأن ضوابط وإجراءات تحويل الوثائق العامة وفرزها وحفظ وترحيل المحفوظات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/14/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7047f1dc0d430b89cbf19bc609fcfae6316078b304e56a20bd3bfa211bb7c472"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2024 بشأن ضوابط وشروط وقواعد إتلاف الوثائق والمحفوظات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/15/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "135041e408f90eabaa3f2b4c0a2c123e55a0b527dabaa5c789eda321de1db86d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2024 بشأن أسس وضوابط وإجراءات تصنيف الوثائق من حيث السرية وقواعد الاطلاع عليها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/16/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c73be007fe9e55f6f2b9a1fbfad530a07eb12420f0cbf7e02edd1c92d3bb328e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2024 بتشكيل لجنة تثمين الوثائق ونظام عملها وتحديد مكافآت أعضائها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/17/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "187894ad2ea84e1f004f5e5923af1619669dedaf8a5efce8835ccacb8b1af475"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2024 بتشكيل لجنة إتلاف الوثائق والمحفوظات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/18/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a86952dc2d4006fb3f4f84ec099ba7d1e242a6780db6ebfc54a7d6c5c3899931"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2024 بتعديل بعض رسوم الخدمات التي تؤديها غرفة تجارة وصناعة قطر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/19/general",
+   "versions": [
+    {
+     "from": "2024-10-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "76a789549e2245e48e026d9a268431b6a303aae05bfcb8abcdaf51f8c1cccf1c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2024 بتعديل بعض أحكام القرار رقم (8) لسنة 2020 بإعادة تنظيم لجنة الإيجارات المركزية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/20/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4fa5d1d79c2fcdec45d1161a60be89c339b973cce0ca819bb15af848ad543e32"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2024 بتعديل بعض أحكام القرار رقم (33) لسنة 2020 بتشكيل لجنة الحد الأدنى للأجور ونظام عملها وتحديد مكافآتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/21/general",
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5d2f40f003412624a16bb25a373f03d5e452e08dbbe86e806c718f74e3d52c11"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2024 بإعادة تشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/22/general",
+   "versions": [
+    {
+     "from": "2024-09-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ccab3333506ba5f0cf8aeb5e5f9b8f02a5efd4373f77189cdf0a914f3b3f3dad"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2024 بإنشاء اللجنة الوطنية لذاكرة العالم",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/23/general",
+   "versions": [
+    {
+     "from": "2024-09-15",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8a55e375656be86403c03cffea1b8770fd942c08a10d6a74f43c32065780ca97"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2024 بشأن نظام الملحقين والموظفين الفنيين والإداريين المنتدبين للعمل في البعثات الدبلوماسية والقنصلية للدولة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/24/general",
+   "versions": [
+    {
+     "from": "2024-12-23",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fe475471427721e632cbc8c756ecce3807037bf8b28e83315fb0f3a180b2baaa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2024 بتعديل بعض أحكام القرار رقم (16) لسنة 2008 بإنشاء اللجنة الدائمة لأعمال الإنقاذ والإغاثة والمساعدات الإنسانية في المناطق المنكوبة بالدول الشقيقة والصديقة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/25/general",
+   "versions": [
+    {
+     "from": "2024-11-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9b2866927ce4e5861f36268a083e42c89c0e931c8924bbca2a5fad4bb81eca39"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2024 بإنشاء لجنة استضافة مؤتمر قمة الويب « قطر 2024-2028»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/26/general",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "63b7feff8cf97c7841abec90f1c62baf61832d537eb975611060bd2476e62901"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2024 بمنح علاوة استقطاب للموظفين القطريين العاملين بالكادر الإداري لكلية المجتمع",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/27/general",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "192a076d577131107554dc21f73cdc139da47fe49a0be9d88f58c8bcaec22f89"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2024 بإنشاء لجنة لدراسة شطب الذمم المدينة والدائنة بالمؤسسة العامة القطرية للكهرباء والماء وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/28/general",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a64c507b2346bda621878244621d472129c9aa15db03159047117d2a8e751966"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 2024 بتحديد رسوم الدعاوى والطعون والطلبات والكفالات أمام محكمة التنفيذ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/29/general",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "94f83d081110b7bf4fbaa4a79da99fe11c2e56bfe495693d38152d6ee065d985"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2024 بإنشاء لجنة حصر المخازن الحكومية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/30/general",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3bb6515ce5a6f0e7cb43db6731b66c87bb8a45e837124e9243ad614061c0580b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2023 بإنشاء اللجنة الفنية لدراسة رسوم الخدمات التي تؤديها الجهات الحكومية وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/1/general",
+   "versions": [
+    {
+     "from": "2026-01-29",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d3d18e668f96bf08ef8d885a3583203c24265f51c06a9fc4fba2e1bd9ce3ab20"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2023 بإنشاء لجنة التمويل المستدام",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/2/general",
+   "versions": [
+    {
+     "from": "2023-03-06",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9406251c01721281ae97606ddc7fd6b852da55dc5389403ae225038110d1c175"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2023 بتعديل بعض أحكام اللائحة التنفيذية لقانون الضريبة على الدخل الصادرة بقرار مجلس الوزراء رقم (39) لسنة 2019",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/3/general",
+   "versions": [
+    {
+     "from": "2023-05-17",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0918e233d1fa05c9a6f5fc52d5da0df335999a07d878b9b63415c85d74f46e36"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2023 بتعديل بعض أحكام القرار رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/4/general",
+   "versions": [
+    {
+     "from": "2023-04-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f40db0535be844a75c2f907ae390de7473f44ff305fb9dfdb6fae6e4d8e03606"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 2019 بتشكيل لجنة الإحصاء الاستشارية وتنظيم أعمالها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/5/general",
+   "versions": [
+    {
+     "from": "2023-04-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f5bbdac0812e138b9f6380798e61908cd2f7e839af0ea770f7e7e24568e08b9d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2023 بإنشاء لجنة تسيير مشروع نظام تخطيط وإدارة الموارد الحكومية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/6/general",
+   "versions": [
+    {
+     "from": "2023-06-18",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e280053d3bfd8d742e6dc7d60d2479b438a650d0a38cfc359eafafcea4baae3f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2023 بإعادة تشكيل لجنة أمناء جائزتي الدولة التقديرية والتشجيعية وتحديد مكافآت أعضائها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/7/general",
+   "versions": [
+    {
+     "from": "2023-06-18",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a170235c5b465a3def1b48405883dfb57da30d9a70f8f484c6f542feea0b7f03"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-8",
+   "short": "قرار مجلس الوزراء رقم ( 8) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم ( 8) لسنة 2023 بمنح بدل تخصص للأطباء البيطريين القطريين العاملين بوزارة البلدية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/8/general",
+   "versions": [
+    {
+     "from": "2023-06-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b881489a0ca4018c7f1325166ba382cf8ed98fbd5e6d1bf2dc5bf3deb71cdf7c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2023 باستثناء بعض الفئات من الخضوع لنظام التأمين الصحي الإلزامي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/9/general",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "981e4f3c0afa5406d99842d6a873102b001395d3985003becb386475b7717d13"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2023 بتحديد الفئات التي تقدم لها خدمات الرعاية الصحية في المنشآت الصحية الحكومية دون مقابل وحدود هذه الخدمات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/10/general",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3c9bf8acdb3be4c2c2ec2a6f33c682815e673bcbe4eac9b2b9a6b0bcd30204fa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2023 بتحديد أراضي منطقة الصناعات الصغيرة والمتوسطة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/11/general",
+   "versions": [
+    {
+     "from": "2023-08-07",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e57bee71ec7a210de2e759134c1c62d24cdac97d7c3516ddf4a401c995435b3f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2023 بتعديل بعض أحكام القرار رقم (3) لسنة 2003 بإنشاء لجنة دائمة لإدارة منفذ أبوسمرة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/12/general",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1ada45cc7c8b53a840dea7c02efc0ec1bad33ec1f7924b17aa0ce887105403b3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2023 بمنح علاوة تخصص ضريبي للموظفين القطريين العاملين في التخصص الضريبي بالهيئة العامة للضرائب",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/13/general",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e4ef7fb193cc2232c3793ada5212ead96fc379605db99d86bcab7e9054ceb4a6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2023 بتعديل بعض أحكام القرار رقم (8) لسنة 2010 بإنشاء اللجنة القطرية لتحالف الحضارات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/14/general",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b4f2733c004e6b33e52b370ae7f558e1fac4dbe5f06587dcd23fc028af7ffe6a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (26) لسنة 2017 بإنشاء لجنة التنسيق بين الجهات العاملة بمطار حمد الدولي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/15/general",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "44e415fbe9c7809f709d52a5ec3ccac348da41725cf9063159da3e2bff85768c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2023 بتعديل بعض أحكام قرار مجلس الوزراء رقم (26) لسنة 2019 بإنشاء اللجنة الوطنية المعنية بشؤون المرأة والطفل وكبار السن والأشخاص ذوي الإعاقة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/16/general",
+   "versions": [
+    {
+     "from": "2023-09-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "07ebb0cef36c81921c02b190fce3a60fe5f91af26315fbacf1637552800e8d79"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2023 بتعديل بعض أحكام القرار رقم (38) لسنة 2017 بإنشاء اللجنة الدائمة لإدارة المنافذ البحرية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/17/general",
+   "versions": [
+    {
+     "from": "2023-10-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c26662459f8d5899e67e1b08964455e7bb9f13ed51997dcad31f85a30e0c757a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2023 بإنشاء اللجنة الاستشارية لنظام التأمين الصحي الإلزامي وتحديد اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/18/general",
+   "versions": [
+    {
+     "from": "2023-10-09",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "13e6f471b939e52e41e869869e6509359ee4e0c9013309f9f6e096ebf114a305"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2023 بتشكيل لجنتي تثمين العقارات المنزوعة ملكيتها للمنفعة العامة وتحديد اختصاصاتهما ونظام عملهما والإجراءات التي تتبع أمامهما",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/19/general",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 18,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f830a4a743293f3c052fbfc0cba5d6474aa168845f9a49cc3a53bfae33dce50c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2023-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2023",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2023 بشأن لجنة تنظيم تلك البعثات الدبلوماسية والقنصلية للعقارات في الدولة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2023/20/general",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2023&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "28fa7b990840c96b47f28219b520725424e2b740a2da40cf05bb892d62f58d64"
+    }
+   ]
   }
  ]
 }

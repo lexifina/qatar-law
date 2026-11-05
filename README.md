@@ -8,6 +8,8 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 
 Three acts with their full dated history, and (from November 2026) every other constitution, law and decree-law that Al Meezan marks in force (قيد التطبيق), each in its own folder named `<type>-<year>-<number>/` (for example `law-2016-13/`, `decree-law-1995-24/`). `data/versions.json` lists them all.
 
+From 5 November 2026 the decrees, Amiri decisions and orders, Council of Ministers and Prime Minister decisions, ministerial decisions and decisions of other authorities that Al Meezan lists and marks in force are added in batches, each in a folder named `<type>-<year>-<number>/` (for example `cabinet-decision-2022-4/`), or `<type>-<issuer>-<year>-<number>/` where Al Meezan files the instrument under its issuer (for example `ministerial-decision-finance-minister-2026-25/`). Left out: individual instruments (appointments, promotions, retirements, transfers, pardons, awards, nationality), instruments whose text carries personal identifiers, and instruments whose Akoma Ntoso XML on Al Meezan does not carry the same Arabic text, since each added instrument is checked against it.
+
 The three acts with full history:
 
 | Folder | Act | Versions | History |
@@ -20,7 +22,7 @@ The three acts with full history:
 
 **Source.** The texts are from [Al Meezan](https://almeezan.qa), the legal portal of the Ministry of Justice of Qatar, through the public JSON API behind it. Each article's dated history chain on Al Meezan names the amending law; changes are credited only to the law it names.
 
-**The other acts.** An act whose articles Al Meezan shows no amendment, addition or repeal for is recorded as enacted, credited to itself. An act Al Meezan shows as amended is recorded as Al Meezan's current text: one version, the oldest version available, credited to the publisher, dated by the act's own in-force day, with repealed articles left out. Its dated history (the original wording and each amending law) is not yet recorded; it will be added on top, never by rewriting.
+**The other acts.** An act whose articles Al Meezan shows no amendment, addition or repeal for is recorded as enacted, credited to itself. An act Al Meezan shows as amended is recorded as Al Meezan's current text: one version, the oldest version available, credited to the publisher, dated by the act's own in-force day, with repealed articles left out. (For the decrees and decisions added from November 2026, an amended instrument's current text is dated instead by the latest in-force day among the instruments its changed articles' history names.) Its dated history (the original wording and each amending law) is not yet recorded; it will be added on top, never by rewriting.
 
 ## Dates
 
@@ -36,4 +38,4 @@ The author of a commit is the law that made the change, with an e-mail address t
 
 ## Limits
 
-Only constitutions, laws and decree-laws are here: decrees, Amiri decisions, ministerial and cabinet decisions are not. Amended acts other than the three above have no dated history yet, so their one version reads as in force from the act's own start although its text is today's. Part and chapter headings are not files. Al Meezan's record of the draft 2024 constitutional amendments is credited to the amendments as issued. Al Meezan's English texts are partial and unofficial and were not used.
+Decrees and decisions are being added in batches (see above); until a batch is published, those instruments are not here. Amended acts other than the three above have no dated history yet, so their one version reads as in force from the act's own start although its text is today's. Part and chapter headings are not files. Al Meezan's record of the draft 2024 constitutional amendments is credited to the amendments as issued. Al Meezan's English texts are partial and unofficial and were not used.
