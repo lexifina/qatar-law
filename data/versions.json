@@ -15644,6 +15644,4206 @@
      "sha256": "ed683fa3fa7924c5c6cbc6b782910820c8cb61387257ee8202ab9c5a428cb7cd"
     }
    ]
+  },
+  {
+   "slug": "cabinet-decision-2026-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2026 بتعديل بعض أحكام اللائحة التنفيذية لقانون مكافحة غسل الأموال وتمويل الإرهاب الصادرة بقرار مجلس الوزراء رقم (41) لسنة 2019",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/8/general",
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4af20e2685e5f818f0ac7a7adaf7c27bc427aa5c3b52217eed66d93c8167ff20"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2026 بإصدار اللائحة التنفيذية للقانون رقم (6) لسنة 2025 بتنظيم البحث الصحي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/12/general",
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "units": 78,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f650074bea7c2779bf50084d221afdb81433c8b8483d28f9b505091fe8d36e07"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2026 بتعديل بعض أحكام القرار رقم (28) لسنة 2020 بتحديد المناطق التي يجوز فيها لغير القطريين تملك العقارات والانتفاع بها وشروط وضوابط ومزايا وإجراءات تملكهم لها وانتفاعهم بها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/21/general",
+   "versions": [
+    {
+     "from": "2026-06-08",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ce84d4fa0b70f53fb1dc4b00df34028d312af71576450272b8fb3549da2236b9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 2026 بتعديل بعض أحكام القرار رقم (38) لسنة 2025 بإنشاء لجنة السلامة الرقمية للأطفال والنشء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/29/general",
+   "versions": [
+    {
+     "from": "2026-07-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2f68c1abdbc212d88af11b8ede0fb3e174a16b4aafcc96a50a5f8edb38029001"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2026 بتعديل بعض أحكام اللائحة التنفيذية للقانون رقم (25) لسنة 2018 بشأن الضريبة الانتقائية الصادرة بقرار مجلس الوزراء رقم (5) لسنة 2019",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/30/general",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e8eecf762f7aaa1ed3add96b3740d617942af0b308c8289720faef49a3ca10b0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-31",
+   "short": "قرار مجلس الوزراء رقم ( 31 ) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم ( 31 ) لسنة 2026 بجداول مسميات السلع الانتقائية الفرعية ورمز النظام المنسق لكل منها ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/31/general",
+   "versions": [
+    {
+     "from": "2026-09-18",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "eed2cc3124292bd1a986501e9d753faa726c767cdb6d639de58e17c68c035e55"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2026 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة المالية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/32/general",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a7091e765819f775b9ce93d78e47673f4ad784853e5755b290e25d23a00af587"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2026-33",
+   "short": "قرار مجلس الوزراء رقم (33) لسنة 2026",
+   "title": "قرار مجلس الوزراء رقم (33) لسنة 2026 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة البلدية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2026/33/general",
+   "versions": [
+    {
+     "from": "2026-09-02",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2026&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "704993e616a68240e47143e19a46080098839841684cc3def65621254ce4ac59"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2025 بإصدار اللائحة التنفيذية لقانون التأمينات الاجتماعية الصادر بالقانون رقم (1) لسنة 2022",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/3/general",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 98,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0065a6291b16e2aeee2f44f5b9f048267faf7f855e560ecb82b06038ab031162"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2025-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2025",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2025 بإصدار اللائحة التنفيذية للقانون رقم (2) لسنة 2022 بشأن التقاعد العسكري",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2025/4/general",
+   "versions": [
+    {
+     "from": "2025-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2025&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8eb240c8b26e7a3ddf0c0fd80c74b00ec9a682c7ed21cda7ca8f69770d95905e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2024-31",
+   "short": "قرار مجلس الوزراء رقم (31) لسنة 2024",
+   "title": "قرار مجلس الوزراء رقم (31) لسنة 2024 بإصدار النظام الوظيفي لبعض الوظائف بالهيئة العامة للجمارك",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2024/31/general",
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "units": 23,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2024&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fff65472fe54cc13942610d21d51ee0cec5d20612edf23d1811f97542e2e7ba2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2007 باستثناء جمعية القلب الخليجية من بعض أحكام القانون رقم (12) لسنة 2004 بشأن الجمعيات والمؤسسات الخاصة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/30/general",
+   "versions": [
+    {
+     "from": "2007-08-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1ffae0af3fb391728dc90e8d7733e0e3f81e2d578b1d2742a5f8b935e7dbe7b6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-31",
+   "short": "قرار مجلس الوزراء رقم (31) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (31) لسنة 2007 بتعديل تنظيم الوحدات الإدارية التي تتألف منها وزارة المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/31/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "68a7cbd7ff70772067407886a0c908f51d9f8d3f32706a2e980968ae98ccef84"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2007 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في النادي الدبلوماسي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/32/general",
+   "versions": [
+    {
+     "from": "2007-09-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1d7e4a05849c1026c7daff6161994bc203a7059f3cc6959afbcfdd58c1a3c0ce"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-33",
+   "short": "قرار مجلس الوزراء رقم (33) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (33) لسنة 2007 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/33/general",
+   "versions": [
+    {
+     "from": "2007-12-26",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1518b0a4411581fa5cc9af15d6b02ac5f63e0fa1ea4906f8843a6bac5c66445f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-34",
+   "short": "قرار مجلس الوزراء رقم (34) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (34) لسنة 2007 بإصدار الهيكل التنظيمي للهيئة القطرية للأوقاف",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/34/general",
+   "versions": [
+    {
+     "from": "2007-09-23",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "424b6d3068117afdd785f5117697a2949f82e4648dffd8db470281a28ee3b996"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-37",
+   "short": "قرار مجلس الوزراء رقم (37) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (37) لسنة 2007 بتعديل بعض أحكام القرار رقم (26) لسنة 2003 بشأن اللجنة الدائمة للاستقدام",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/37/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8e1c432ba1adedb19b3753111a65298adbe1f2e82e57610255c0c53a975f6234"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-38",
+   "short": "قرار مجلس الوزراء رقم (38) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (38) لسنة 2007 بتعديل بعض أحكام القرار رقم (26) لسنة 2006 بتحديد رسوم رخص العمل واستقدام العمال والتصديق على الأختام والشهادات والمستندات الأخرى",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/38/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "74e20e344d74c2c335f536eba72adb06e373da68d08bbb0062f6f0776ef4e3b7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-39",
+   "short": "قرار مجلس الوزراء رقم (39) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (39) لسنة 2007 بتعديل بعض أحكام اللائحة التنفيذية لقانون الخدمة المدنية الصادرة بقرار مجلس الوزراء رقم (13) لسنة 2001",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/39/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "033f110a2a82c600a985a565d02eae779398693b79340865415ce2f5689ba6b1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-42",
+   "short": "قرار مجلس الوزراء رقم (42) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (42) لسنة 2007 بتشكيل لجنة للمناقصات تتبع لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/42/general",
+   "versions": [
+    {
+     "from": "2015-04-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=42&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "95f6e7491f9d8f2327308992dc7190a13480ef3f0d0664f664863b9afda0b837"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-44",
+   "short": "قرار مجلس الوزراء رقم (44) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (44) لسنة 2007 بمنح إعانة مالية إضافية لصندوق التكافل الاجتماعي للعاملين بوزارة التربية والتعليم",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/44/general",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3302abef2f1cfa27e557683b428d42340b520844577c7c42587555f51f5eeb29"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-45",
+   "short": "قرار مجلس الوزراء رقم (45) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (45) لسنة 2007 بتعديل بعض أحكام القرار رقم (26) لسنة 2004 بإنشاء اللجنة الوطنية لحظر الأسلحة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/45/general",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "561e804f0674adeb267d88f53d0fb3d6b5461b7799b071f588c6a9b2a1447820"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2007-46",
+   "short": "قرار مجلس الوزراء رقم (46) لسنة 2007",
+   "title": "قرار مجلس الوزراء رقم (46) لسنة 2007 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في بعض الشركات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2007/46/general",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=46&year=2007&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0b0be7e0d63502abf5fe4146fa04529357448fd8f58752598201441749c45526"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2006 بتشكيل المجلس الدائم للتأديب",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/2/general",
+   "versions": [
+    {
+     "from": "2006-01-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "94edfcdddece98af0d56e09491e3c54dcadee64a2bfb43e45942fb9622089c3b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2006 بتعديل بعض أحكام القرار رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شؤون المزارعين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/3/general",
+   "versions": [
+    {
+     "from": "2006-02-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "81084e79f7b1930db9b71373ddec65bff23b32bac18271f3e7d7bd02878a85e1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2006 بتشكيل مجلس إدارة هيئة قطر للأسواق المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/4/general",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "41c93f2f1752f205f22f9071d9a0156e5682e4c2cad7e9311c1f948799175f02"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2006 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في بعض الشركات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/7/general",
+   "versions": [
+    {
+     "from": "2006-02-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0034076403bdb8eaac068c52680f922a0cd3e4b39d5898e5f96f0180f2860805"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2006 بشأن تداول مياه الشرب المعبأة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/8/general",
+   "versions": [
+    {
+     "from": "2006-06-27",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "70b99a8ffa62bf9a3fa3ec15261dcdb5a5c7f84bf2ab974a9dcc66b56a6a7863"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2006 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة التربية والتعليم",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/10/general",
+   "versions": [
+    {
+     "from": "2006-04-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "137dc1d117306b896e2e1ac33164cf8e34415a64b800838ea50f7a2925951be0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2006 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الأول لعام 2006 بالموافقة على تأسيس شركة تسمى «قطر للغازات الصناعية» «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/11/general",
+   "versions": [
+    {
+     "from": "2006-04-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6516870a84e344f8f37e3af5389059c12c8031a2c2769ed06dc22ef74db1fd76"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2006 باعتماد تقييم صافي أصول المؤسسة العامة للبريد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/12/general",
+   "versions": [
+    {
+     "from": "2006-06-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9ade45a321249ea8542dceaa4be22611ddc4d83dddc1178ef54fd8fb0f1507a6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2006 بمد المهلة المحددة لتعديل أوضاع الهيئات والمؤسسات العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/13/general",
+   "versions": [
+    {
+     "from": "2006-08-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "56122dcf0bc24d111591f30a0961ae3cad3b62a307cfc2b76865df6318ffd59c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2006 بتعديل بعض أحكام قرار مجلس الوزراء رقم (4) لسنة 2006 بتشكيل مجلس إدارة هيئة قطر للأسواق المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/14/general",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "07d7c39c8a6223f164ecdf33947e214a639fb739449e6bcae191cf3f4c1b646b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2006 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في كلية شمال الأطلنطي «فرع قطر»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/15/general",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d0d7f33fd960a262daa5dc34002db0c230b34dcbfb716ca9b906f7ce86ac5da1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2006 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثامن لعام 2006 بالموافقة على إبرام بعض الاتفاقيات الخاصة بإعادة التمويل لسداد بعض ديون قطر للبترول",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/17/general",
+   "versions": [
+    {
+     "from": "2006-06-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "48c02303255659ee7c1b8ed9f745be841acf71eb6f7a3c5aa10acd5c667d0e09"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2006 بتعديل بعض أحكام القرار رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/18/general",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "24810a3e4baef0d00cc70bef0bb5ee93586240864099a7f8d6b2e30e71ea9786"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2006 بتعديل بعض أحكام القرار رقم (31) لسنة 2005 بتشكيل لجنة مكافحة التستر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/19/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "369fe6ef10402c2718e7033e5788f86cea70852db2ea10c7e55b2c998e76369b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2006 بتشكيل لجنة للمناقصات تابعة للجنة تسيير مشروع مطار الدوحة الدولي الجديد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/20/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d1bd549cdc6c522041cb48c632bd8a4e0692dd281ae10321bd8008ef06e906be"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2006 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه (11) لعام 2006 بالموافقة على تأسيس شركة تسمى «شركة الشاهين لخدمات الطاقة المحدودة» «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/21/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d207dd7ef64147a033a93fe745e54d802c48864a76597e64e589ff529e7d5cff"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2006 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه (11) لعام 2006 بالموافقة على تأسيس شركة تسمى «شركة أمواج لخدمات التموين المحدودة» «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/22/general",
+   "versions": [
+    {
+     "from": "2006-09-13",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "72306e77415f5830b868661ead8dab79853ee218449c7ecc974d347134999aa7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2006 بتعديل تشكيل لجنة قبول المهندسين ومكاتب الاستشارات الهندسية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/23/general",
+   "versions": [
+    {
+     "from": "2006-09-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "501e174d4ba329a28a4e1796f025bcfc486dd36037ffa9b759df624dd3c2b006"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/24/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7237a4fffec4e82eaf147f1da34c2333c5a8ad2690cdcb524227fb7e24dc02d6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/25/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "42bdfd4d44c86a5829d4773512590f725a230facc72cbce53a33daee9893827a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/26/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e4c25a05ea3afcf13e36b665e25fdd32ca241df2f6e12f53efa1604982e6500e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/27/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0f8452611df28d66dd1c7e2d83d105a4359c473fe90f9dfa6e4f3faf3eaede4c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/28/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6300b25c5cdac2cfab04f38db4d3de04032e92faebd6b32f823f38e007553458"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/29/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "46f1651808cb293cd2ccbbfabc381a209869b7356b23e9726a7e12c0a6a6a51a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/30/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bf6ac836b3ff7404718e493f6c47782e005525fa015dba51806e5964c2aab56b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-31",
+   "short": "قرار مجلس الوزراء رقم (31) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (31) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/31/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8639ee00ee18939d182defecf33d8907599a3e28e087cb36f009e376cce6ab82"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/32/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a99196cb7d5d1fc184b2d23348f662913926fa2bd5392f96259070035b067130"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-33",
+   "short": "قرار مجلس الوزراء رقم (33) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (33) لسنة 2006 بإنشاء اللجنة الوطنية لأمن الموانيء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/33/general",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "474301a79dc5fa6158801d94ea41b8b82c7cd4bd99fe67f3e9545f06207bd92b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-34",
+   "short": "قرار مجلس الوزراء رقم (34) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (34) لسنة 2006 بتعديل بعض أحكام القرار رقم (4) لسنة 2001 بإنشاء اللجنة الوطنية للتنسيق فيما يختص بشؤون منظمة التجارة العالمية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/34/general",
+   "versions": [
+    {
+     "from": "2006-10-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d7a38a8a5a7bb7541f3d5a7321868cb5bee759b361592563a6c027db94b739b5"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-35",
+   "short": "قرار مجلس الوزراء رقم (35) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (35) لسنة 2006 بتعديل بعض أحكام القرار رقم (30) لسنة 2004 بتشكيل مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/35/general",
+   "versions": [
+    {
+     "from": "2006-11-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a8237f92de92a31f744c8e93911095bec4a07d0ea67aee4220b7e7996fd83a4d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-37",
+   "short": "قرار مجلس الوزراء رقم (37) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (37) لسنة 2006 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشؤون الإسلامية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/37/general",
+   "versions": [
+    {
+     "from": "2006-11-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "709e6d66ddf4aed3b2eb9ba43bc304a262f4fb8c7048c9547348b6221621c2d8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-38",
+   "short": "قرار مجلس الوزراء رقم (38) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (38) لسنة 2006 بتعديل بعض أحكام قرار مجلس الوزراء رقم (8) لسنة 1997 بشأن تحديد قيمة المعاش المستحق للفئات المنصوص عليها في القانون رقم (38) لسنة 1995 بشأن الضمان الاجتماعي وقواعد منحه",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/38/general",
+   "versions": [
+    {
+     "from": "2006-11-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0e866e2a040ff81058368a4cdf0c2c10d0a0f07a1c6ec5ba68917ea25e2d7d3d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-39",
+   "short": "قرار مجلس الوزراء رقم (39) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (39) لسنة 2006 بتعديل بعض أحكام القرار رقم (28) لسنة 2005 بإنشاء اللجنة الطبية لوزارة الداخلية وتنظيم اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/39/general",
+   "versions": [
+    {
+     "from": "2006-12-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "201a15acc20d44e13bbc4d7b2076758ff51e59e237dac5e19964c970020a3c97"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-40",
+   "short": "قرار مجلس الوزراء رقم (40) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (40) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/40/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "61aca59cbad0c826a02e914ca2db98496fc2564765ba67db469c2b5cbfa2ff5e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-41",
+   "short": "قرار مجلس الوزراء رقم (41) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (41) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/41/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b9f1df6f49209bd188415de2d4ee9e12456614b4206bbab21516bf6b66b811db"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-42",
+   "short": "قرار مجلس الوزراء رقم (42) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (42) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/42/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=42&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "24d1b8c46c570980bb0fd30b46e42f51481820f4c336533fb3a90c0eb8e3e818"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-43",
+   "short": "قرار مجلس الوزراء رقم (43) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (43) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/43/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=43&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a9233e9da22816a14a4a7c620a639a2236779eb3e18c87620e37269c517c1cfe"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-44",
+   "short": "قرار مجلس الوزراء رقم (44) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (44) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/44/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "79cdd6b98aa2e66999b20ea2b82b8961925479853c200511601084bbbdb478e1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-45",
+   "short": "قرار مجلس الوزراء رقم (45) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (45) لسنة 2006 بنزع ملكية بعض العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/45/general",
+   "versions": [
+    {
+     "from": "2007-02-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8690439a180b7668760430dd8245b5fd871740daaf1880f47ee53ffa19fb88f0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-46",
+   "short": "قرار مجلس الوزراء رقم (46) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (46) لسنة 2006 بتشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/46/general",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=46&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c87ab847fac8a4f7e517a3ba71fef7dbc2b830e7cc33933f3c90e769b39374d5"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-47",
+   "short": "قرار مجلس الوزراء رقم (47) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (47) لسنة 2006 بمنح بدل حضور جلسات لرئيس وأعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/47/general",
+   "versions": [
+    {
+     "from": "2006-12-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=47&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "44bd371b5bb8b9bbf62c1219ef98fd44ceb63a60c41e11862d4b520b234a45f9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2006-49",
+   "short": "قرار مجلس الوزراء رقم (49) لسنة 2006",
+   "title": "قرار مجلس الوزراء رقم (49) لسنة 2006 بتشكيل لجنة للمناقصات بالديوان الأميري",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2006/49/general",
+   "versions": [
+    {
+     "from": "2006-12-26",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=49&year=2006&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b2fd21ede8415c4985e7c13a372c46a5cd08b799bc22695df6e5f37aa4a812f9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2005 بشأن قواعد الجمع بين الانتفاع بنظام المساكن الشعبية ومساكن كبار الموظفين القطرين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/1/general",
+   "versions": [
+    {
+     "from": "2005-02-22",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a72e495704511a93eff7239cec5e0b00b78990a421f195bd9801dbd16ab8fb73"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2005 بمنح مكافأة لرئيس وأعضاء لجنة التراخيص الطبية البيطرية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/2/general",
+   "versions": [
+    {
+     "from": "2005-04-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "77f809a4dd12ca8ab1877382fa978f4413a5c3441bd9765c303752ef57f6d888"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2005 بتحديد مكافأة اللجنة الدائمة للموارد المائية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/5/general",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c8ee6f6f244e10b605d670b12c1df5b85c5f92d93f4ee9298367c7730ea6ce5e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (30) لسنة 2004 بتشكيل مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/6/general",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "34f879449e3ad621f2322cdf36fe1fd4e6fe1c35cc901e8aa66dfe135ce6210b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2005 بمنح مكافأة سنوية لرئيس وأعضاء مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/7/general",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dada69baffca4c1ab6bc9e76e4e0819970f72fd5cf8fa3fab0a8be7e0ae1e6fd"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/8/general",
+   "versions": [
+    {
+     "from": "2005-05-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ea3fff3d807d96698f96178cb39fbeddcabd677d63a71f8df8e33b3a0634722c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه الرابع لعام 2005 بالموافقة على اشتراك قطر للبترول في تأسيس شركة تسمى «شركة ناقلات للوكالات الملاحية المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/9/general",
+   "versions": [
+    {
+     "from": "2005-06-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4fdffd7930b736c0b0229c034ebf612f238b5045e03d95c097a530d3e9c491c2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الرابع لعام 2005 بالموافقة على تأسيس شركة باسم «شركة قطر لتسويق البترول المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/10/general",
+   "versions": [
+    {
+     "from": "2005-06-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7d149b51e0ab2fcf7db2024dd6f5bc32ee9f3c1ac1d80e4d46e6a643b9a4d304"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2005 باعتماد قرار مجلس إدارة مؤسسة حمد الطبية رقم (22) لسنة 2005 بإصدار الهيكل التنظيمي للمؤسسة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/11/general",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4f24c9848945fa4c637e7f43118802e7f435a61f4662ad3373ca1e50f66ff8cf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه العاشر لعام 2005 بالموافقة على تأسيس شركة تسمى «شركة رأس لفان للغاز الطبيعي المسال المحدودة «3» (شركة مصرية مساهمة)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/12/general",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a4f36db21a608fae62262f678467be6c137514107779169c2bc9a8300911f66c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه السادس لعام 2005 بالموافقة على تأسيس شركة تسمى «شركة قطر للبترول الدولية المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/13/general",
+   "versions": [
+    {
+     "from": "2005-07-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "29f01809d7d57117624d964f4d2c1e1d2c48059d727f0cb119d9b865f2fca026"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2005 بتحديد بعض الجهات التي تسري عليها أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/16/general",
+   "versions": [
+    {
+     "from": "2005-09-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b45ca09b66fe4fb1c9387fec2c8a0369ab91aa096106111107ba9e6771c4a09f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2005 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة شؤون الخدمة المدنية والإسكان وتعيين اختصاصها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/17/general",
+   "versions": [
+    {
+     "from": "2005-09-26",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9e5063fc5c0dc93716eaff7710ba986448f2e093f951f874f51635679d580975"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات والتعويضات بوزارة المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/18/general",
+   "versions": [
+    {
+     "from": "2005-10-17",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "16b841bbe46f1c5c0efe5f3281a3a507cbdbb8892c4a55fe4ef403f2b7317e00"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2005 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1993 بشأن تنظيم أعمال اللجان المشتركة والمتخصصة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/19/general",
+   "versions": [
+    {
+     "from": "2005-10-20",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7749b0d1c7be280e8841527ddf3886d5a1cf35cc5fe00ae0ccd4015aba16a80d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2005 باستثناء المؤسسة العامة القطرية للكهرباء والماء من بعض أحكام قانون الهيئات والمؤسسات العامة الصادر بالقانون رقم (26) لسنة 2004",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/20/general",
+   "versions": [
+    {
+     "from": "2005-10-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "75f46782ae6d8d6f68679a500d6e1c6e3ea03b1fe1e459cba2e28aa7fcd06172"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2005 بسريان أحكام القانون رقم (24) لسنة 2002 بشأن التقاعد والمعاشات على العاملين القطريين في المدارس المستقلة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/21/general",
+   "versions": [
+    {
+     "from": "2005-10-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0c2848263530a45948eb9058ab99aab8c37ad874134d07c6d9f146e07774e912"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (4) الصادر في اجتماعه الرابع عشر لعام 2005 فيما تضمنه من الموافقة على إبرام اتفاقية ضمان إتمام مشروع كيو كيم (2)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/23/general",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "50a25fab0f098a0aca5288c08b05197c1152c0d8f22759b7ed51a61ea318cea3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2005 بشأن تحديد مقر مركز قطر للمال",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/24/general",
+   "versions": [
+    {
+     "from": "2005-11-30",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6f6c2be1a82074d9ded6d2a3cd7e44a21b051d555ec926ce694d2a7e619bba2a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الخامس عشر لعام 2005 بالموافقة على تأسيس شركة تسمى «شركة قطر للبترول رأس غاز (3) المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/25/general",
+   "versions": [
+    {
+     "from": "2005-12-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "db9a679facffb27f60fc248f946d6742895b1c7f32ac6562d0645600aa24417d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه الخامس عشر لعام 2005 بالموافقة على تأسيس شركة تسمى «شركة قطر للبترول قطر غاز (3) المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/26/general",
+   "versions": [
+    {
+     "from": "2005-12-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4b00e60e8f43fc6c049cb34fa6679f137624c11b4d22ea4ac9dd66166f1f6361"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2005 بمنح مكافأة لرئيس وأعضاء اللجنة الدائمة لشؤون المخدرات والمسكرات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/27/general",
+   "versions": [
+    {
+     "from": "2005-12-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5ac119b6556edc18de33953ac545086fd9e5b2b6ba14109661193c8f7ec8099b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه السابع عشر لعام 2005 فيما تضمنه من الموافقة على إبرام بعض اتفاقيات الضمان الخاصة بمشروع قطر غاز (3)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/29/general",
+   "versions": [
+    {
+     "from": "2005-12-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a8494def6bfd80a2e1711a2985efdf513c3876a5bf4279bb0585e7c381e9867c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2005-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2005",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2005 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه السادس عشر لعام 2005 بالموافقة على تأسيس شركة تسمى «شركة قطر القابضة للصناعات الوسيطة المحدودة» (قطر القابضة) «شركة مساهمة قطرية قابضة»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2005/32/general",
+   "versions": [
+    {
+     "from": "2005-12-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2005&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7e932b0ccb4539851fcac7bd7bc8c22b4a2a86089927f03b9d80403a152eccde"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (8) لسنة 2000 باستثناء وزارة الداخلية من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات وإنشاء لجنة للمناقصات والمزايدات بالوزارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/1/general",
+   "versions": [
+    {
+     "from": "2004-01-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "070d2cba15fce9845559d17fa358210a1ba25e151a9368cd23517bf54d37cb11"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2004 بإصدار الهيكل التنظيمي للهيئة العامة للطيران المدني",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/3/general",
+   "versions": [
+    {
+     "from": "2004-02-09",
+     "units": 18,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "92da5f37d070061af918a1dda3e89bc486cec31170bfc121d3d1e0f025c69450"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2004 بتعديل بعض أحكام مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/4/general",
+   "versions": [
+    {
+     "from": "2004-02-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "757c4a9b9226dc9965b969d88a9b2189e3a7ea014f8e70c75e760af262df445e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه السادس عشر لعام 2003 بالموافقة على تأسيس بعض الشركات بالمملكة المتحدة ولوكسمبرج للعمل في مشروع قطر غاز (2)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/5/general",
+   "versions": [
+    {
+     "from": "2004-02-09",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "aaa851dedd6ae151c412ccf26198465c63e87ef29fb63b1e07167887f0ea7940"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه السابع عشر لعام 2003 في شأن الموافقة على تأسيس شركة باسم (قطر تيرمينال المحدودة) (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/8/general",
+   "versions": [
+    {
+     "from": "2004-03-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c64504190025f6c83cdd440aee0840a39fe88489de7eda6abd475bed2d67cd62"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2004 باعتماد قرار مجلس إدارة الهيئة العامة للتقاعد والمعاشات رقم (4) لسنة 2003 بشأن نظام استثمار أموال صندوق المعاشات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/9/general",
+   "versions": [
+    {
+     "from": "2004-03-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4c3a80d26b5c6af1c6adcd3e3bbc8ab2f91da1ba57f328d7751fc817dc9e7f5b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2004 بتنظيم لجنة تقدير احتياجات أصحاب مزارع الثروة الحيوانية من المياه",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/11/general",
+   "versions": [
+    {
+     "from": "2004-03-31",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "26c9ebc8902bd58e6faa97d71ec65f6293a067dd388aca58f8998e0dfd8239e8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2004 بإنشاء بلدية الظعاين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/13/general",
+   "versions": [
+    {
+     "from": "2004-06-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f75b21e415c09b724c925d3ec2f86e7a8a4e0654cc3490d0cc88f1b642c2ecdf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثالث لعام 2004 بالموافقة على ضمان الشركة الأم المقدم من قطر للبترول لصالح شركة «قطر تيرمينال المحدودة» في شأن مشروع محطة أديسون إل إن جي إس بي إيه نورث أدرياتيك إل إن جي تيرمينال",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/15/general",
+   "versions": [
+    {
+     "from": "2004-06-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "41f50791a358e8e3255de9e3799867497e8af255b40ad3c8e7a2cf39483450fe"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2004 بزيادة رأس مال المؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/17/general",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4adf8a6bcf187a2a74016868481cfaebb2d18779f0d059a54130357ed97c8ff5"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الخامس لعام 2004 بالموافقة على تأسيس شركة الخليج العالمية للحفر المحدودة «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/18/general",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "abd4baaceec9e0c9a6079787359b813ee2801a324f1fa5c2e8931ee6e71a95e3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثامن لعام 2004 بالموافقة على اشتراك قطر للبترول في تأسيس شركة تسمى «شركة قطر لنقل الغاز» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/19/general",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cc9ff9fbda0e701c43f998717ea244a89ce388c1f86916f61d9a0ec10b0155b8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2004 بإصدار اللائحة التنفيذية لقانون الجمارك",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/21/general",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 39,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "07bc78d0da94a581706b70e41262732c8b5099699d7c0df7dd2cdbf463157cce"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2004 بالسماح للبنك الأهلي المتحد «شركة مساهمة بحرينية» بالمساهمة في زيادة رأس مال البنك الأهلي القطري «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/23/general",
+   "versions": [
+    {
+     "from": "2004-08-26",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "173cbdbe8be4b5205b373ad7ed0261c8368bebb777e2023a58c31b414d22014e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1994 بتعيين مصرف قطر المركزي مصفيا لفرع بنك المشرق بالدوحة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/25/general",
+   "versions": [
+    {
+     "from": "2004-10-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dc34b5e40aad77fdd69a25bd1180b30b220ff51045b0bdacda31239880d45677"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2004 بإنشاء اللجنة الوطنية لحظر الأسلحة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/26/general",
+   "versions": [
+    {
+     "from": "2022-10-30",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "765b0e1d3e45c0dcce319e9dff59225fa644279d663b66ff4f2c6b7412abdf3c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2004 بإضافة عضو إلى اللجنة الدائمة لإدارة منفذ أبو سمره",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/28/general",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f55c7a4f85613eb05ae615fc1e4f43c28465ba0ae95ff8a29c1bb0cc5240dafa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 2004 بتشكيل مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/30/general",
+   "versions": [
+    {
+     "from": "2006-11-06",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cdb810cccc29cfac6d039f9f97ee9ae3e2f4a02c1f87b01b75a0f4de536b3e7f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (6) لسنة 2004 بشأن الموافقة على تأسيس شركة بإسم «قطر للبترول لتجارة الغاز (قطر غاز2) المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/32/general",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8584a866bdf0ca26fb945521301a6add7c1404968ce1cb2514d2f774dbfa99d2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-35",
+   "short": "قرار مجلس الوزراء رقم (35) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (35) لسنة 2004 بإلغاء قرار مجلس الوزراء رقم (43) لسنة 2001 بإنشاء لجنة الاتفاقيات الاقتصادية والضريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/35/general",
+   "versions": [
+    {
+     "from": "2004-11-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a3d992a17e65bd85585232f27ab1e94085322578434005c6d17a1cd91ce78027"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-36",
+   "short": "قرار مجلس الوزراء رقم (36) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (36) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه العاشر لعام 2004 بشأن الموافقة على اشتراك قطر للبترول في تأسيس شركة باسم «السيف المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/36/general",
+   "versions": [
+    {
+     "from": "2004-12-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "87104d2f23158adb3e4a03eb2c8b497ba28f4ded19f2656e572002dfc2ea6a41"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-37",
+   "short": "قرار مجلس الوزراء رقم (37) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (37) لسنة 2004 بإصدار لائحة العاملين بمعهد التنمية الإدارية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/37/general",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 42,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a3dd75b27f68698629f929024f5da540e40ef154c5aebdf72b795c4e8fca0bdd"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-38",
+   "short": "قرار مجلس الوزراء رقم (38) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (38) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 2003 بإنشاء لجنة تسمية المناطق والأحياء والشوارع والميادين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/38/general",
+   "versions": [
+    {
+     "from": "2004-12-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2a7518b770939fdf855ed4afae1b7d7dea8a2dae1a662dacc1e62f90b2d8a036"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-39",
+   "short": "قرار مجلس الوزراء رقم (39) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (39) لسنة 2004 بتعديل تنظيم الوحدات الإدارية التي تتألف منها الهيئة العامة القطرية للإذاعة والتلفزيون",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/39/general",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e31ee090a520890b5ed0529a4e7080479be10b27f051e15966870a9e09305203"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-40",
+   "short": "قرار مجلس الوزراء رقم (40) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (40) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثاني لعام 2004 بشأن الموافقة على تأسيس شركة باسم «قطر للغاز المسال المحدودة (2)» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/40/general",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5bf79205489a7227e1e6769b8e5689eb5967aa69e04516787a05dca97cedf097"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-41",
+   "short": "قرار مجلس الوزراء رقم (41) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (41) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (15) لسنة 1997 بإنشاء لجنة الشكاوي والتعويضات بوزارة الشؤون البلدية والزراعة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/41/general",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4ca3bbb2745b378c40cde666a67b1037e3193aee8eac66f99a9820086731dcbb"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-43",
+   "short": "قرار مجلس الوزراء رقم (43) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (43) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثاني عشر لعام 2004 فيما تضمنه من الموافقة على إبرام اتفاقية ضمان إتمام مشروع قطر غاز (2)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/43/general",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=43&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9ea236af01d90dd9f43ebfe75d864c8e388c333ff9a3bda3f7947a3ac0650331"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-44",
+   "short": "قرار مجلس الوزراء رقم (44) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (44) لسنة 2004 باعتماد قرار مجلس إدارة قطر للبترول رقم (3) لعام 2004 في شأن الموافقة على تأسيس شركة باسم «قطر غاز للتشغيل المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/44/general",
+   "versions": [
+    {
+     "from": "2004-12-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5d5904284b2c333861b8e54ef476fec0e44e89264ca4d7e999e21372c57bdad0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2004-45",
+   "short": "قرار مجلس الوزراء رقم (45) لسنة 2004",
+   "title": "قرار مجلس الوزراء رقم (45) لسنة 2004 بتعديل بعض أحكام قرار مجلس الوزراء رقم (24) لسنة 2004 بإنشاء اللجنة الدائمة للسكان",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2004/45/general",
+   "versions": [
+    {
+     "from": "2004-12-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=2004&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5d83df3e6b6c938d674bc37ff609d4d0fb12c3ff65602a5c0b4b8d91f557dbf4"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2003 بتحديد الجهة التي تتولى إدارة وتشغيل مطار الدوحة الدولي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/1/general",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "53c9c02490c5549e49348f4efec5ae3bf92a27a429edf5a53108d4b702ac6cde"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه السابع لعام 2002 بالموافقة على تأسيس شركة تسمى «أوريكس لتحويل الغاز إلى سوائل المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/2/general",
+   "versions": [
+    {
+     "from": "2003-02-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a0893b8f8b43fa1cccc5bb02348f97015a49885aac78e61b36e32511d1ed3442"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2003 بإنشاء لجنة دائمة لإدارة منفذ أبوسمرة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/3/general",
+   "versions": [
+    {
+     "from": "2023-07-18",
+     "units": 14,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ec9cf9a2f6d5af16a68776720635ec9143ea7ffc7b75f9c6f50c816ba84e7f58"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه الثامن لعام 2002 فيما تضمنه من الموافقة على إبرام اتفاقية قرض مع بنك قطر الوطني",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/4/general",
+   "versions": [
+    {
+     "from": "2003-02-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "db651a7d3d9459b8acdfc7fcfdee40cb6c771c29ba8dd48b7c845bb46b03d78f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الثامن لعام 2002 فيما تضمنه من الموافقة على إبرام اتفاقية قرض مع بنك كريدتا نستالت فورفيدرفبو",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/5/general",
+   "versions": [
+    {
+     "from": "2003-02-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8f3af3ef7223219e35dccac1d7266634ba79f45d6ca1e997593d245e9ce4f69a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2003 باعتماد الهيكل التنظيمي لمركز الدراسات القانونية والقضائية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/6/general",
+   "versions": [
+    {
+     "from": "2003-02-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "aad5a7f24123b450c6e8c204acc07fe543457b111a673105e932d855d8948021"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (30) لسنة 2001 بتنظيم اللجنة الدائمة لشؤون صيادي الأسماك",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/7/general",
+   "versions": [
+    {
+     "from": "2003-02-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "990610137ec439ef7909387f368bd46244552849c24ad616e01592fb76ebf1f9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2003 بإصدار لائحة شؤون موظفي النيابة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/9/general",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 139,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "16b2ca5c100682f60d5719de4a7308fc2121726122617addafeb82f1ed72db41"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الأول لعام 2003 في شأن الموافقة على إبرام اتفاقية ضمان إتمام مشروع «شركة أوريكس لتحويل الغاز إلى سوائل المحدودة»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/10/general",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "528969e5c103c03672abb3bfde207cf1b9553e4962a9ed7070f6c234f3137247"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2003 بإعفاء شركة كاتكس المحدودة (شركة مساهمة قطرية) من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/11/general",
+   "versions": [
+    {
+     "from": "2003-02-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1dae7be4329079a685f2491417564f70a703a373ab58769d8327310dce455f17"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2003 بإصدار الهيكل التنظيمي للهيئة العامة للجمارك والموانئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/12/general",
+   "versions": [
+    {
+     "from": "2003-02-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b18b60011c4e78b80b0d31afb847bcde9d82cfe08c1d505f2740b62996f81171"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2003 بشأن براءات الاختراع المتعلقة بالتقنيات المستخدمة في مشروع شركة أوريكس لتحويل الغاز إلى سوائل المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/13/general",
+   "versions": [
+    {
+     "from": "2003-03-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3351e00123c74fb52cc9ccafac13175778a6470f45338d14223adeb9223edbd8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 1990 بشأن تشكيل لجنة مركزية للتظلمات المتعلقة بنزع ملكية العقارات للمنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/14/general",
+   "versions": [
+    {
+     "from": "2003-04-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9b83930731623f09cb635b3aca757f23593b6fdd1134f74b4f54a5dac3c6f444"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2003 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة شؤون الخدمة المدنية والإسكان وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/15/general",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0b9d8e98f485a135b8592dd588607e24141b84721d1cb5a3c4d40b0be72dcd5f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2003 بإنشاء لجنة تسمية المناطق والأحياء والشوارع والميادين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/17/general",
+   "versions": [
+    {
+     "from": "2014-03-30",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "96d3d01a284ed663c54f2b11085cc942ef20fe6c8e306ae5aa90429f3d37cd39"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) في اجتماعه السادس لعام 2003 المعدل بالقرار رقم (2) في اجتماعه السابع لعام 2003 بشأن الموافقة على تأسيس شركة مساهمة قطرية قابضة، تسمى \"الصناعات القطرية\"",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/18/general",
+   "versions": [
+    {
+     "from": "2003-06-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d353e48efa43cb49d34ee5bfe453f815c70e726a564e87a683e0db4e29c318f4"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/19/general",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "18ef7986a7463d2a8cd0379f310e7ce1ced1ae073b0bbba2041b4888675d9a2d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2003 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1998 بشأن اللجنة الدائمة للتراخيص بوزارة الصحة العامة وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/20/general",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ade7c0356194fa376536bc1ef26a7906da0eb2ce0c171c5d363a60f9ec809ada"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2003 بمنح مكافأة للجنة الإشراف على المجمعات التربوية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/21/general",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1fed074910a3caf90fe0f0cea66454f0fb88073d9fc29e5a68b04638066ceab8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2003 بمنح مكافأة للجنة التنسيق والمتابعة بالمجمعات التربوية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/22/general",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5a29d46354fc1c4bc581294d8601550298ae9cd4efd80224ad84ea713d05124f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2003 بمنح مكافآت للعاملين بالمجمعات التربوية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/23/general",
+   "versions": [
+    {
+     "from": "2003-07-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "292e8318383596401b07e14be57890f16a3cf154da943f08d10b6ab1ffe40c09"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2003بتعديل بعض رسوم التوثيق",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/24/general",
+   "versions": [
+    {
+     "from": "2003-12-13",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "df379b07204dc0b71a83a50218cd48bb6b5045c4d66323ea934b0b3d2d332114"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2003 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) في اجتماعه الثالث لعام 2003 بالموافقة على تأسيس شركة تسمى «الكوت للتأمين وإعادة التأمين» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/27/general",
+   "versions": [
+    {
+     "from": "2003-10-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ce13bb7c1feb3201861e7dda0a1f62d30fc5671562fd6bfcd4e9d7ce6dc9f996"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2003-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2003",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2003 بإصدار الهيكل التنظيمي للهيئة العامة القطرية للمواصفات والمقاييس",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2003/28/general",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2003&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cdf392760e5134a67bab714be0644356b0a606bed6ef3d45263f7386491d6d74"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/1/general",
+   "versions": [
+    {
+     "from": "2002-01-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f36ba4d08bcbabe4b2f69445de645173f1a0a1f73f4f8610d62d0a79ddfd28a1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 2000 بتشكيل لجنة شؤون الحج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/3/general",
+   "versions": [
+    {
+     "from": "2002-02-10",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9b94cbeef76c0e59d25b73c2cbac85675386382da2096c114598ffe7e6adc0d2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2002 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه السابع لسنة 2001 بالموافقة على تأسيس شركة تسمى «قطر للوقود» (وقود) «شركة مساهمة قطرية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/4/general",
+   "versions": [
+    {
+     "from": "2002-02-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c7f03c465e69957507d8918ed172153dd5cda99497e0737f49a75db1f1b6a4b8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (8) لسنة 2000 باستثناء وزارة الداخلية من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات وإنشاء لجنة للمناقصات والمزايدات بالوزارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/6/general",
+   "versions": [
+    {
+     "from": "2002-03-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "98b787767690f6c8ead26e1b4c2b2d1875ba9e30159de5792bb50fc068cbbf22"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2002 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) الصادر في اجتماعه العاشر لعام 2001 بالموافقة على تأسيس شركة تسمى «كاتكس المحدودة» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/7/general",
+   "versions": [
+    {
+     "from": "2002-03-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2690f998a035fa0749550dd5d6c8b0dc50e86ba810a5f868f71ec17fdffcaa79"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2002 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/8/general",
+   "versions": [
+    {
+     "from": "2002-07-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d39ab8cc2bc2c0c86dfffe0df3dd4e15cb153249369b04557c56a938445919ff"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2002 بمنح بدل حضور جلسات لرئيس وأعضاء مجلس إدارة مركز الدراسات القانونية والقضائية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/9/general",
+   "versions": [
+    {
+     "from": "2002-04-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4cb2bf6e44969916e2ca47e7c7d53bad4a23b95aa1fdf373e2de1df0772476b0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2002 بإنشاء لجنة للاشراف على المجمعات التربوية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/10/general",
+   "versions": [
+    {
+     "from": "2002-05-04",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e51c906cb53e67e2e28abd342f465e83afdaaf8caca597e25e24ec5b38142873"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات والتعويضات بوزارة المالية والاقتصاد والتجارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/12/general",
+   "versions": [
+    {
+     "from": "2002-07-17",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1fb860d287c7e52d4fa0e7408d21c0b8d3cbfb0f7f458420cc6eaa6fffebbc5d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2002 بمنح مكافأة لرئيس وأعضاء لجنة قبول المهندسين وتصنيفهم",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/13/general",
+   "versions": [
+    {
+     "from": "2002-10-13",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "19b5d64d74601e07d17a4fc09a102cd588486a6a1874668620344bcb472cdba7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2002 بإنشاء رابطة رجال الأعمال القطريين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/14/general",
+   "versions": [
+    {
+     "from": "2003-01-04",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f70cbe074a228f0b9457ccc17a02b249b8a0d2ba38a567a5e16cbc3449b69d1b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2002 بشروط وأوضاع وضوابط ممارسة غير القطريين لبعض تخصصات المهن الهندسية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/15/general",
+   "versions": [
+    {
+     "from": "2002-11-04",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "08d4a0d57b2befb349a3dbdfcfd85f1dc4d0d4420f9f270d3bb607311ad083be"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2002 بتعديل بعض أحكام قرار مجلس الوزراء رقم (17) لسنة 1998 بإنشاء لجنة دائمة للطوارئ",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/17/general",
+   "versions": [
+    {
+     "from": "2002-11-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e916d4010fe6cf03db7a57af7adaf8428ef5c3455a414d9eb620c43557548dda"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2002-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2002",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2002 بإسناد إدارة بعض الموانئ لقطر للبترول",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2002/19/general",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2002&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9daef51da6a5d113e9fbe4ec58023c94b7e4691b054084226301ac498f024b30"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2001 بإعفاء شركة الخليج للفنادق والبنوك الممولة لمشروع فندق إنتركونتننتال- الدوحة من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/1/general",
+   "versions": [
+    {
+     "from": "2001-01-23",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2c17cc99d203e5289bf3d4b3ef0f0c9c7804470912b38f7f7d733e92bff93f7f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2001 بإعفاء شركة فنادق الدوحة من الرسوم الجمركية وغيرها من الضرائب والرسوم",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/2/general",
+   "versions": [
+    {
+     "from": "2001-01-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e4325f1fcd5e4279d3a011ee19abe3137f4cf076ea977dcf7ba5a9e84f062cb9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2001 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الشؤون البلدية والزراعة وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/3/general",
+   "versions": [
+    {
+     "from": "2001-03-14",
+     "units": 17,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fadf5c9d10c94a2ccff08b93e9f40e6063b0bc12146c9d3c00a4219811286647"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2001 بإنشاء اللجنة الوطنية للتنسيق فيما يختص بشئون منظمة التجارة العالمية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/4/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0fd0b0aa7c394d2297054df904d12e6d59b4c8025933ed9dfd97d928362ca5ba"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2001 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه الثاني لعام 2001 بالموافقة على تأسيس شركة رأس لفان للغاز الطبيعي المسال المحدودة (2) (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/5/general",
+   "versions": [
+    {
+     "from": "2001-03-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2ad054228c224e695fff3f10c36d2823549f43a8103220ccfbd0b28b554fa407"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2001 بمنح مكافأة لرئيس وأعضاء مجلس إدارة كلية قطر التقنية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/6/general",
+   "versions": [
+    {
+     "from": "2001-04-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "897df708980695d9cde6e4791e65c5520600ae4820521e15a325558805f72765"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2001بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1986 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/8/general",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3c84e0a06557fb40098745005fcc4dfe398929dd213a27d90c9d6ca7aaa3b855"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 2001بتعديل بعض أحكام قرار مجلس الوزراء رقم (13) لسنة 1993 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/9/general",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9983d67b44a9b69aadbcd69cb6c1d8356dd93df2cfe7770cc21080f3da46f292"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2001بتعديل بعض أحكام قرار مجلس الوزراء رقم (12) لسنة 1996 باعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/10/general",
+   "versions": [
+    {
+     "from": "2001-05-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "97d54c954d899e3fcb4b691ed26b982de13d2523c9810a349fd3437d0b897420"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2001 بدعم المنشآت الصحية الخاصة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/11/general",
+   "versions": [
+    {
+     "from": "2001-05-30",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "19fa5d2cf70f4f986d9de03599e204f1e68558df04ce5b3c64d8d211369fe10b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2001 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1999 بتشكيل اللجنة الدائمة لشئون المخدرات والمسكرات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/12/general",
+   "versions": [
+    {
+     "from": "2001-06-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9a59ac406587e220cd6900668960887cb59f52c97805ca142f739936af1b3fbf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2001 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/14/general",
+   "versions": [
+    {
+     "from": "2001-08-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "59cd3e052fac82053519aae39a1845b85f202a622d4d3063ac7645037a43e34b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2001 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/15/general",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "40947a92d0b42c58e229ad306ad1c032641010dcd381a9411dd26f0eb1019550"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2001 بتعديل بعض أحكام قرار مجلس الوزراء رقم (12) لسنة 1996 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/16/general",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1edf5d50e8329c91f78ac0285e1562e4f2baa445b3a5785d48e78826671c9366"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 2001 بشأن اعتماد بعض المواصفات القياسية الخليجية الإرشادية لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/17/general",
+   "versions": [
+    {
+     "from": "2001-08-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "caaaaa3f5dfa6f2e51b72fd21dace7772529ef3aa3844585522c4d76331f0037"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2001 بتعديل بعض أحكام قرار مجلس الوزراء رقم (24) لسنة 2000 بشأن إعتماد بعض المواصفات القياسية الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/18/general",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "94968818998933a33b111cb6090411556f78c99fdd86548c711c470e723ef63a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2001 بشأن المواصفات القياسية الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/19/general",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "efd2d690386d1a8d52a432602ed32b5b36f86128958183c283187e13bbd767c8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 2001 بشأن المواصفات القياسية الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/20/general",
+   "versions": [
+    {
+     "from": "2002-02-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "53292eaed3481b8519bb34e0091c82a2f363757b25bcf40969783b89a74e239a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2001 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/21/general",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3e4b484c24511ce3e7e23a2c00fb80aa7c34031db472c23a0bebc9c81e994bbf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2001 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/22/general",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7ff8bdc45d65059f6fe6fa6f89fbe3d4333503f620cadfdecba94b29b7915a74"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2001 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1986 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/23/general",
+   "versions": [
+    {
+     "from": "2002-02-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6f67e2cfbbca7b94bb5df72ab3192b968ca18795c4f69011ee99efd8771c72fa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2001 بشأن اعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/24/general",
+   "versions": [
+    {
+     "from": "2001-08-29",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0c95fc7cb2fb2b6949ba86f2cb2e538a117c74b8d11f929c3336c2e5cd0092fc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2001 باعتماد قرار مجلس إدارة قطر للبترول رقم (1) الصادر في اجتماعه الثالث لعام 2001 بالموافقة على تأسيس شركة تسمى \"شركة رأس غاز المحدودة\" (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/28/general",
+   "versions": [
+    {
+     "from": "2001-07-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "12a209c9599e34a1293494140c348acf8391ce530ddbb94b66a68ab1430b630c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-31",
+   "short": "قرار مجلس الوزراء رقم (31) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (31) لسنة 2001 بتشكيل اللجنة العامة لشؤون الشرطة وتنظيم أعمالها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/31/general",
+   "versions": [
+    {
+     "from": "2001-07-28",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0bfacd211261a317d93be72ae57449fbb678f7846f7e636269e36830e208fbe0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-32",
+   "short": "قرار مجلس الوزراء رقم (32) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (32) لسنة 2001 باعتماد قرار مجلس إدارة قطر للبترول رقم (2) لسنة 2001 بالموافقة على مشاركة قطر للبترول في تأسيس شركة مساهمة قطرية باسم «شركة رأس لفان للكهرباء المحدودة»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/32/general",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3b7486080e2c56ff9f1fcfa29ae619b3c7af4c7c219936479ad19ef1b685e899"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-33",
+   "short": "قرار مجلس الوزراء رقم (33) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (33) لسنة 2001 باستثناء جامعة قطر من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات، وإنشاء لجنة للمناقصات بالجامعة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/33/general",
+   "versions": [
+    {
+     "from": "2001-09-29",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "160e19cb291a741903485283b80b5f454762dafac8a03dbe37e2d624b227bc5c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-34",
+   "short": "قرار مجلس الوزراء رقم (34) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (34) لسنة 2001 بتشكيل لجنة التنسيق والمتابعة المنصوص عليها في قانون تنظيم المجلس البلدي المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/34/general",
+   "versions": [
+    {
+     "from": "2023-04-16",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5eeecded01e8e50a5a880134bb460b1680c579fa02c5ddfb669a13b3785afbbd"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-35",
+   "short": "قرار مجلس الوزراء رقم (35) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (35) لسنة 2001 بإعفاء الأرباح الناتجة عن مشروع توسعة (قافكو 4) من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/35/general",
+   "versions": [
+    {
+     "from": "2001-09-29",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "85db94558aceefa1a66bf8f7190756f64a0e42995fa1f3d58fa683c97e50b2a0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-36",
+   "short": "قرار مجلس الوزراء رقم (36) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (36) لسنة 2001 باعتبار مشروع إعادة تخطيط وتطوير منطقة البدع (12) من أعمال المنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/36/general",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fdd6c5bfd24ad6f2940f8ac72bbf19d54685958f6c3d351503f864e1b4ca86c0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-37",
+   "short": "قرار مجلس الوزراء رقم (37) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (37) لسنة 2001 باعتبار مشروع إعادة تخطيط وتطوير منطقة الرميلة (11) من أعمال المنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/37/general",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "10674cd8427da2347eb2f4a8a966416a12715306cd872f702d3e6bb2acd59e1f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-38",
+   "short": "قرار مجلس الوزراء رقم (38) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (38) لسنة 2001 باعتبار مشروع إعادة تخطيط وتطوير منطقة النجادة (5) من أعمال المنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/38/general",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4d8c735e0421b2371fe1696b6f6693507d9140c8e27b5982624b4a3f6442c957"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-39",
+   "short": "قرار مجلس الوزراء رقم (39) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (39) لسنة 2001 باعتبار مشروع إعادة تخطيط وتطوير منطقة الديوان الأميري من أعمال المنفعة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/39/general",
+   "versions": [
+    {
+     "from": "2001-10-24",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "40831b2f2b33558909e9a342ffb9ed557c8348b99109768ccd44e37a94ad8e65"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-40",
+   "short": "قرار مجلس الوزراء رقم (40) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (40) لسنة 2001 بتحديد رسوم منح وتجديد تراخيص مزاولة أعمال مراكز الخدمات التعليمية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/40/general",
+   "versions": [
+    {
+     "from": "2001-10-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4c8fda540967c8ca5e52322c447a1f5bc1d3ef71f4aa1153253a7c5d52042407"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-41",
+   "short": "قرار مجلس الوزراء رقم (41) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (41) لسنة 2001 بتعديل اختصاصات إدارة الشؤون التجارية بوزارة المالية والاقتصاد والتجارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/41/general",
+   "versions": [
+    {
+     "from": "2001-11-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cc9a3a67a922c77b8708c52347e854d4f5fc7383dfb904f49f3224b6444b2e1a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-42",
+   "short": "قرار مجلس الوزراء رقم (42) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (42) لسنة 2001 بإعفاء شركة شيراتون الشرق الأوسط من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/42/general",
+   "versions": [
+    {
+     "from": "2002-01-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=42&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "237f73bd72e2e807d04062dfd8c6e03f28cc11fb62f093cab06a2ec29a1304cf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-44",
+   "short": "قرار مجلس الوزراء رقم (44) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (44) لسنة 2001 بتعديل بعض أحكام قرار مجلس الوزراء رقم (13) لسنة 1997 بإنشاء لجنة للمناقصات والمزايدات بوزارة الشؤون البلدية والزراعة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/44/general",
+   "versions": [
+    {
+     "from": "2001-12-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6c6fae83d94cc7a324fccd7d5dc1d713e44b1c249229a8dbab61d18026b65e7a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2001-45",
+   "short": "قرار مجلس الوزراء رقم (45) لسنة 2001",
+   "title": "قرار مجلس الوزراء رقم (45) لسنة 2001 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الصحة العامة وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2001/45/general",
+   "versions": [
+    {
+     "from": "2001-12-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=2001&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "057fa260884eadbab9a2405026db32edc4a3d182d2f233d33ede6859458b4748"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (5) الصادر في اجتماعه الخامس لعام 1999",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/1/general",
+   "versions": [
+    {
+     "from": "2000-02-21",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1ac492943a76d2a1fe7370643b4b0957b79a5e449f08061d3b4f9ea79a8dbe09"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 2000 بتشكيل لجنة شئون الحج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/2/general",
+   "versions": [
+    {
+     "from": "2002-02-10",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "04c1b28c2b790c06d476d3913fbf961fdf8798d337ff6d8f555f8a6d87f84fb9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 2000 بتشكيل لجنة سوق الدوحة للأوراق المالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/3/general",
+   "versions": [
+    {
+     "from": "2000-02-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "26ea0b48f4fb68c14921bae28825bec2d75559bc9847c443d156fd859e96fe93"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 2000 بتعديل بعض أحكام قرار مجلس الوزراء رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شؤون المزارعين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/4/general",
+   "versions": [
+    {
+     "from": "2000-03-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9844728e3b91d3b3176dc988103b224ed2d96fd3a9b50c20b3f1ca202b4f4a95"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه الرابع لسنة 2000 بالموافقة على إبرام بعض الاتفاقيات المتعلقة بتمويل مشروع تسييل الغاز الطبيعي ­ 4 المرحلة 2",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/5/general",
+   "versions": [
+    {
+     "from": "2000-04-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b8d4705713321bed835da9da53c445ca499425809b49e0fa0fb746853fbcbba0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه الرابع لسنة 2000 بالموافقة على إبرام بعض الاتفاقيات المتعلقة بتمويل مشروع تسييل الغاز الطبيعي ­ 4 المرحلة 3",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/6/general",
+   "versions": [
+    {
+     "from": "2000-04-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ceee0f67574b2817b16ee2078540affbdd6b1ba4359727174b75c1d601c8ffeb"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 2000 بتعديل بعض أحكام القرار رقم (20) لسنة 1967 باللائحة التنفيذية لقانون الوظائف العامة المدنية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/7/general",
+   "versions": [
+    {
+     "from": "2000-04-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2693eb491dca566184437604d2686fe890a81d2bc6eb0a4e73c59cea37a7ba2d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 2000 باستثناء وزارة الداخلية من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات وإنشاء لجنة للمناقصات والمزايدات بالوزارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/8/general",
+   "versions": [
+    {
+     "from": "2004-01-05",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "acbe1e05e25a6fcdbb86d82e4d3a1fd349070f777fedd65a1213ae729dfb972e"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 2000 بشأن تحديد الرسوم المستحقة على رخص العمل ورسوم التصديق على أختام الشركات والمؤسسات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/10/general",
+   "versions": [
+    {
+     "from": "2000-09-12",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "88c5f8d4327a631bb0a685609f28777358df52bf4b55586a9301244c6a9a61ed"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 2000 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة العدل والأمانة العامة لمجلس الوزراء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/11/general",
+   "versions": [
+    {
+     "from": "2000-07-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fc34154eb1249624602ab1ca1cf27f7f3e9cd18689b84b10a5bbe11dd885e520"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 2000 باللائحة الداخلية لمجلس الوزراء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/12/general",
+   "versions": [
+    {
+     "from": "2000-09-06",
+     "units": 29,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6d1e1d788b13f45810fecbced1a116bf218e568865d45bbf67aa25d4a49f5ecc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 2000 بشأن تحديد رسوم منح وتجديد تراخيص مزاولة مهنة الطب البيطري وفتح العيادات البيطرية أو فروعها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/13/general",
+   "versions": [
+    {
+     "from": "2000-11-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "907fcc218237c322dea6aa8d63fccb21cf90cf2de9870fcbecdbe4a34d9fd493"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 2000 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/14/general",
+   "versions": [
+    {
+     "from": "2001-05-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b1def712d15fcfcf8dda4f164fa923e381c139c6cc4da9dda04bf24efba00401"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 2000 بشأن المواصفات القياسية الاختيارية لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/15/general",
+   "versions": [
+    {
+     "from": "2000-11-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ebc3f98e039d465d105f41d1c8926b39543ae6134a2ceb2e99a47871791cd09f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 2000 بتعديل بعض أحكام قرار مجلس الوزراء رقم (2) لسنة 2000 بتشكيل لجنة شؤون الحج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/16/general",
+   "versions": [
+    {
+     "from": "2000-10-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "45f6586cfe7d39cfe5e4482a00d066239df623d13c88131dd0580283030633f7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 2000 بتحديد علاوة بدل التمثيل لضباط وشاغلي الرتب الأخرى بوزارتي الدفاع والداخلية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/18/general",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2f1e8a3907476ee0ce863ac158f82f9d25e7bd4895a63649053ab5ded736439f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 2000 بإستثناء وزارة التربية والتعليم والتعليم العالي من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات وإنشاء لجنة للمناقصات بالوزارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/19/general",
+   "versions": [
+    {
+     "from": "2000-12-20",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a505c627cf65cd623591cbd6a684de7a8f2252eb7f3ea29653ebe66043834eb0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 2000 بشأن إعتماد بعض المواصفات القياسية الخليجية التجريبية لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/21/general",
+   "versions": [
+    {
+     "from": "2001-02-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c9228f75d926f817b4098ef1f8779714b105ee63eeb96ccd65353e488e285af7"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 2000 بتعديل بعض أحكام قرار مجلس الوزراء رقم (12) لسنة 1996 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/22/general",
+   "versions": [
+    {
+     "from": "2001-08-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "61548ecd3b508c985c1283646f228f14a2b9883c58e2cea813589d30a3e10307"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 2000 بشأن تحديث المواصفات القياسية لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/23/general",
+   "versions": [
+    {
+     "from": "2001-08-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "273dfd51d5484d9aa559596067aeb033cdc2b75f63a48f743e316a287d084bea"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 2000 بشأن إعتماد بعض المواصفات القياسية الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/24/general",
+   "versions": [
+    {
+     "from": "2001-08-10",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "12f0fb0908e0aa27b33b0c3a8d218cf6a72280ea2111c986d8d547690b9ccb8d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 2000 بشأن تحديث المواصفات القياسية لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/25/general",
+   "versions": [
+    {
+     "from": "2001-08-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "adea21a1158f4f7baf5a4c76ced87a7d6a214e1c7047eb1ded87672194ad5e36"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 2000 بإعتماد قيمة الأموال والموجودات التي آلت إلى المؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/26/general",
+   "versions": [
+    {
+     "from": "2000-12-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5accbb75e403091795e47728372f467623c76b1f7b740f4f91091ad9eb04c355"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) في اجتماعه العاشر لعام 2000 بالموافقة على إبرام الاتفاقيات المتعلقة بنقل جميع حقوق والتزامات شركة البترول الوطنية للتوزيع (نودكو) إلى المؤسسة فيما يخص تمويل مشروع توسعة مصفاة (نودكو)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/27/general",
+   "versions": [
+    {
+     "from": "2000-12-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d444f5e9a06b1a2f047b26d93e30600001e51d053c828c42e41d631f8e7eb65d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-2000-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 2000",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 2000 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) في اجتماعه العاشر لعام 2000 بالموافقة على دمج شركة البترول الوطنية للتوزيع (نودكو) في المؤسسة العامة القطرية للبترول وما يترتب على ذلك من نقل جميع حقوق والتزامات الشركة إلى المؤسسة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/2000/28/general",
+   "versions": [
+    {
+     "from": "2000-12-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2000&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0f95c02f75485957cb62c4f9fe2cd81df92c6b9cd4318be9787529a4dc7df7fc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 1999 بتعديل بعض أحكام القرار رقم (13) لسنة 1997 بإنشاء لجنة المناقصات والمزايدات بوزارة الشئون البلدية والزراعة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/2/general",
+   "versions": [
+    {
+     "from": "1999-01-06",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9d16b44a72011a471144bb4ba998fb2666141f879b251fb5e2d737e49e07f28a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 1999 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه الرابع عشر لعام 1998 بالموافقة على ضمان المؤسسة لتمويل مشروع توسعة مصفاة شركة البترول الوطنية للتوزيع (نودكو)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/4/general",
+   "versions": [
+    {
+     "from": "1999-01-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d1b18db43512b47c7d395805d950b71771632783e1a535bbe9ced2abd9a383fc"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه الثالث لعام 1999 بالموافقة على مشاركة المؤسسة في تأسيس شركة لأغراض ترتيبات تمويل مشروع تسييل الغاز الطبيعي - 4",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/5/general",
+   "versions": [
+    {
+     "from": "1999-04-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0641ecd832a1ca33957be7defaf692c7266b07b91edd284a044e426b2aa3697f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (3) الصادر في اجتماعه الثالث لعام 1999 بالموافقة على إبرام اتفاقية ضمان تمويل إتمام خطي الإنتاج للمصانع والمنشآت لمشروع شركة قطر للغاز المسال المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/6/general",
+   "versions": [
+    {
+     "from": "1999-04-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d011328d5aace25382169fade27841f1310fae6ca7f15340f28f8378d92bba24"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 1999 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه الرابع لعام 1999 في شأن الموافقة على إبرام بعض الاتفاقيات المعدلة ووثائق التمويل لمشروع شركة قطر للغاز المسال المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/7/general",
+   "versions": [
+    {
+     "from": "1999-04-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f71672955fe1d4a5f4e99625d60c736c46ab7e1e877f35b45e411897af273507"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 1999 بتشكيل مجلس إدارة معهد التنمية الإدارية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/8/general",
+   "versions": [
+    {
+     "from": "1999-05-03",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "13172c1b33fd297c9c319abae8a1c0f9f1654337ce736b48be1d169b20eacb38"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 1999 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه الثالث لعام 1999 في شأن الموافقة على إبرام بعض الاتفاقيات المتعلقة بمشروع تسييل الغاز الطبيعي - 4",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/9/general",
+   "versions": [
+    {
+     "from": "1999-05-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8fb004a0c53b5701f762e218b629a0aeae741a7e171302676d92c0d2871f7d9b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 1999 بإعفاء شركة إندستريال اندكميرشل هولدنج (أ.س) ­ كوبنهاجن ­ الدنماركية من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/10/general",
+   "versions": [
+    {
+     "from": "1999-05-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1596cc1ca46c1116ed7bb12c7e1f6e26d263d2858971a1c5372773472f65c1aa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شئون المزارعين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/11/general",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bfdd1d6f8c4cc5ad19b18c0d6e9a7e0dc41adf424b0c5624f688026c1f7d5d0d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1996 بشأن تنظيم لجنة المطالبات والتعويضات بوزارة المالية والاقتصاد والتجارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/12/general",
+   "versions": [
+    {
+     "from": "1999-06-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "212e561d39c9908d2d9c2a3e1b667d4a2e46ae870e8a4876da93519cff8b70e9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 1999 بإعفاء العيادات الطبية الخاصة لغير القطريين من ضريبة الدخل",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/14/general",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3bc81ff3547f16ccac562ac2def4ec4bd2c3328b15e382d2bbe044c2fe6d7643"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 1999 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/15/general",
+   "versions": [
+    {
+     "from": "2000-01-31",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5204daffd674f651376be0efb7758886a022553d6db13df52b82b97be769f5d3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (5) لسنة 1995 بإنشاء اللجنة الدائمة للاستقدام",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/16/general",
+   "versions": [
+    {
+     "from": "1999-07-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ca1eda45971ff0ac89f372a2ad26ca5bf1383f71ae1b86c82dfd7c781c661911"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 1999 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارتا شئون الخدمة المدنية والإسكان والأوقاف والشئون الإسلامية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/17/general",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b76cb16de1dcfc83cc4299b8b174d2fe25aba31686b9687d7aac013f52e2625b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 1999 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) لعام 1999 بالتمرير بالموافقة على إبرام اتفاقية ضمان إتمام مشروع شركة قطر للكيماويات المحدودة (كيوكيم)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/19/general",
+   "versions": [
+    {
+     "from": "1999-08-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "cfde8f3fe57f32d9940e63ec6ed87cb0f6f26627ab44d2c0e5e07ec4d4d9dac9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-20",
+   "short": "قرار مجلس الوزراء رقم (20) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (20) لسنة 1999 بتعديل تنظيم الوحدات الإدارية التي تتألف منها الهيئة العامة القطرية للإذاعة والتلفزيون",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/20/general",
+   "versions": [
+    {
+     "from": "1999-08-29",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d4adc1d910ff748b1cb2417204b612701061010e4f974dc55a578a70a1afaa48"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-21",
+   "short": "قرار مجلس الوزراء رقم (21) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (21) لسنة 1999 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1998 بشأن اللجنة الدائمة للتراخيص بوزارة الصحة العامة وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/21/general",
+   "versions": [
+    {
+     "from": "1999-10-26",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "25561315af3dd72274eb10a015c0f38a24c780bb12a592658ae60335e12fe5d3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1999-22",
+   "short": "قرار مجلس الوزراء رقم (22) لسنة 1999",
+   "title": "قرار مجلس الوزراء رقم (22) لسنة 1999 بتنظيم بيع وتوزيع المواصفات القياسية الوطنية والمطبوعات والنشرات الأخرى المتعلقة بها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1999/22/general",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=1999&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4adb7a619b0e786b75d177d8f942308fbb9611bff5c2116fbcdc26fc9419f177"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 1998 بالموافقة على زيادة رأس مال مصرف قطر المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/2/general",
+   "versions": [
+    {
+     "from": "1998-03-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1b5872f1c40802997beee5998b28dd0df42b07bd826d02d7e274561d0f0c66b6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 1998 بتعديل بعض أحكام قرار مجلس الوزراء رقم (4) لسنة 1989 بشأن بعض المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/4/general",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "fdf1d06849bfadd895e5288635a7a6a29751b1d30d944a8857c5638608d1436a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 1998 بإعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/5/general",
+   "versions": [
+    {
+     "from": "1998-07-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f2bb8cee08038186a437de9dc462dde555a677ee8224990430bd6a9af8575d04"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 1998 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/6/general",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "99d15e04006e67d907ff4e1018ea978056d34e0dae4c2b0a3fc9bb9a5767e967"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 1998 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/7/general",
+   "versions": [
+    {
+     "from": "1999-01-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "996741587dfd36ea9c542cd8756f4976de952ce25c46d8ee1b33c92bebc7a0a0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 1998 بشأن المواصفات الواجب توافرها في بعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/8/general",
+   "versions": [
+    {
+     "from": "1998-05-10",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "18bcc1034e65c605f9024c444ff58bc4fcf3ea2f71a8f63d3057b7b99f5ec85d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 1998 بشأن اللجنة الدائمة للتراخيص بوزارة الصحة العامة وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/9/general",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e0f8b22043ad43d524c775012d3dc5595e1b0243727d104f100135df6b5f5110"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 1998 بتشكيل اللجنة الدائمة لحماية البيئة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/10/general",
+   "versions": [
+    {
+     "from": "1998-08-25",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f3f2d87e226863810ade778243c38252e5b3f9c858248765ec1ae3a3ee91fa77"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 1998 بتعديل بعض رسوم التصديق على المحررات في وزارة الخارجية وبعثاتها الدبلوماسية والقنصلية بالخارج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/13/general",
+   "versions": [
+    {
+     "from": "1998-08-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "72369ce94cf9a14567016a2e288ac80e29ec5080ef14ce8d761d5aa07dd7caec"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 1998 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه العاشر لعام 1998 بالموافقة على إبرام اتفاقية ضمان إتمام مشروع شركة قطر للفينيل المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/14/general",
+   "versions": [
+    {
+     "from": "1998-10-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "004c5cdc5238368c2554218679e88b229239c8f08841101b3edd63d1367c9d54"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 1998 بتمديد المدة المحددة لإلغاء قيد المحامين المقيدين في الجدول المؤقت",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/15/general",
+   "versions": [
+    {
+     "from": "1998-11-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7eb6a6adbe430861f7caa8c1d9ea1e74ce5fb4cd03c89fda264b09dcb32b0436"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 1998 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) الصادر في اجتماعه السادس لسنة 1998 بالموافقة على تأسيس شركة تسمى «شركة هليكوبتر الخليج» (شركة مساهمة قطرية)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/16/general",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9dba161d83c55809d6590bb9b1efc544f34613c9311f4fccddf10abbfbadd2ea"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 1998 بإعادة تشكيل لجنة تسيير نظم المعلومات الجغرافية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/18/general",
+   "versions": [
+    {
+     "from": "1998-12-02",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "1521ce761cf2f035eb81c7f999df70a70a16d90d9218882a420916276a3fd053"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1998-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 1998",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 1998 بإعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) الصادر في اجتماعه الرابع عشر لعام 1997 بالموافقة على مشاركة المؤسسة العامة القطرية للبترول في تأسيس شركة لأغراض ترتيبات ضمان تمويل مشروع شركة قطر للإضافات البترولية المحدودة (كفاك)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1998/19/general",
+   "versions": [
+    {
+     "from": "1998-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=1998&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "193d6b1561063e31b5bdf72c8986243fdc1cfbc7d042b9b6ad7e73a7a0b33c09"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 1997 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة المالية والاقتصاد والتجارة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/1/general",
+   "versions": [
+    {
+     "from": "1997-02-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "3574143405438ef01afc90125e8e559374f912399fa0993459ac7a417ca80ac1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (6) لسنة 1987 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/2/general",
+   "versions": [
+    {
+     "from": "1997-08-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "01a7645e98ae56bd02f3919224365cdbc8b6e4458115dca3a1162b2d5895a099"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (4) لسنة 1989 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/3/general",
+   "versions": [
+    {
+     "from": "1997-02-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "aa62ff3bee003a02c9c783c4ca110280171aa8bb162999ae217b36baba1d1f28"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 1997 بشأن تعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الصحة العامة وتعيين إختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/5/general",
+   "versions": [
+    {
+     "from": "1997-02-19",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bdf51dc9cd4e52f645199c5c6ed7d622d7ecc9dc71ef74bccbe5041a4313e7f2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 1997 بتعديل بعض أحكام القرار رقم (21) لسنة 1995 بإنشاء اللجنة الدائمة للمزارع والآبار وتنظيم شئون المزارعين",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/6/general",
+   "versions": [
+    {
+     "from": "1997-02-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ee45f99a937b1b28a49f8349a9fa6811f90fd8bee063acfe80207ee6d662122b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-9",
+   "short": "قرار مجلس الوزراء رقم (9) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (9) لسنة 1997 بإدماج قسم التثقيف الصحي بمؤسسة حمد الطبية في قسم التثقيف الصحي بوزارة الصحة العامة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/9/general",
+   "versions": [
+    {
+     "from": "1997-03-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "f4ba543ab208bdce6c84295f512d5d1e094a480c45d3a1c5ddb204d8039b24df"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 1997 بتعديل أحكام القرار رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/10/general",
+   "versions": [
+    {
+     "from": "1997-04-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7b028c7fa74b25e835bd96757782a41a79227e7a5ae19742bd62abd2fb106dd3"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 1997 بإعادة تشكيل لجنة الشئون الصحية بوزارة الشئون البلدية والزراعة وتنظيم أعمالها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/11/general",
+   "versions": [
+    {
+     "from": "1997-06-17",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2221e5f6797a86cd0107d859552a42f55e91215780b6647daf6734867a10dfa4"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 1997 بإنشاء لجنة للمناقصات والمزايدات بوزارة الشؤون البلدية والزراعة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/13/general",
+   "versions": [
+    {
+     "from": "2001-12-25",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2227ba5de7b2a87cda59070cb77bfb306450827ded98b8b8972eae2842d8aea2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 1997 بتعديل بعض أحكام القرار رقم (20) لسنة 1967 باللائحة التنفيذية لقانون الوظائف العامة المدنية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/14/general",
+   "versions": [
+    {
+     "from": "1997-07-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bbb93b49fd123dbabe4ac26245522be44ec936bec0749341966ea05e59ecf0ce"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (20) لسنة 1996 بتعديل تنظيم بعض الوحدات الإدارية التي تتألف منها وزارة الأوقاف والشئون الإسلامية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/16/general",
+   "versions": [
+    {
+     "from": "1997-10-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "51afd968115e28c74764cf2cdfce89a5135e40b30200e1820f461a6e7d447800"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 1997 بشأن إعفاء الطلبة المعاقين غير القطريين من ثمن الكتب الدراسية وأجور المواصلات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/17/general",
+   "versions": [
+    {
+     "from": "1997-11-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "aa5a67d5ab13fa931e617ae3e5fa3a60e2e33572d3cf46953b6ccff94dcc2cec"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1997-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 1997",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 1997 بتعديل بعض أحكام قرار مجلس الوزراء رقم (9) لسنة 1995 بتشكيل مجلس إدارة صندوق الزكاة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1997/18/general",
+   "versions": [
+    {
+     "from": "1997-12-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=1997&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "09930d88f93ca49d77722fa02d44478af75a316c59afe5be854d628c1c429778"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 1996 بإدماج لجنتى التسجيل العقاري",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/1/general",
+   "versions": [
+    {
+     "from": "1996-01-06",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b40418795b2854a75d4abfc23528a442cb0eeb507bb73e5e559327d1e19ce115"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 1996 بشأن الإجازة الدورية لمدرسات وموظفات المدرسة الثانوية الفنية للتمريض وإجازة منتصف العام الدراسي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/3/general",
+   "versions": [
+    {
+     "from": "1996-02-01",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4caa6605dac4d5bff1f8788d18dee0a696ddc97664e931920ecdb119e8cd12cf"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 1996 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1994 بتشكيل لجنة شئون الحج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/4/general",
+   "versions": [
+    {
+     "from": "1996-02-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "0d39abe6fe0d47a978968bbbcd5565f1814cbe0731a3c5d49017b5f540d9b784"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-5",
+   "short": "قرار مجلس الوزراء رقم (5) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (5) لسنة 1996 بشأن منح موظفات مشغل المرأة القطرية الإجازة السنوية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/5/general",
+   "versions": [
+    {
+     "from": "1996-03-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9e9513f286b09934660b7ba7ef019f5dcb245f8c590216e15d3ed3ebf2d8946f"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 1996 بتخفيض بعض الرسوم والأجور في موانئ قطر البحرية بالنسبة للسفن المملوكة لشركة «هوج - أوجلاند لاينز»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/6/general",
+   "versions": [
+    {
+     "from": "1996-05-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "17dde61cd11b64f0273693f2e4d311302444f8c63f7779152255470dd914d7f4"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 1996 بتعين عضوين في اللجنة الدائمة لحماية البيئة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/7/general",
+   "versions": [
+    {
+     "from": "1996-04-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "2a470c8fc39931fddcce21958a2d7cf7049786e46ff3cb4b20082266dfebd12b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-8",
+   "short": "قرار مجلس الوزراء رقم (8) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (8) لسنة 1996 بشأن فرض رسوم وأجور خدمات على السفن الحربية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/8/general",
+   "versions": [
+    {
+     "from": "1996-06-11",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8c8818641df706df8df82218969f92d969f3099f7adcc3abf1709c9cc5aa9380"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 1996 بإنشاء لجنة لتنسيق العمل بمطار الدوحة الدولي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/10/general",
+   "versions": [
+    {
+     "from": "1996-06-19",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5553c4a7f00613b84c855c474f22b866f8b3fbe935e163404947c67ca4f60ba2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) باجتماعه الثاني لسنة 1996 بالموافقة على إبرام عقد قرض لتمويل الخط الثالث من مشروع شركة قطر للغاز المسال المحدودة (قطر للغاز)",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/11/general",
+   "versions": [
+    {
+     "from": "1996-07-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "b193a3425e6227fab920370a0f6301177c1333632e88ab40b2044297015d43ff"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 1996 باعتماد بعض المواصفات القياسية الخليجية التجريبية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/12/general",
+   "versions": [
+    {
+     "from": "1996-10-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6fb267b123d7d080616822c034d8c3b48a27f63740dce64c276d7ba28464281d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-13",
+   "short": "قرار مجلس الوزراء رقم (13) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (13) لسنة 1996 بتعديل بعض أحكام قرار مجلس الوزراء رقم (1) لسنة 1986 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/13/general",
+   "versions": [
+    {
+     "from": "1997-05-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "32734d84db4157fb4747e13fef83fbf9b9db058014accd63568040c592bb2e72"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 1996 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/14/general",
+   "versions": [
+    {
+     "from": "1997-05-09",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "21efdc4d80edc812d829cdd0a7382f1c4e0db28e7c4d90842f105558977dc973"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-15",
+   "short": "قرار مجلس الوزراء رقم (15) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (15) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (16) الصادر في اجتماعه الثالث لعام 1996 بالموافقة على إبرام اتفاقية قرض لتمويل حصة المؤسسة في التمويل الذاتي لمشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/15/general",
+   "versions": [
+    {
+     "from": "1996-12-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "e99b3242ddc5e8ab187966b2c033ad5dbc33d5c28fec5a4c94d1b4a65359d5f2"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) لسنة 1996 الصادر في اجتماعه الرابع لعام 1996 بالموافقة على إبرام بعض الاتفاقيات الخاصة بتمويل مشروع قطر غاز لتنمية الحقل والإنتاج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/16/general",
+   "versions": [
+    {
+     "from": "1996-12-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "9fcbed4eff5e97b97b654865b2b17b1f78c608bc582db177f9dda1325e7aae62"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-17",
+   "short": "قرار مجلس الوزراء رقم (17) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (17) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (6) الصادر في اجتماعه الخامس لعام 1996 بالموافقة على إبرام بعض الاتفاقيات الخاصة بتمويل مشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/17/general",
+   "versions": [
+    {
+     "from": "1996-12-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6c52516539660576e98ee63ad84405a2defeb43c65b0c9aa3ca7769802c5de84"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 1996 باعتماد قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (7) الصادر في اجتماعه الخامس لعام 1996 بالموافقة على مشاركة المؤسسة العامة القطرية للبترول في تأسيس شركة لأغراض ترتيبات ضمان تمويل مشروع شركة رأس لفان للغاز الطبيعي المسال المحدودة، وبشأن الترخيص لبعض الشركات بالعمل في دولة قطر",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/18/general",
+   "versions": [
+    {
+     "from": "1996-12-11",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "70809eb27ffdfa46e1b04fcb1ffb6c5d1eee44bca4c752a00f03e1aaa9641110"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1996-19",
+   "short": "قرار مجلس الوزراء رقم (19) لسنة 1996",
+   "title": "قرار مجلس الوزراء رقم (19) لسنة 1996 بإعادة تشكيل لجنة تسجيل وتعيين المكاتب الاستشارية بوزارة الشئون البلدية والزراعة وتنظيم أعمالها",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1996/19/general",
+   "versions": [
+    {
+     "from": "1996-12-25",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=1996&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ddab2b63ed2b34805fa7582fe63047c34d663fedce73a2321017fdf8765771c9"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-1",
+   "short": "قرار مجلس الوزراء رقم (1) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (1) لسنة 1995 بتعديل بعض أحكام القرار رقم (17) لسنة 1995 بتشكيل لجنتي التسجيل العقاري للدوحة والمناطق الشمالية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/1/general",
+   "versions": [
+    {
+     "from": "1995-03-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8c38e39b7295c278a773c45c9fc496e6dc78a412955e2b07c46235fdfdc41bcb"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-3",
+   "short": "قرار مجلس الوزراء رقم (3) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (3) لسنة 1995 بشأن منح مكافأة تشجيعية للقطريين من أعضاء الهيئة التدريسية بالمدرسة الفنية الثانوية للتمريض",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/3/general",
+   "versions": [
+    {
+     "from": "1995-03-29",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "dada4ffc861323f609ad2b8eb4e148342c89a667f2ab17fc08ffef50ba55a16b"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-4",
+   "short": "قرار مجلس الوزراء رقم (4) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (4) لسنة 1995 بإدماج إدارة الطيران المدني وإدارة الأرصاد الجوية في إدارة واحدة تسمى «إدارة الطيران المدني والأرصاد الجوية»",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/4/general",
+   "versions": [
+    {
+     "from": "1995-05-17",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "bf9abb91844af524d54825f5c54ba2a77cf0a474b3c6001c721756910f1c344c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-6",
+   "short": "قرار مجلس الوزراء رقم (6) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (6) لسنة 1995 بشأن اعتبار البطاقة الشخصية أو الرقم الشخصي المدون على شهادة الميلاد المستند الرسمي الوحيد لإثبات الشخصية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/6/general",
+   "versions": [
+    {
+     "from": "1995-05-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "298cb8b22479a38cbae587cb9779b068a88bde96d535a86613ac5bfec69ae447"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-7",
+   "short": "قرار مجلس الوزراء رقم (7) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (7) لسنة 1995بتعديل بعض أحكام القرار رقم (9) لسنة 1993 بشأن تنظيم أعمال اللجان المشتركة والمتخصصة",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/7/general",
+   "versions": [
+    {
+     "from": "1995-05-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "13dd9715efd9545ed8636bb35a276eb4bb61cfb0aed62132db15372005cd10fa"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-10",
+   "short": "قرار مجلس الوزراء رقم (10) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (10) لسنة 1995 بشأن تعديل رسوم مقابل التصديق على المحررات في وزارة الخارجية وبعثاتها الدبلوماسية والقنصلية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/10/general",
+   "versions": [
+    {
+     "from": "1995-07-03",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4864e91d6924545cae3bbc727f39b918c1a9280a209e7fa50d3366d445924c46"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-11",
+   "short": "قرار مجلس الوزراء رقم (11) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (11) لسنة 1995 باستثناء وزارة الشئون البلدية والزراعة من بعض أحكام القانون رقم (8) لسنة 1976 بشأن تنظيم المناقصات والمزايدات",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/11/general",
+   "versions": [
+    {
+     "from": "1995-07-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ce2c925785cf98b47256f4c95739c0c4dc64bedbfeab7c90be899c34003c45d0"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-12",
+   "short": "قرار مجلس الوزراء رقم (12) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (12) لسنة 1995 بإقرار قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (2) لسنة 1995 بشأن الضمان المقدم من المؤسسة لتمويل مشروع شركة قطر للغاز المسال المحدودة للمنشآت ومصانع الغاز المسال",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/12/general",
+   "versions": [
+    {
+     "from": "1995-07-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "5454b6afa4941dda1e076223ccdc7b6cd6a8afd83e7d0ffd3eebed5f7fccfd90"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-14",
+   "short": "قرار مجلس الوزراء رقم (14) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (14) لسنة 1995 بإعفاء جمعية قطر الخيرية من الرسوم التي تدفع للدولة عدا الرسوم الجمركية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/14/general",
+   "versions": [
+    {
+     "from": "1995-07-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "089a61dd865c9c52e7624d4e35131b4f4a6145a407ce37dcec0d46b5ac251a3c"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-16",
+   "short": "قرار مجلس الوزراء رقم (16) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (16) لسنة 1995 بشأن تحديد الرسوم المستحقة عن الرخص اللازمة لحفر آبار المياه الجوفية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/16/general",
+   "versions": [
+    {
+     "from": "1995-08-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "38301a6c022289d6e2c1652656c16b80e24701604c11fd3f6d6c0c7684f90aee"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-18",
+   "short": "قرار مجلس الوزراء رقم (18) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (18) لسنة 1995 بإقرار قرار مجلس إدارة المؤسسة العامة القطرية للبترول رقم (1) بإجتماعه الخامس لسنة 1995 بشأن الموافقة على مشاركة المؤسسة العامة القطرية للبترول في تأسيس شركتين لأغراض ترتيبات ضمان تمويل مشروعي شركة قطر للغاز المسال المحدودة للمصانع والمنشآت ولتنمية الحقل والإنتاج",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/18/general",
+   "versions": [
+    {
+     "from": "1995-08-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "7529c0942a4bbbd11636cacb58f74fe553c759e441775f7a09ef9dfac8694aa5"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-23",
+   "short": "قرار مجلس الوزراء رقم (23) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (23) لسنة 1995 بالموافقة على زيادة رأس مال مصرف قطر المركزي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/23/general",
+   "versions": [
+    {
+     "from": "1995-10-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "c9efd745d721a9bfa9393e53eee42ee16d73cf403dd7debf39ca175787baeb3d"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-24",
+   "short": "قرار مجلس الوزراء رقم (24) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (24) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/24/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "6a5df792451d46e4c56f94053969038a0becb482cf8272fc5afb9a3df3ae49a6"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-25",
+   "short": "قرار مجلس الوزراء رقم (25) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (25) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/25/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "d4f967e2a11ddfa931054236b13704dbc4d864a7e36091c7a35526ad6abc7812"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-26",
+   "short": "قرار مجلس الوزراء رقم (26) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (26) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/26/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "ec786c56d383ad4d864d1f1531ff930b01875e037b111815d0f3aa743c099be8"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-27",
+   "short": "قرار مجلس الوزراء رقم (27) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (27) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/27/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "a10b57ffbf0f13406f4fc60922f6398ff60a412abacca537f5c9c906ad874320"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-28",
+   "short": "قرار مجلس الوزراء رقم (28) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (28) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/28/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "4c97e909f08895810e011828c6cd7915ace9d94e8150713c43703603e1cd2e82"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-29",
+   "short": "قرار مجلس الوزراء رقم (29) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (29) لسنة 1995 بشأن المواصفات الواجب توافرها لبعض السلع والمواد",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/29/general",
+   "versions": [
+    {
+     "from": "1995-10-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "93c1c7fb93077bbf12943a7f4950b00e5816aaf0e83b8f4f44fbfefab334228a"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1995-30",
+   "short": "قرار مجلس الوزراء رقم (30) لسنة 1995",
+   "title": "قرار مجلس الوزراء رقم (30) لسنة 1995 بشأن منح علاوة توجيه للموجهين والموجهات ورؤساء ورئيسات التعليم القطريين ومساواة الموجهين والموجهات بالعاملين بالهيئة التدريسية في المدارس من حيث الإجازة الدورية السنوية، وإجازة منتصف العام الدراسي",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1995/30/general",
+   "versions": [
+    {
+     "from": "1995-11-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=1995&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "eb8960840262a3c3fa077517a63c89e0539eb7ac83b3b44f744cce1dc17ee0d1"
+    }
+   ]
+  },
+  {
+   "slug": "cabinet-decision-1994-2",
+   "short": "قرار مجلس الوزراء رقم (2) لسنة 1994",
+   "title": "قرار مجلس الوزراء رقم (2) لسنة 1994 بشأن تحديد رأس المال المدفوع للمؤسسة العامة القطرية للاتصالات السلكية واللاسلكية",
+   "url": "https://almeezan.qa/legislations/cabinet-decision/1994/2/general",
+   "versions": [
+    {
+     "from": "1994-04-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=1994&typeCode=cabinet-decision&sourceCode=general&culture=ar",
+     "sha256": "8816e6d91f00358b9758edc924a16f8338f2f529e0770e1884c54fa441a6cfcb"
+    }
+   ]
   }
  ]
 }
