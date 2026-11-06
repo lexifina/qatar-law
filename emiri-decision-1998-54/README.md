@@ -1,0 +1,9 @@
+# قرار أميري رقم (54) لسنة 1998 بإلغاء وحدة الطيران الأميري من الوحدات الإدارية التي يتألف منها الديوان الأميري
+
+قرار أميري رقم (54) لسنة 1998 · 1 versions, from 1998-12-31 (latest in force: 1998-12-31) · <https://almeezan.qa/legislations/emiri-decision/1998/54/general>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| مادة 1 | [art-001.md](art-001.md) | 0 |  |
+| مادة 2 | [art-002.md](art-002.md) | 0 |  |
+| الديباجة | [preamble.md](preamble.md) | 0 |  |

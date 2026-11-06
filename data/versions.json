@@ -19844,6 +19844,4206 @@
      "sha256": "8816e6d91f00358b9758edc924a16f8338f2f529e0770e1884c54fa441a6cfcb"
     }
    ]
+  },
+  {
+   "slug": "emiri-decision-2013-80",
+   "short": "قرار أميري رقم (80) لسنة 2013",
+   "title": "قرار أميري رقم (80) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (91) لسنة 2007 بتحديد رواتب وبدلات وعلاوات أعضاء النيابة العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/80/general",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=80&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "eace1de486dfb2949bb1ec226f32b126c22cabda0541cd698bc3b6085a2b37a4"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-81",
+   "short": "قرار أميري رقم (81) لسنة 2013",
+   "title": "قرار أميري رقم (81) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (88) لسنة 2007 بتحديد رواتب وبدلات القضاة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/81/general",
+   "versions": [
+    {
+     "from": "2013-07-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=81&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "cbc2f35dc8d9b78cf4130d6bd736abff9d34fb2d8fdcea3daa346756be18a480"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-93",
+   "short": "قرار أميري رقم (93) لسنة 2013",
+   "title": "قرار أميري رقم (93) لسنة 2013 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/93/general",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=93&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "fce0ff5008ba876eb1d59fe4e638991ac9cf4cf7d9158602f80341bfd0db976c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-94",
+   "short": "قرار أميري رقم (94) لسنة 2013",
+   "title": "قرار أميري رقم (94) لسنة 2013 بالموافقة على إنشاء مؤسسة مركز حكم القانون ومكافحة الفساد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/94/general",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=94&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b4431a5c48d92909faed7c6a2f6f55ce55515381e5a974ccd4334357cbb3af85"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-96",
+   "short": "قرار أميري رقم (96) لسنة 2013",
+   "title": "قرار أميري رقم (96) لسنة 2013 بشأن جهاز الطيران الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/96/general",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=96&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "cfc1e6b3024f3c82aa0a80b44d226358e49c4023d8ec62352bfaa1a6d62a907c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-97",
+   "short": "قرار أميري رقم (97) لسنة 2013",
+   "title": "قرار أميري رقم (97) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (34) لسنة 2011 بتشكيل مجلس إدارة جهاز قطر لتنمية المشاريع الصغيرة والمتوسطة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/97/general",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=97&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "47955901ae349875c97e1d8717ba5c40ce10805a4485544eb792426a8b949c7e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-122",
+   "short": "قرار أميري رقم (122) لسنة 2013",
+   "title": "قرار أميري رقم (122) لسنة 2013 بالموافقة على إنشاء مؤسسة (بي إن beIN) (مؤسسة خاصة ذات نفع عام)",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/122/general",
+   "versions": [
+    {
+     "from": "2013-08-29",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=122&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "48a56ebc9fffd4cc9343b3ccf8920d02ba21e82fd8b5cf853f0d2a7463197edd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-136",
+   "short": "قرار أميري رقم (136) لسنة 2013",
+   "title": "قرار أميري رقم (136) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2007 بإنشاء لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/136/general",
+   "versions": [
+    {
+     "from": "2013-09-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=136&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9b24579d2568ed39050edbfddf022b3469f9f2520bc8633369aac77b79cb3eae"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-137",
+   "short": "قرار أميري رقم (137) لسنة 2013",
+   "title": "قرار أميري رقم (137) لسنة 2013 بتعديل بعض أحكام القرار الأميري رقم (91) لسنة 2011 بإنشاء لجنة حماية أملاك الدولة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/137/general",
+   "versions": [
+    {
+     "from": "2013-09-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=137&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "580c248fc5a8702429b48f19731248b998c2f532353c89740ff50471cdee0dd0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-147",
+   "short": "قرار أميري رقم (147) لسنة 2013",
+   "title": "قرار أميري رقم (147) لسنة 2013 بإنشاء مركز الدوحة المشترك لتنسيق الإنقاذ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/147/general",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=147&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2444ec30c13e72f27f36b669933cb767e500f2a03bf181ae13e7d67cd3ffeb0a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-150",
+   "short": "قرار أميري رقم (150) لسنة 2013",
+   "title": "قرار أميري رقم (150) لسنة 2013 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/150/general",
+   "versions": [
+    {
+     "from": "2013-11-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=150&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c64edef8e594e43dc506d00789d2d303a711ada12fa9c2fb9b7d8a25351f8848"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-151",
+   "short": "قرار أميري رقم (151) لسنة 2013",
+   "title": "قرار أميري رقم (151) لسنة 2013 بتنظيم شراء الأصناف ومقاولات الأعمال ذات الصفة السرية بالقوات المسلحة والشرطة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/151/general",
+   "versions": [
+    {
+     "from": "2013-11-24",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=151&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c8edb598ea2fa294844e51a3e918604cf3db91f416d7379ebbfe625c7d5e810f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2013-156",
+   "short": "قرار أميري رقم (156) لسنة 2013",
+   "title": "قرار أميري رقم (156) لسنة 2013 بتعديل أحكام القرار الأميري رقم (44) لسنة 2010 بإنشاء صندوق دعم الأنشطة الاجتماعية والرياضية (دعم)",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2013/156/general",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=156&year=2013&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "65868986b2d3d9787ab74a7c3ee3dc28c41680a942260d349a6855ef026a5461"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-7",
+   "short": "قرار أميري رقم (7) لسنة 2012",
+   "title": "قرار أميري رقم (7) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/7/general",
+   "versions": [
+    {
+     "from": "2012-01-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4f833724014ae827f52172090b496e4256033d4af1e9af4a95e638c4e36b8912"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-9",
+   "short": "قرار أميري رقم (9) لسنة 2012",
+   "title": "قرار أميري رقم (9) لسنة 2012 بتعديل بعض أحكام القرار رقم (19) لسنة 2011 بإنشاء اللجنة الدائمة للموارد المائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/9/general",
+   "versions": [
+    {
+     "from": "2012-02-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "88f502f572e0ebfe888e2e7ddfe87ebb1e094f82555f2beab0c58a8ae3ef9a26"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-14",
+   "short": "قرار أميري رقم (14) لسنة 2012",
+   "title": "قرار أميري رقم (14) لسنة 2012 بإلغاء القرار الأميري رقم (12) لسنة 2008 بإنشاء لجنة حصر وإدارة أوقاف الشيخ قاسم بن محمد آل ثاني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/14/general",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ebad0b2e29d6035720a0f980c7876e8199c314bcc80b8f6fc1faa5b211a7d5f1"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-16",
+   "short": "قرار أميري رقم (16) لسنة 2012",
+   "title": "قرار أميري رقم (16) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (32) لسنة 2009 بالهيكل التنظيمي لوزارة الطاقة والصناعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/16/general",
+   "versions": [
+    {
+     "from": "2012-02-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f6bf472be9fe97e584c28abd88a9f7853ceaf79521d72a5d8e107aa8e4f582a5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-23",
+   "short": "قرار أميري رقم (23) لسنة 2012",
+   "title": "قرار أميري رقم (23) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/23/general",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "92c5284d9663b242bcfa35ffcdd37ba034d3a461a1630d27929a08d7660b88ed"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-25",
+   "short": "قرار أميري رقم (25) لسنة 2012",
+   "title": "قرار أميري رقم (25) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (39) لسنة 2011 بإنشاء لجنة تسيير مشروع إنشاء شبكات السكك الحديدية القطرية \"الريل\"",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/25/general",
+   "versions": [
+    {
+     "from": "2012-03-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ff0e197ffcf0ce12cd5eaafacc04116d1055cd6abb0ee002b76ffbe1728da15b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-30",
+   "short": "قرار أميري رقم (30) لسنة 2012",
+   "title": "قرار أميري رقم (30) لسنة 2012 بإلغاء القرار الأميري رقم (84) لسنة 2007 بإنشاء اللجنة الوطنية للنزاهة والشفافية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/30/general",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9ac801fd8f35a221ab6c552087bd2ce24aa42826acdd2c013045f627d32c173f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-31",
+   "short": "قرار أميري رقم (31) لسنة 2012",
+   "title": "قرار أميري رقم (31) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/31/general",
+   "versions": [
+    {
+     "from": "2012-04-12",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "cd97dd1981b4902c86ba0c7eba0d8c8425df9ea21c05f9f7b84efc4814c1162a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-33",
+   "short": "قرار أميري رقم (33) لسنة 2012",
+   "title": "قرار أميري رقم (33) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (37) لسنة 2007 بإنشاء لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/33/general",
+   "versions": [
+    {
+     "from": "2012-05-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7b0d66195b3fa4fc321ad7456141f4ea4d20f77308107dc49fe0607ec947c1c6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-35",
+   "short": "قرار أميري رقم (35) لسنة 2012",
+   "title": "قرار أميري رقم (35) لسنة 2012 بإصدار لائحة شؤون أعضاء وموظفي هيئة الرقابة الإدارية والشفافية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/35/general",
+   "versions": [
+    {
+     "from": "2012-05-15",
+     "units": 190,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "271dc2148e82f7ece4ddb0e33a3b0749fd5e51b92cae8e5052567f68b35964cc"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-39",
+   "short": "قرار أميري رقم (39) لسنة 2012",
+   "title": "قرار أميري رقم (39) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/39/general",
+   "versions": [
+    {
+     "from": "2012-05-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3a88417ef09905320810e01c6940f4f3758cba3323f3e324ac2eb8589cdc19ee"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-40",
+   "short": "قرار أميري رقم (40) لسنة 2012",
+   "title": "قرار أميري رقم (40) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/40/general",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "931a29ed449876fa7b97e9d7b21d2d984844e753300969f67e35a6254db58db5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-51",
+   "short": "قرار أميري رقم (51) لسنة 2012",
+   "title": "قرار أميري رقم (51) لسنة 2012 بتنظيم العلاج الطبي بالخارج",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/51/general",
+   "versions": [
+    {
+     "from": "2012-09-18",
+     "units": 15,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=51&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6506ec15c9767028ae9525464ce2791533b664b872b93e12def76fbc106b8beb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-53",
+   "short": "قرار أميري رقم (53) لسنة 2012",
+   "title": "قرار أميري رقم (53) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/53/general",
+   "versions": [
+    {
+     "from": "2012-09-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=53&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "72b0b5e970ec54bcc6d8c0121327eff7350f8d8f88df1fb5dcd1339b26769310"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-54",
+   "short": "قرار أميري رقم (54) لسنة 2012",
+   "title": "قرار أميري رقم (54) لسنة 2012 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/54/general",
+   "versions": [
+    {
+     "from": "2012-09-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=54&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "24421d357fcdaac1638e22803475cbfea3142d480067f29905ccad937b3e4f5e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-57",
+   "short": "قرار أميري رقم (57) لسنة 2012",
+   "title": "قرار أميري رقم (57) لسنة 2012 بإنشاء اللجنة العمالية القطرية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/57/general",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=57&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0b6037b6c5c9342d0db414dfb76e119eb381d0df6cce1b07081aa4c5fb80fe65"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-58",
+   "short": "قرار أميري رقم (58) لسنة 2012",
+   "title": "قرار أميري رقم (58) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (19) لسنة 2011 بإنشاء اللجنة الدائمة للموارد المائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/58/general",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=58&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d2d34943f5aad8c24e8844875a0e3e6124d45b2df9f5d96b7f074bd2cdb247fa"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2012-62",
+   "short": "قرار أميري رقم (62) لسنة 2012",
+   "title": "قرار أميري رقم (62) لسنة 2012 بتعديل بعض أحكام القرار الأميري رقم (22) لسنة 2009 بتعيين نائب رئيس وأعضاء المجلس الأعلى للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2012/62/general",
+   "versions": [
+    {
+     "from": "2012-12-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=62&year=2012&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9a965130cf1235980a342c0774cd3dc1ab0b786e6ecf92b1aa5891aef022b4e8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-13",
+   "short": "قرار أميري رقم (13) لسنة 2011",
+   "title": "قرار أميري رقم (13) لسنة 2011 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/13/general",
+   "versions": [
+    {
+     "from": "2011-01-18",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "34138784dc4c43579f30e492ecebd6c3b55000333a871ffed2cdfe9e9c2f14fe"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-14",
+   "short": "قرار أميري رقم (14) لسنة 2011",
+   "title": "قرار أميري رقم (14) لسنة 2011 بإنشاء مختبر مكافحة المنشطات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/14/general",
+   "versions": [
+    {
+     "from": "2025-10-05",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4afd1b3fab0902fb223c962aee7e9601452716efd4fe6e61c577ae75a0f2eacf"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-17",
+   "short": "قرار أميري رقم (17) لسنة 2011",
+   "title": "قرار أميري رقم (17) لسنة 2011 بإنشاء جهاز قطر لتنمية المشاريع الصغيرة والمتوسطة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/17/general",
+   "versions": [
+    {
+     "from": "2011-02-20",
+     "units": 22,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f359b80fc5ab49bfbce1c832b68511a8374c40bf9569b20bfe764105ce942904"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-19",
+   "short": "قرار أميري رقم (19) لسنة 2011",
+   "title": "قرار أميري رقم (19) لسنة 2011 بإنشاء اللجنة الدائمة للموارد المائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/19/general",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "55db796d42605692b2f86a587471a5cff9c782d0688007076b87a7002515fdd5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-23",
+   "short": "قرار أميري رقم (23) لسنة 2011",
+   "title": "قرار أميري رقم (23) لسنة 2011 بتعديل بعض أحكام القرار الأميري رقم (47) لسنة 2010 بتشكيل مجلس إدارة مركز قطر للقيادات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/23/general",
+   "versions": [
+    {
+     "from": "2011-03-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dca98aba724201e3af670aee53605fe8d4c2bf0b7459a80598f2bd6bfa896315"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-34",
+   "short": "قرار أميري رقم (34) لسنة 2011",
+   "title": "قرار أميري رقم (34) لسنة 2011 بتشكيل مجلس إدارة جهاز قطر لتنمية المشاريع الصغيرة والمتوسطة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/34/general",
+   "versions": [
+    {
+     "from": "2013-08-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "55c1f1a4b27afee990b0ade09ac1c5746e51ca0b9f0cb01832d9d7729593aa2f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-37",
+   "short": "قرار أميري رقم (37) لسنة 2011",
+   "title": "قرار أميري رقم (37) لسنة 2011 باعتماد الحساب الختامي للدولة للسنة المالية 2007/2008",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/37/general",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "324355f5eb110d77f7d88629ff4e2953dc087da34c1c3c1813eb16abb95cf2c6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-40",
+   "short": "قرار أميري رقم (40) لسنة 2011",
+   "title": "قرار أميري رقم (40) لسنة 2011 بتشكيل مجلس أمناء مختبر مكافحة المنشطات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/40/general",
+   "versions": [
+    {
+     "from": "2011-06-09",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "73e0d0a32031052aa2b6fe237729f576a225a269afd9fa550210897af340122d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-44",
+   "short": "قرار أميري رقم (44) لسنة 2011",
+   "title": "قرار أميري رقم (44) لسنة 2011 بالموافقة على إنشاء مؤسسة الشيخ/ جاسم بن محمد بن ثاني للرعاية الاجتماعية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/44/general",
+   "versions": [
+    {
+     "from": "2011-07-27",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d5ece7e4149fe719eb73c669798dacbe6487c9b2729166f3ce8aadf08a444eaa"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-50",
+   "short": "قرار أميري رقم (50) لسنة 2011",
+   "title": "قرار أميري رقم (50) لسنة 2011 بزيادة الرواتب والعلاوة الاجتماعية والمعاشات للموظفين والمتقاعدين القطريين المدنيين والعسكريين بالدولة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/50/general",
+   "versions": [
+    {
+     "from": "2011-09-06",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=50&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "02b52d20dc7dfe8d2fa9af42a55d89e87f80af05df70d626121ffae6620abb97"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-51",
+   "short": "قرار أميري رقم (51) لسنة 2011",
+   "title": "قرار أميري رقم (51) لسنة 2011 بشأن مهرجان قطر البحري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/51/general",
+   "versions": [
+    {
+     "from": "2011-09-11",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=51&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "59e0f751d437271e34c38f6cae767c94e20bcf195c6b0a29dda6faf0c3185d15"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-53",
+   "short": "قرار أميري رقم (53) لسنة 2011",
+   "title": "قرار أميري رقم (53) لسنة 2011 بتنظيم الديوان الأميري الخاص",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/53/general",
+   "versions": [
+    {
+     "from": "2011-10-04",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=53&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6d50c07ddd4e1bde707fd6fe97c3a007617e4ac48a86e45560fedb298326b583"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-57",
+   "short": "قرار أميري رقم (57) لسنة 2011",
+   "title": "قرار أميري رقم (57) لسنة 2011 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/57/general",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=57&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ce303ac0f5e4e53fedcb4abe0424d97e4c0439e12e8155fbdfc972f2740596bf"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-73",
+   "short": "قرار أميري رقم (73) لسنة 2011",
+   "title": "قرار أميري رقم (73) لسنة 2011 بتعديل بعض أحكام القرار الأميري رقم (50) لسنة 2009 بتنظيم الأمانة العامة للتخطيط التنموي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/73/general",
+   "versions": [
+    {
+     "from": "2011-11-17",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=73&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4026260dd04efa62832602ea1e488dd889097e8f17a23cc2b34549e99d390afb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-74",
+   "short": "قرار أميري رقم (74) لسنة 2011",
+   "title": "قرار أميري رقم (74) لسنة 2011 بإلغاء القرار الأميري رقم (6) لسنة 2009 بإنشاء لجنة تطوير الاستثمار في قطاع السيارات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/74/general",
+   "versions": [
+    {
+     "from": "2011-11-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=74&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "37d13989410f3fe35f8ce79b084da532abc797cd5d8318cce04dfb088add705f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-83",
+   "short": "قرار أميري رقم (83) لسنة 2011",
+   "title": "قرار أميري رقم (83) لسنة 2011 بتعديل بعض أحكام القرار الأميري رقم (28) لسنة 2011 بتشكيل مجلس إدارة اللجنة العليا لقطر 2022",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/83/general",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=83&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1bb97f539b52fce66d36df8391ffa08581a63ada0beddc2608bc3a683908b736"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-84",
+   "short": "قرار أميري رقم (84) لسنة 2011",
+   "title": "قرار أميري رقم (84) لسنة 2011 بإضافة عضو إلى لجنة تسيير مشروع إنشاء مطار الدوحة الدولي الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/84/general",
+   "versions": [
+    {
+     "from": "2011-12-13",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=84&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1f7b00312f196910ec651dd794d32787dbc8ced57cc4068bd600e9692397e166"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2011-93",
+   "short": "قرار أميري رقم (93) لسنة 2011",
+   "title": "قرار أميري رقم (93) لسنة 2011 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2011/93/general",
+   "versions": [
+    {
+     "from": "2011-12-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=93&year=2011&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "33749a14c6f84e871e8843511da2e538d065cff2a0df83e07b5f36cbba5bce02"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-1",
+   "short": "قرار أميري رقم (1) لسنة 2010",
+   "title": "قرار أميري رقم (1) لسنة 2010 بشأن الإعلان عن أيام العطلات الرسمية في الدولة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/1/general",
+   "versions": [
+    {
+     "from": "2010-01-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4ee7127cbb70343430818b65da8de3f358f5a68e494526b8b3f5f881b5d0651d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-4",
+   "short": "قرار أميري رقم (4) لسنة 2010",
+   "title": "قرار أميري رقم (4) لسنة 2010 بتشكيل مجلس إدارة شركة قطر الوطنية للفنادق",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/4/general",
+   "versions": [
+    {
+     "from": "2010-01-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0db086ec9985e46ce25951087324424ee327ba23c9bfeb6109c18a5c2d9f0419"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-5",
+   "short": "قرار أميري رقم (5) لسنة 2010",
+   "title": "قرار أميري رقم (5) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (62) لسنة 2007 بإنشاء جائزة ولي العهد للشباب",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/5/general",
+   "versions": [
+    {
+     "from": "2010-01-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f048dffb20c0ae9b701e9d5cc796a1006b4dba5fc380ce3737c228a4d8e82c05"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-15",
+   "short": "قرار أميري رقم (15) لسنة 2010",
+   "title": "قرار أميري رقم (15) لسنة 2010 بتعديل القرار الأميري رقم (12) لسنة 2008 بإنشاء لجنة حصر وإدارة أوقاف الشيخ قاسم بن محمد آل ثاني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/15/general",
+   "versions": [
+    {
+     "from": "2010-04-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b8501932fa25e134e192cc9d29118c157c6993c53a614f6ceb3829c470514b42"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-16",
+   "short": "قرار أميري رقم (16) لسنة 2010",
+   "title": "قرار أميري رقم (16) لسنة 2010 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/16/general",
+   "versions": [
+    {
+     "from": "2010-04-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b2e5408f571b7d9137a5087b7cdf99648fbd4be267771299b35670709f6dd87d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-18",
+   "short": "قرار أميري رقم (18) لسنة 2010",
+   "title": "قرار أميري رقم (18) لسنة 2010 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/18/general",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "513ee384c8313ec6379fc84ab9908518fafb000e471fb3d681077340ed0c7877"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-20",
+   "short": "قرار أميري رقم (20) لسنة 2010",
+   "title": "قرار أميري رقم (20) لسنة 2010 بالموافقة على إنشاء مركز الدوحة الدولي لحوار الأديان",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/20/general",
+   "versions": [
+    {
+     "from": "2010-06-01",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "db9d1e432241971bd184eabacafeb5431dad6abc736a3e5c020236f1ae79aa5e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-22",
+   "short": "قرار أميري رقم (22) لسنة 2010",
+   "title": "قرار أميري رقم (22) لسنة 2010 بإلغاء لجنة تنظيم مهرجان الدوحة السينمائي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/22/general",
+   "versions": [
+    {
+     "from": "2010-06-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0383daf933bb4fc2d5c95f8f415c9b48cf4f985a118c8d6fd3af8e2232944699"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-23",
+   "short": "قرار أميري رقم (23) لسنة 2010",
+   "title": "قرار أميري رقم (23) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/23/general",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "73773925672c4d55fae9f1cdc2713b928c4a0e7d4e0b9d77c211a24b1c23aa8e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-24",
+   "short": "قرار أميري رقم (24) لسنة 2010",
+   "title": "قرار أميري رقم (24) لسنة 2010 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/24/general",
+   "versions": [
+    {
+     "from": "2010-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1e46d8d883d8356d2fc24d442ead8d3d4b52ec94861b25540ca2457ba1abd34d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-28",
+   "short": "قرار أميري رقم (28) لسنة 2010",
+   "title": "قرار أميري رقم (28) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (22) لسنة 2009 بتعيين نائب رئيس وأعضاء المجلس الأعلى للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/28/general",
+   "versions": [
+    {
+     "from": "2010-09-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4d7f24a6d5f60461f53c728a77d5898e6ceb42b35ac7276e71a5dac24243a2fd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-29",
+   "short": "قرار أميري رقم (29) لسنة 2010",
+   "title": "قرار أميري رقم (29) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/29/general",
+   "versions": [
+    {
+     "from": "2010-10-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dfeb514f51027a9514e6deb228f7e1d7ff63dd31c2542d05cbc00c06423f0b98"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-31",
+   "short": "قرار أميري رقم (31) لسنة 2010",
+   "title": "قرار أميري رقم (31) لسنة 2010 بإعادة تشكيل مجلس إدارة قطر للبترول",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/31/general",
+   "versions": [
+    {
+     "from": "2010-10-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7e3f1e2f989ab499f9387eb137dc987812a04cde9ef3349eeb4af4f993aef702"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-32",
+   "short": "قرار أميري رقم (32) لسنة 2010",
+   "title": "قرار أميري رقم (32) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (33) لسنة 2000 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/32/general",
+   "versions": [
+    {
+     "from": "2010-10-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f60cefff2155fc584f2ef16308f5195d45c5ea5dab315a3722ba0a49634f7dda"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-35",
+   "short": "قرار أميري رقم (35) لسنة 2010",
+   "title": "قرار أميري رقم (35) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (84) لسنة 2007 بإنشاء اللجنة الوطنية للنزاهة والشفافية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/35/general",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ab1d35dfb5b158ca9296eff5c5feb9c5349bff631610e4e2c319367fadfa74d9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-36",
+   "short": "قرار أميري رقم (36) لسنة 2010",
+   "title": "قرار أميري رقم (36) لسنة 2010 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/36/general",
+   "versions": [
+    {
+     "from": "2010-11-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b0bd74af2e3ed48c9a9c30419b02c869d3ee0371cae5501dc7bd9d0a8249a446"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-38",
+   "short": "قرار أميري رقم (38) لسنة 2010",
+   "title": "قرار أميري رقم (38) لسنة 2010 بإنشاء المؤسسة العامة للحي الثقافي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/38/general",
+   "versions": [
+    {
+     "from": "2010-12-09",
+     "units": 24,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=38&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0f2dbdbcbc59407352c6ec405b76ef4b86d4f7c0ba5dfba87a3d5570f289db8c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-44",
+   "short": "قرار أميري رقم (44) لسنة 2010",
+   "title": "قرار أميري رقم (44) لسنة 2010 بإنشاء صندوق دعم الأنشطة الاجتماعية والرياضية (دعم)",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/44/general",
+   "versions": [
+    {
+     "from": "2015-09-10",
+     "units": 20,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "35c7a309579430d779b0a6137a3c4bae020fde5b024ec930f58d0fcfddd91e21"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2010-46",
+   "short": "قرار أميري رقم (46) لسنة 2010",
+   "title": "قرار أميري رقم (46) لسنة 2010 بتعديل بعض أحكام القرار الأميري رقم (22) لسنة 2008 بإنشاء مركز القيادات الإبداعية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2010/46/general",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=46&year=2010&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7878dc5f55db3a26747900cf84562ab02125d12380f9d17655dd23dc11e0a32d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-3",
+   "short": "قرار أميري رقم (3) لسنة 2009",
+   "title": "قرار أميري رقم (3) لسنة 2009 بإنشاء لجنة تنظيم مهرجان الدوحة السينمائي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/3/general",
+   "versions": [
+    {
+     "from": "2009-02-10",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "948c847cf2ebc81ead7aab3e65ffd25305c32abbee8701bc29227f6d6359b833"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-5",
+   "short": "قرار أميري رقم (5) لسنة 2009",
+   "title": "قرار أميري رقم (5) لسنة 2009 بتجديد مدة مجلس إدارة جهاز قطر للاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/5/general",
+   "versions": [
+    {
+     "from": "2009-02-11",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "92fdb4d375dce5d218ff92a4bb145f7c1072e2847b33e617699b5750e18ba9b9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-7",
+   "short": "قرار أميري رقم (7) لسنة 2009",
+   "title": "قرار أميري رقم (7) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/7/general",
+   "versions": [
+    {
+     "from": "2009-02-26",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "bf815d7cc7ef66314fdf94dd830181a20b96ce879f3b7b9366ed71c77538a8f6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-20",
+   "short": "قرار أميري رقم (20) لسنة 2009",
+   "title": "قرار أميري رقم (20) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/20/general",
+   "versions": [
+    {
+     "from": "2009-04-23",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "18a5a8503d6e55b457794675a359370f5c1b9aa69de7f9d0520d12f53ff7d37b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-25",
+   "short": "قرار أميري رقم (25) لسنة 2009",
+   "title": "قرار أميري رقم (25) لسنة 2009 باعتماد الحساب الختامي للدولة للسنة المالية 2006/2007",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/25/general",
+   "versions": [
+    {
+     "from": "2009-05-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "44312f27ac28b409eba6721d717e8d949d0831429dbdb232f943d125736da901"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-26",
+   "short": "قرار أميري رقم (26) لسنة 2009",
+   "title": "قرار أميري رقم (26) لسنة 2009 بتنظيم هيئة متاحف قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/26/general",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 26,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "21c873f18ba99afdd6de2300eabe86959d51af0a8dcba47580edfaeb4622c24e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-43",
+   "short": "قرار أميري رقم (43) لسنة 2009",
+   "title": "قرار أميري رقم (43) لسنة 2009 بشأن اعتماد الهيكل التنظيمي لهيئة متاحف قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/43/general",
+   "versions": [
+    {
+     "from": "2009-07-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=43&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "fd02363cf1fa19f461935c42ff165288be5940cc0f70dc69ec2986be24b05725"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-51",
+   "short": "قرار أميري رقم (51) لسنة 2009",
+   "title": "قرار أميري رقم (51) لسنة 2009 بتنظيم وكالة الأنباء القطرية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/51/general",
+   "versions": [
+    {
+     "from": "2010-10-17",
+     "units": 24,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=51&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3731ec1c1ebd29e8747cbe700c4a99a4e9f7fd2696a40305e208db18e3dff181"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-76",
+   "short": "قرار أميري رقم (76) لسنة 2009",
+   "title": "قرار أميري رقم (76) لسنة 2009 بتشكيل مجلس إدارة المجلس الأعلى للاتصالات وتكنولوجيا المعلومات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/76/general",
+   "versions": [
+    {
+     "from": "2009-10-29",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=76&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a78710e418b56283299fa1241c99e618ceda349bc4b88b31c08f535c1ebf35e8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-83",
+   "short": "قرار أميري رقم (83) لسنة 2009",
+   "title": "قرار أميري رقم (83) لسنة 2009 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/83/general",
+   "versions": [
+    {
+     "from": "2009-11-19",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=83&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a539628d4f495d38a467c3ca1de2dbf796a078345c1451162f4f5d41f8107905"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-87",
+   "short": "قرار أميري رقم (87) لسنة 2009",
+   "title": "قرار أميري رقم (87) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (26) لسنة 2009 بتنظيم هيئة متاحف قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/87/general",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=87&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6b85a52597f55d6cf2364ae94462fa0eaddb6e61fe0a62533cad265af1560264"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2009-89",
+   "short": "قرار أميري رقم (89) لسنة 2009",
+   "title": "قرار أميري رقم (89) لسنة 2009 بتعديل بعض أحكام القرار الأميري رقم (22) لسنة 2009 بتعيين نائب رئيس وأعضاء المجلس الأعلى للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2009/89/general",
+   "versions": [
+    {
+     "from": "2009-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=89&year=2009&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e12d592d235918fdc029ba6894f3af41f87a1412e8e2b8fccc8393aaf64da068"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-1",
+   "short": "قرار أميري رقم (1) لسنة 2008",
+   "title": "قرار أميري رقم (1) لسنة 2008 بإنشاء اسباير زون",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/1/general",
+   "versions": [
+    {
+     "from": "2008-01-07",
+     "units": 32,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "657ed3eed562ab1c2deb946fbf37fa3c62101760525ccf48d5493b2c3cedb864"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-3",
+   "short": "قرار أميري رقم (3) لسنة 2008",
+   "title": "قرار أميري رقم (3) لسنة 2008 بالموافقة على إنشاء مؤسسة «صلتك»",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/3/general",
+   "versions": [
+    {
+     "from": "2008-01-14",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "aeec1cf97157fdddf41ab9d97cb9e332dc3d83a64ceb2701d35cf11d009e8663"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-5",
+   "short": "قرار أميري رقم (5) لسنة 2008",
+   "title": "قرار أميري رقم (5) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (85) لسنة 2007 بإنشاء لجنة تنظيم افتتاح متحف الفن الإسلامي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/5/general",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "25847e0507b9b03a9cfc29f66d6fe07a12d06c94362b45b596fda60ca2e7e3bb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-9",
+   "short": "قرار أميري رقم (9) لسنة 2008",
+   "title": "قرار أميري رقم (9) لسنة 2008 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/9/general",
+   "versions": [
+    {
+     "from": "2008-02-19",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "448944a7f73620f44376187a1480eb56da13aded00bd7e09d19ec02f2bdb1187"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-10",
+   "short": "قرار أميري رقم (10) لسنة 2008",
+   "title": "قرار أميري رقم (10) لسنة 2008 بإصدار نظام إدارة صندوق الأوقاف واستثمار أمواله وقواعد الصرف منها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/10/general",
+   "versions": [
+    {
+     "from": "2008-02-24",
+     "units": 28,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "adcd4a23513df0858c189ac5d763d1f911714d3d2e0cdf43d26d636944e58b53"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-13",
+   "short": "قرار أميري رقم (13) لسنة 2008",
+   "title": "قرار أميري رقم (13) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/13/general",
+   "versions": [
+    {
+     "from": "2008-03-02",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ad398e0d9b645e2d9a1443b65c8d8361f0c44241b9cd25c86272c37c5733a833"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-17",
+   "short": "قرار أميري رقم (17) لسنة 2008",
+   "title": "قرار أميري رقم (17) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (33) لسنة 2000 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/17/general",
+   "versions": [
+    {
+     "from": "2008-03-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0a2f835758553053dd1ba4b12300724c29ca7a9761b6b4657a15a304413c205e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-18",
+   "short": "قرار أميري رقم (18) لسنة 2008",
+   "title": "قرار أميري رقم (18) لسنة 2008 باعتماد الحساب الختامي للدولة للسنة المالية 2005/2006",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/18/general",
+   "versions": [
+    {
+     "from": "2008-03-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "eb165e7dc90c0ae38dd5a9ba459ec5c06a93e87d50343afdb345a17676b2a209"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-22",
+   "short": "قرار أميري رقم (22) لسنة 2008",
+   "title": "قرار أميري رقم (22) لسنة 2008 بإنشاء مركز قطر للقيادات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/22/general",
+   "versions": [
+    {
+     "from": "2010-12-27",
+     "units": 18,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4f1243b3dd7ddeaefd1433319380dda7465f6af5b4cf438d7098f855bb980f17"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-28",
+   "short": "قرار أميري رقم (28) لسنة 2008",
+   "title": "قرار أميري رقم (28) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (13) لسنة 2005 بإنشاء الهيئة الوطنية للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/28/general",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1d5f938414ecb60973150b19120410485e3466583d41c631ca6a4e839cd5a2eb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-29",
+   "short": "قرار أميري رقم (29) لسنة 2008",
+   "title": "قرار أميري رقم (29) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (45) لسنة 2005 بتنظيم مؤسسة حمد الطبية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/29/general",
+   "versions": [
+    {
+     "from": "2008-06-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "64b91397dbd5c5c6b5a3ea053f8577333b0aad58dfc6cdbb13c78f2d1ac9811c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-32",
+   "short": "قرار أميري رقم (32) لسنة 2008",
+   "title": "قرار أميري رقم (32) لسنة 2008 بتشكيل مجلس إدارة الهيئة العامة لشؤون القاصرين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/32/general",
+   "versions": [
+    {
+     "from": "2008-06-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "cb8774778e63ba92b3988bb3dc0066f745dfef3f6b67f38c0b34dfaa089b9cd5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-36",
+   "short": "قرار أميري رقم (36) لسنة 2008",
+   "title": "قرار أميري رقم (36) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (6) لسنة 2006 بتشكيل لجنة المناقصات المركزية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/36/general",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7e5d693859a270c41b958dd257913b2f0551882e0cedeb4bdbc6c6039c37467d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-39",
+   "short": "قرار أميري رقم (39) لسنة 2008",
+   "title": "قرار أميري رقم (39) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (65) لسنة 2005 بإنشاء هيئة متاحف قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/39/general",
+   "versions": [
+    {
+     "from": "2008-06-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f41a6b5e66fa4b6c58f7095fe87e86c3c0b6744127b5bf49db971e9120a2a98b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-41",
+   "short": "قرار أميري رقم (41) لسنة 2008",
+   "title": "قرار أميري رقم (41) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (21) لسنة 2003 بتعيين أعضاء مجلس شؤون العائلة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/41/general",
+   "versions": [
+    {
+     "from": "2008-06-12",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4b409000dad67abe8ccd4cd86609e3d25709a72d61c0f7524338e51ae1ac390b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-44",
+   "short": "قرار أميري رقم (44) لسنة 2008",
+   "title": "قرار أميري رقم (44) لسنة 2008 باعتماد الرؤية الشاملة للتنمية «رؤية قطر الوطنية 2030»",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/44/general",
+   "versions": [
+    {
+     "from": "2008-08-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "bce2d9fde75727ce5d7a4b03b81782c4e52684855a0b2eea7b53f852d4cce0db"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-47",
+   "short": "قرار أمير دولة قطر رقم (47) لسنة 2008",
+   "title": "قرار أمير دولة قطر رقم (47) لسنة 2008 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/47/general",
+   "versions": [
+    {
+     "from": "2008-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=47&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "552cdb2694cd9d8c7714766b45ce65e1fdddd6e0f49678d64d6f0084574dddeb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-48",
+   "short": "قرار أميري رقم (48) لسنة 2008",
+   "title": "قرار أميري رقم (48) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (9) لسنة 2006 بتعيين نائب رئيس وأعضاء المجلس الأعلى للتعليم",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/48/general",
+   "versions": [
+    {
+     "from": "2008-07-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=48&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "675bf4e73981e6702af936fb7df65c965bb88b5e5a015327d3ba1253a8a2fe41"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-49",
+   "short": "قرار أميري رقم (49) لسنة 2008",
+   "title": "قرار أميري رقم (49) لسنة 2008 باعتماد إضافي رقم (3) للموازنة العامة للدولة للعام المالي 2007/2008",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/49/general",
+   "versions": [
+    {
+     "from": "2008-07-30",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=49&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6f5b9fef120449aea5bc9a3d2e61b9becaba5002c68607cd6215bc990386d803"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-50",
+   "short": "قرار أميري رقم (50) لسنة 2008",
+   "title": "قرار أميري رقم (50) لسنة 2008 باعتماد إضافي رقم (4) للموازنة العامة للدولة للعام المالي 2007/ 2008",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/50/general",
+   "versions": [
+    {
+     "from": "2008-07-30",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=50&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4abbe6c6eb8a987d90b766714056a633d929efcc7f2181e81fe5f8daa21c9824"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-52",
+   "short": "قرار أميري رقم (52) لسنة 2008",
+   "title": "قرار أميري رقم (52) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (42) لسنة 2007 بإنشاء اللجنة المنظمة لمهرجان قطر البحري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/52/general",
+   "versions": [
+    {
+     "from": "2008-09-03",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=52&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9e39058f0a79f73bb95fcbc33d01d000ef042d6bd4514bc5215be36f0b826bfd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-54",
+   "short": "قرار أميري رقم (54) لسنة 2008",
+   "title": "قرار أميري رقم (54) لسنة 2008 بتعديل بعض أحكام القرار الأميري رقم (49) لسنة 2006 بتشكيل مجلس إدارة الهيئة القطرية للأوقاف",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/54/general",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=54&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6a1832cdbc695d0687f64a637e664d2914c831ae738396c13b7eda82355603d0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-61",
+   "short": "قرار أميري رقم (61) لسنة 2008",
+   "title": "قرار أميري رقم (61) لسنة 2008 بإلغاء القرار الأميري رقم (55) لسنة 2007 بتعيين سفير فوق العادة مفوض لدى الجمهورية اللبنانية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/61/general",
+   "versions": [
+    {
+     "from": "2008-10-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=61&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d50b4be47deef2c8758f0d0c96f4549e20038e69def3da9ed90089d9da343620"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-72",
+   "short": "قرار أميري رقم (72) لسنة 2008",
+   "title": "قرار أميري رقم (72) لسنة 2008 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/72/general",
+   "versions": [
+    {
+     "from": "2008-10-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=72&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "402b3920486b93f894521fd13766bbbc0e46c1dec633be36c27d1fff9ee6c707"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-78",
+   "short": "قرار أميري رقم (78) لسنة 2008",
+   "title": "قرار أميري رقم (78) لسنة 2008 بمنح درجة وزير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/78/general",
+   "versions": [
+    {
+     "from": "2008-11-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=78&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6b844f191b6873ddf7675266b87789ceeefd581f22e408dd59ac0a8321024ec0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-80",
+   "short": "قرار أميري رقم (80) لسنة 2008",
+   "title": "قرار أميري رقم (80) لسنة 2008 بتشكيل لجنة تنفيذية لهيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/80/general",
+   "versions": [
+    {
+     "from": "2008-11-20",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=80&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3725670201bdd757c1aa7af4309fcdae3df896df1d042e0e38b054a452f71021"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2008-81",
+   "short": "قرار أميري رقم (81) لسنة 2008",
+   "title": "قرار أميري رقم (81) لسنة 2008 بتعديل تشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2008/81/general",
+   "versions": [
+    {
+     "from": "2008-11-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=81&year=2008&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "706a83dcd9b400c34fe291f790174190912118927b4972ad08b03e5edf0a39c3"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-amir-of-qatar-2007-1",
+   "short": "قرار أميري رقم (1) لسنة 2007",
+   "title": "قرار أميري رقم (1) لسنة 2007 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/1/amir-of-qatar",
+   "versions": [
+    {
+     "from": "2007-01-15",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2007&typeCode=emiri-decision&sourceCode=amir-of-qatar&culture=ar",
+     "sha256": "d5589e3c8a562e98b62cf17d770bde7b00e9e305534d975f8d20d09e5ae7302b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-3",
+   "short": "قرار أميري رقم (3) لسنة 2007",
+   "title": "قرار أميري رقم (3) لسنة 2007 بتعديل تشكيل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/3/general",
+   "versions": [
+    {
+     "from": "2007-02-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2bfd342efe5377ef31b5a3b8ea44b518be7ac7426523d4b000f32f829888c6ac"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-9",
+   "short": "قرار أميري رقم (9) لسنة 2007",
+   "title": "قرار أميري رقم (9) لسنة 2007 بإنشاء الحرس الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/9/general",
+   "versions": [
+    {
+     "from": "2007-04-05",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "cf3c3f6e73980a1a5bb096328ad07c7d2be803ecd49d89e58696f2336c907d4a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-13",
+   "short": "قرار أميري رقم (13) لسنة 2007",
+   "title": "قرار أميري رقم (13) لسنة 2007 بتعديل بعض أحكام القرار الأميري رقم (42) لسنة 1996 بشأن تحديد مخصصات الوزراء ومن في درجتهم",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/13/general",
+   "versions": [
+    {
+     "from": "2007-04-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dd33eb79fb792e6e2dd815f0a851176a1731962bd5a9ef8601473df4040d6b57"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-14",
+   "short": "قرار أميري رقم (14) لسنة 2007",
+   "title": "قرار أميري رقم (14) لسنة 2007 بتعديل تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/14/general",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "fbd46523440cc120ffab6bb07d8422bf074aacaa0bcaccc63531f21b9dcdd668"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-17",
+   "short": "قرار أميري رقم (17) لسنة 2007",
+   "title": "قرار أميري رقم (17) لسنة 2007 بتعديل تشكيل المجلس الأعلى للشئون الاقتصادية والاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/17/general",
+   "versions": [
+    {
+     "from": "2007-05-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "98440d9be8692fd7481ecb700c7be8f2427814c8f187f758f694f4fe7b101a45"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-20",
+   "short": "قرار أميري رقم (20) لسنة 2007",
+   "title": "قرار أميري رقم (20) لسنة 2007 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/20/general",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "90335202b72c3e66a818aae3e01dca4affe5230b2c5be0473c2a14f4604592fe"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-21",
+   "short": "قرار أميري رقم (21) لسنة 2007",
+   "title": "قرار أميري رقم (21) لسنة 2007 بتعديل تشكيل مجلس إدارة الهيئة الوطنية للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/21/general",
+   "versions": [
+    {
+     "from": "2007-05-03",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3798eb2907a99e188dccf3d5d17d092a4bff416fa71f9bc48f50d062acd82d14"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-22",
+   "short": "قرار أميري رقم (22) لسنة 2007",
+   "title": "قرار أميري رقم (22) لسنة 2007 بإلغاء وزارة شؤون الخدمة المدنية والإسكان",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/22/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2f40ed9f2043553286741748ef9a7be9c1ba27e108f5781a3549c4993b671804"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-23",
+   "short": "قرار أميري رقم (23) لسنة 2007",
+   "title": "قرار أميري رقم (23) لسنة 2007 بإنشاء وزارة العمل والشؤون الاجتماعية وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/23/general",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 25,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "79ccfa364baf69a8ff70dfb50d2475b80df32f776dd41126f41c88050dc6893d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-26",
+   "short": "قرار أميري رقم (26) لسنة 2007",
+   "title": "قرار أميري رقم (26) لسنة 2007 بتعديل بعض أحكام القرار الأميري رقم (36) لسنة 2006 بتعديل أسلوب إدارة بعض الهيئات والمؤسسات العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/26/general",
+   "versions": [
+    {
+     "from": "2007-05-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2c27e355f0df6c7157741c2cdb647a68cda451d878e8c0127cc9f63504527fbd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-28",
+   "short": "قرار أميري رقم (28) لسنة 2007",
+   "title": "قرار أميري رقم (28) لسنة 2007 بتشكيل مجلس إدارة شبكة الجزيرة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/28/general",
+   "versions": [
+    {
+     "from": "2007-05-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "54d9825dbe9fb7e996714dc0a57b7357553714ef71eb630a06ae242714a5833b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-32",
+   "short": "قرار أميري رقم (32) لسنة 2007",
+   "title": "قرار أميري رقم (32) لسنة 2007 بتعديل بعض أحكام القرار الأميري رقم (45) لسنة 2006 بزيادة الرواتب التقاعدية والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/32/general",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1214d1ef9b60066199f8551239cbba65410e10e29d435ca7b75acfad0d3ef4ee"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-33",
+   "short": "قرار أمير دولة قطر رقم (33) لسنة 2007",
+   "title": "قرار أمير دولة قطر رقم (33) لسنة 2007 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/33/general",
+   "versions": [
+    {
+     "from": "2007-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "765aadd9c0bd6c1e6af13a96a1a3549a416e75b9fe8ebb7261771590db000c9c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-37",
+   "short": "قرار أميري رقم (37) لسنة 2007",
+   "title": "قرار أميري رقم (37) لسنة 2007 بإنشاء لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/37/general",
+   "versions": [
+    {
+     "from": "2017-08-16",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=37&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "8abc695c9f9c812cb3c62ed987e9ec57514b23aed2a23199bbd7a66e74ef17c2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-41",
+   "short": "قرار أميري رقم (41) لسنة 2007",
+   "title": "قرار أميري رقم (41) لسنة 2007 باعتماد الحساب الختامي للدولة للسنة المالية 2004 / 2005",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/41/general",
+   "versions": [
+    {
+     "from": "2007-07-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6f99ab182af700fc2ce745d2c66b47ab4de4301f6978d6067c73ef037cdb5186"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-51",
+   "short": "قرار أميري رقم (51) لسنة 2007",
+   "title": "قرار أميري رقم (51) لسنة 2007 بالموافقة على إنشاء المؤسسة العربية للديمقراطية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/51/general",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=51&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "144f0b5f8c6303bcc5dedee81c1d6c07ccbc7a3f40861e441cee5799ef0ef9b6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-62",
+   "short": "قرار أميري رقم (62) لسنة 2007",
+   "title": "قرار أميري رقم (62) لسنة 2007 بإنشاء جائزة ولي العهد للشباب",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/62/general",
+   "versions": [
+    {
+     "from": "2010-01-24",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=62&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2adc276f9d8b5b4a8701344f893e361a4842d7fb49b9702e6e6254db075c526f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-63",
+   "short": "قرار أميري رقم (63) لسنة 2007",
+   "title": "قرار أميري رقم (63) لسنة 2007 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/63/general",
+   "versions": [
+    {
+     "from": "2007-07-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=63&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "8730fa1cc73818d8a978bb83813ab29d303a5301f70802b53ddb7957b4c8fd3b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-75",
+   "short": "قرار أميري رقم (75) لسنة 2007",
+   "title": "قرار أميري رقم (75) لسنة 2007 بمنح مكافأة سنوية لمجلس أمناء هيئة متاحف قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/75/general",
+   "versions": [
+    {
+     "from": "2007-09-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=75&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2f3a4efe8e09da16d5b5775a7320779517c1ddb3d5c054ce9d73385c324a4702"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-81",
+   "short": "قرار أميري رقم (81) لسنة 2007",
+   "title": "قرار أميري رقم (81) لسنة 2007 بتعديل بعض أحكام القرار رقم (20) لسنة 2007 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/81/general",
+   "versions": [
+    {
+     "from": "2007-11-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=81&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "849a3513c8978d8f0cfb9aa64ac8bdb7d346b7d0f16518bccf4c9f0b86038113"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-82",
+   "short": "قرار أميري رقم (82) لسنة 2007",
+   "title": "قرار أميري رقم (82) لسنة 2007 بتعديل تشكيل لجنة تسيير مشروع ميناء الدوحة الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/82/general",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=82&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c8fce94ba70998702a23a71fa9a79684f6c829bf524221d63b0671a8f432a1a9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-84",
+   "short": "قرار أميري رقم (84) لسنة 2007",
+   "title": "قرار أميري رقم (84) لسنة 2007 بإنشاء اللجنة الوطنية للنزاهة والشفافية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/84/general",
+   "versions": [
+    {
+     "from": "2010-11-11",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=84&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dc5e4c80e4789d90135803820fef0182d6e0ab0bfeb647df3129a21481ab1e6a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-85",
+   "short": "قرار أميري رقم (85) لسنة 2007",
+   "title": "قرار أميري رقم (85) لسنة 2007 بإنشاء لجنة تنظيم افتتاح متحف الفن الإسلامي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/85/general",
+   "versions": [
+    {
+     "from": "2008-02-07",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=85&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d89cf12999f2668e611f0aed88e01704dce016adde700f0cc9cd1b7fe9657b12"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-86",
+   "short": "قرار أميري رقم (86) لسنة 2007",
+   "title": "قرار أميري رقم (86) لسنة 2007 بالموافقة على إنشاء مركز الدوحة لحرية الإعلام",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/86/general",
+   "versions": [
+    {
+     "from": "2007-12-09",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=86&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ecdcdd0e1be2a1c4ada75f990407853c49a9ebd026cd9a5aceeb77e83914b937"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-88",
+   "short": "قرار أميري رقم (88) لسنة 2007",
+   "title": "قرار أميري رقم (88) لسنة 2007 بتحديد رواتب وبدلات القضاة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/88/general",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=88&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "555e57a7b567aa04800e3372c1f98c07af60ee5436a8b04d2b0589dd8d6e7e0d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2007-91",
+   "short": "قرار أميري رقم (91) لسنة 2007",
+   "title": "قرار أميري رقم (91) لسنة 2007 بتحديد رواتب وبدلات وعلاوات أعضاء النيابة العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2007/91/general",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=91&year=2007&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1ed8388b5e53b6792d487384f305d454ed159c62e485074406327a9a39dc83d5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-1",
+   "short": "قرار أميري رقم (1) لسنة 2006",
+   "title": "قرار أميري رقم (1) لسنة 2006 بإضافة عضوين إلي المجلس الوطني للثقافة والفنون والتراث",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/1/general",
+   "versions": [
+    {
+     "from": "2006-02-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c8d1cf20dd58c395bb173e8bba4ad9d205de79c289a21775cc7604ef80cd18ac"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-2",
+   "short": "قرار أميري رقم (2) لسنة 2006",
+   "title": "قرار أميري رقم (2) لسنة 2006 بإعادة تشكيل مجلس إدارة شركة قطر الوطنية للفنادق",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/2/general",
+   "versions": [
+    {
+     "from": "2006-02-12",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7f7e76979de6fd4a8b3bed2af94c60590ad730c1689cf79fbbe27cf4a8e8e31a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-5",
+   "short": "قرار أميري رقم (5) لسنة 2006",
+   "title": "قرار أميري رقم (5) لسنة 2006 بتشكيل مجلس إدارة شبكة الجزيرة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/5/general",
+   "versions": [
+    {
+     "from": "2006-02-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "655a5a741141d96d73784e536fe24a6fc974ccea3f400421e49fd4467ffa1250"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-6",
+   "short": "قرار أميري رقم (6) لسنة 2006",
+   "title": "قرار أميري رقم (6) لسنة 2006 بتشكيل لجنة المناقصات المركزية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/6/general",
+   "versions": [
+    {
+     "from": "2008-05-22",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2e0b942863d7abcaf391a187d93b4a0787bdde56ed1c15a389606baec57705a7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-10",
+   "short": "قرار أميري رقم (10) لسنة 2006",
+   "title": "قرار أميري رقم (10) لسنة 2006 بإعادة تنظيم الديوان الأميري وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/10/general",
+   "versions": [
+    {
+     "from": "2017-10-09",
+     "units": 35,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "709bcd510718b0610d08a20c375ae4e1930a64c81d252d33ee0cc26dbdb32024"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-14",
+   "short": "قرار أميري رقم (14) لسنة 2006",
+   "title": "قرار أميري رقم (14) لسنة 2006 بتحديد رواتب موظفي السلكين الدبلوماسي والقنصلي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/14/general",
+   "versions": [
+    {
+     "from": "2006-04-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c3ce0ccf65e1d7d6ddc7855ad2396b3a882c81dd802571b890b2ec425ee89fa0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-15",
+   "short": "قرار أمير دولة قطر رقم (15) لسنة 2006",
+   "title": "قرار أمير دولة قطر رقم (15) لسنة 2006 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/15/general",
+   "versions": [
+    {
+     "from": "2006-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6613dd1ee78ff2e23defcaa04d71c7ff02644535a6fc69583c6051dd18fe2978"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-16",
+   "short": "قرار أميري رقم (16) لسنة 2006",
+   "title": "قرار أميري رقم (16) لسنة 2006 بتعديل بعض أحكام القرار الأميري رقم (64) لسنة 2003 بإعادة تشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/16/general",
+   "versions": [
+    {
+     "from": "2006-05-09",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2eae421a32e99a9bbfcde8ec3a2863c885b76a9f34d9ce58266f87ec282b4146"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-18",
+   "short": "قرار أميري رقم (18) لسنة 2006",
+   "title": "قرار أميري رقم (18) لسنة 2006 بإنشاء لجنة لتسيير مشروع كلية علوم التمريض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/18/general",
+   "versions": [
+    {
+     "from": "2006-06-19",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7e44ed6ecbdb1162122686ffd2fa5edf2378614c2a4625729d36c377ba7db163"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-22",
+   "short": "قرار أميري رقم (22) لسنة 2006",
+   "title": "قرار أميري رقم (22) لسنة 2006 بتشكيل مجلس إدارة المؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/22/general",
+   "versions": [
+    {
+     "from": "2006-07-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "24555ed7916986bc7bc57f6ac09162db90e29f39d18c521f22f9fc12d98ca1db"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-23",
+   "short": "قرار أميري رقم (23) لسنة 2006",
+   "title": "قرار أميري رقم (23) لسنة 2006 بشأن تشكيل اللجنة الدائمة لشؤون الجنسية وتحديد اختصاصاتها والإجراءات التي تتبع أمامها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/23/general",
+   "versions": [
+    {
+     "from": "2025-06-04",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "80d221e5af103c52ed4faf69abd58a3fa386d65f9a56071c265f1ba3ccbb370f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-25",
+   "short": "قرار أميري رقم (25) لسنة 2006",
+   "title": "قرار أميري رقم (25) لسنة 2006 بتعديل بعض أحكام القرار الأميري رقم (61) لسنة 2005 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/25/general",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "bc1fa7cf079bdbbe3d87cbf1e7786ba007948df648699922fff5e5ea88072546"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-26",
+   "short": "قرار أميري رقم (26) لسنة 2006",
+   "title": "قرار أميري رقم (26) لسنة 2006 بتعديل بعض أحكام القرار الأميري رقم (8) لسنة 2005 بتشكيل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/26/general",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1280d2578f8ca7decd96dd9ca3f6e845ff25a1eb1d62750694883581b743c089"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-34",
+   "short": "قرار أميري رقم (34) لسنة 2006",
+   "title": "قرار أميري رقم (34) لسنة 2006 بإضافة عضو إلى عضوية اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/34/general",
+   "versions": [
+    {
+     "from": "2006-09-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "af12a141a7bff21c09dde1e5c2aafe5d69828b3eb5f9a2cb1fe7ebaa7f7f3cc8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-36",
+   "short": "قرار أميري رقم (36) لسنة 2006",
+   "title": "قرار أميري رقم (36) لسنة 2006بتعديل أسلوب إدارة بعض الهيئات والمؤسسات العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/36/general",
+   "versions": [
+    {
+     "from": "2007-05-09",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "06e968580add79aee91c0bb0cdd87f09deba6d8a9ff3816c90a415796bda3be2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-40",
+   "short": "قرار أميري رقم (40) لسنة 2006",
+   "title": "قرار أميري رقم (40) لسنة 2006 بتعديل بعض أحكام القرار رقم (3) لسنة 2006 بتعيين رئيس ونائب رئيس وأعضاء مجلس إدارة جهاز قطر للاستثمار والرئيس التنفيذي للجهاز",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/40/general",
+   "versions": [
+    {
+     "from": "2006-11-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c58127f14f534c07922b13124c08971efecd4ff783008e6d4e7b70119c1a5f42"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-41",
+   "short": "قرار أميري رقم (41) لسنة 2006",
+   "title": "قرار أميري رقم (41) لسنة 2006 بإنشاء الهيئة القطرية للأوقاف",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/41/general",
+   "versions": [
+    {
+     "from": "2006-12-12",
+     "units": 33,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a1e05c6de3734ef540305ebe75195c05d6491691d570a99fea966d40c2245eb7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-42",
+   "short": "قرار أميري رقم (42) لسنة 2006",
+   "title": "قرار أميري رقم (42) لسنة 2006 بتعديل الجدول رقم (2) المرفق بقانون الخدمة العسكرية الصادر بالمرسوم بقانون رقم (31) لسنة 2006",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/42/general",
+   "versions": [
+    {
+     "from": "2006-11-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=42&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "5f5998567a4b1298680b70c7e422bd9940987c7b0c43680d30ba4434d7d3cb0a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-44",
+   "short": "قرار أميري رقم (44) لسنة 2006",
+   "title": "قرار أميري رقم (44) لسنة 2006 بزيادة رواتب الموظفين المدنيين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/44/general",
+   "versions": [
+    {
+     "from": "2006-12-01",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "857b8a9fcc47cb3facb1d9141d8e87f37d90b96fa0f775b10fb7bf32c8789250"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-45",
+   "short": "قرار أميري رقم (45) لسنة 2006",
+   "title": "قرار أميري رقم (45) لسنة 2006 بزيادة الرواتب التقاعدية والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/45/general",
+   "versions": [
+    {
+     "from": "2007-05-29",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a170fc7025379e5742166cb90154cbc4b9830e94b40feffd75a3c69a91d2e646"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2006-49",
+   "short": "قرار أميري رقم (49) لسنة 2006",
+   "title": "قرار أميري رقم (49) لسنة 2006 بتشكيل مجلس إدارة الهيئة القطرية للأوقاف",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2006/49/general",
+   "versions": [
+    {
+     "from": "2008-09-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=49&year=2006&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "778372549d518e1f8bb543b42fbb73e464bc904b33012fa5627fd9eaca57b256"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-1",
+   "short": "قرار أميري رقم (1) لسنة 2005",
+   "title": "قرار أميري رقم (1) لسنة 2005 بتعديل تشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/1/general",
+   "versions": [
+    {
+     "from": "2005-01-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "359145adef6ab5ba074338d5bb9220c400c7a1ab5f9a505dd07a4076a9c64b84"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-2",
+   "short": "قرار أميري رقم (2) لسنة 2005",
+   "title": "قرار أميري رقم (2) لسنة 2005 بتشكيل مجلس إدارة قناة الجزيرة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/2/general",
+   "versions": [
+    {
+     "from": "2005-01-18",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "16df1d381c6ea716ed6567331c625628876784236102768f208ef4e8293584b0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-3",
+   "short": "قرار أميري رقم (3) لسنة 2005",
+   "title": "قرار أميري رقم (3) لسنة 2005 بتنظيم مكتب ولي العهد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/3/general",
+   "versions": [
+    {
+     "from": "2005-02-08",
+     "units": 13,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f33a9d39686403c773a6b61b15573908d873a3cbadc9c89e1481ce0341e33783"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-5",
+   "short": "قرار أميري رقم (5) لسنة 2005",
+   "title": "قرار أميري رقم (5) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 2004 بإعادة تشكيل المجلس الوطني للثقافة والفنون والتراث",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/5/general",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "32c58606ff81b067a90c7b21af79def299116146df1c18039916e7d7d95d2da8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-7",
+   "short": "قرار أميري رقم (7) لسنة 2005",
+   "title": "قرار أميري رقم (7) لسنة 2005 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/7/general",
+   "versions": [
+    {
+     "from": "2007-04-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "8a51c07a0accdc97543086b82ecb9f9bb1cf280b8b38eac1aa17c2a5adb4c9cb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-8",
+   "short": "قرار أميري رقم (8) لسنة 2005",
+   "title": "قرار أميري رقم (8) لسنة 2005 بتشكيل مجلس إدارة هيئة الأشغال العامة والهيئة العامة للتخطيط والتطوير العمراني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/8/general",
+   "versions": [
+    {
+     "from": "2006-07-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0975538622e6d11e514f2ed9d62fe7be2d1adb824ee64c3d78083a0990802b64"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-11",
+   "short": "قرار أميري رقم (11) لسنة 2005",
+   "title": "قرار أميري رقم (11) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/11/general",
+   "versions": [
+    {
+     "from": "2005-04-28",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "955992a3b77a790f25fa54819f9f70be362c23e8b0e35a02bc6bd3624994c6a1"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-12",
+   "short": "قرار أميري رقم (12) لسنة 2005",
+   "title": "قرار أميري رقم (12) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (24) لسنة 2003 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/12/general",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9003b4049cd65e303101735effc61db409028e6e9dc4161fb12871a72a2a3b03"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-14",
+   "short": "قرار أميري رقم (14) لسنة 2005",
+   "title": "قرار أميري رقم (14) لسنة 2005 بتشكيل مجلس إدارة الهيئة الوطنية للصحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/14/general",
+   "versions": [
+    {
+     "from": "2006-03-28",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ee8e7d458ffda2896a172302bcf7539ac58c00fb70ebcf0abcae88b05c66a169"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-16",
+   "short": "قرار أميري رقم (16) لسنة 2005",
+   "title": "قرار أميري رقم (16) لسنة 2005 بتنظيم مكتب حرم سمو الأمير",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/16/general",
+   "versions": [
+    {
+     "from": "2005-06-02",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "8f20de697cd0c1da5282d4ff8f6c8c0845d91f60dbb1e37c99e94c93cd78344c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-19",
+   "short": "قرار أميري رقم (19) لسنة 2005",
+   "title": "قرار أميري رقم (19) لسنة 2005 بتشكيل مجلس إدارة الهيئة العامة لشؤون القاصرين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/19/general",
+   "versions": [
+    {
+     "from": "2005-06-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2fb5c4a2e751f43ccaa7d2a8233c8b41cabc6d656978848c049e85a9a7f480e8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-21",
+   "short": "قرار أميري رقم (21) لسنة 2005",
+   "title": "قرار أميري رقم (21) لسنة 2005 بتعديل تنظيم الوحدات الإدارية بالديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/21/general",
+   "versions": [
+    {
+     "from": "2005-06-21",
+     "units": 18,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "8f214fe1a64cd46a77470dda862e14b9418ffbb6dac555b03735a7042df955d7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-24",
+   "short": "قرار أمير دولة قطر رقم (24) لسنة 2005",
+   "title": "قرار أمير دولة قطر رقم (24) لسنة 2005 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/24/general",
+   "versions": [
+    {
+     "from": "2005-06-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7b9e6711a54caaa35cd3197db87f7413aa0caeee114ce8f3c9153e42d7af6ba6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-25",
+   "short": "قرار أميري رقم (25) لسنة 2005",
+   "title": "قرار أميري رقم (25) لسنة 2005 بتسكين أعضاء النيابة العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/25/general",
+   "versions": [
+    {
+     "from": "2005-07-04",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d60b31cbe379d7bd1eb2b6b4e221ad84140c4f5e146303db7890b6d925b33182"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-50",
+   "short": "قرار أميري رقم (50) لسنة 2005",
+   "title": "قرار أميري رقم (50) لسنة 2005 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/50/general",
+   "versions": [
+    {
+     "from": "2005-09-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=50&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9b4ce47e6ffd8500be9c26d16ea07020a69706db20b3e97dc7d8cd8fba09ef1e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-52",
+   "short": "قرار أميري رقم (52) لسنة 2005",
+   "title": "قرار أميري رقم (52) لسنة 2005 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/52/general",
+   "versions": [
+    {
+     "from": "2005-09-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=52&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f62ba28f855acf9a8a24d10002f43f6bbee08e7df8bbd4b22d3f5ee1434c1fe7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-54",
+   "short": "قرار أميري رقم (54) لسنة 2005",
+   "title": "قرار أميري رقم (54) لسنة 2005 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/54/general",
+   "versions": [
+    {
+     "from": "2005-09-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=54&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9c49bccf6402ea4ab7a0613335e83ac755284b40fd8a95e20170a6b22b335810"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-57",
+   "short": "قرار أميري رقم (57) لسنة 2005",
+   "title": "قرار أميري رقم (57) لسنة 2005 بتعديل بعض أحكام القرار الأميري رقم (33) لسنة 2000 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/57/general",
+   "versions": [
+    {
+     "from": "2005-09-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=57&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "23ca8ee2bf6b16409e37d10a4b9e8f0d306dbc8d00f4ef9b9fd06cb788906ba7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-61",
+   "short": "قرار أميري رقم (61) لسنة 2005",
+   "title": "قرار أميري رقم (61) لسنة 2005 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/61/general",
+   "versions": [
+    {
+     "from": "2006-07-25",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=61&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "79b89d25d713e2dd99ed74c47f2cb89ef4cffab58a0562a844b2ba74a558b3f5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-62",
+   "short": "قرار أميري رقم (62) لسنة 2005",
+   "title": "قرار أميري رقم (62) لسنة 2005 باعتماد الحساب الختامي للدولة للسنة المالية 2003/ 2004",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/62/general",
+   "versions": [
+    {
+     "from": "2005-11-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=62&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7172b26b8a22b322453774792018817790a1768cc67a50cfdeb56d6253dfe530"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2005-64",
+   "short": "قرار أميري رقم (64) لسنة 2005",
+   "title": "قرار أميري رقم (64) لسنة 2005 بشأن المكتب الهندسي الخاص",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2005/64/general",
+   "versions": [
+    {
+     "from": "2012-05-29",
+     "units": 32,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=64&year=2005&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1e6c25098b09f910289b273639a40f24b9b3da8243dc1ab2f3c4147d8aa8365d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-2",
+   "short": "قرار اللجنة العليا للتنسيق والمتابعة رقم (2) لسنة 2004",
+   "title": "قرار اللجنة العليا للتنسيق والمتابعة رقم (2) لسنة 2004 بإعادة تشكيل اللجنة التنفيذية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/2/general",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "28745e9bbc740b8c9248b17e859f9160933ab1cd62c0b89d90214ad5fc43bebc"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-3",
+   "short": "قرار أميري رقم (3) لسنة 2004",
+   "title": "قرار أميري رقم (3) لسنة 2004 بتعديل تشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/3/general",
+   "versions": [
+    {
+     "from": "2004-02-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c570cef98fc11a7dad38fb1f90c08c25f6b8586fa0f2c9133d9dbf3287123735"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-4",
+   "short": "قرار أميري رقم (4) لسنة 2004",
+   "title": "قرار أميري رقم (4) لسنة 2004 بإعادة تنظيم اللجنة العليا للتنسيق والمتابعةَ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/4/general",
+   "versions": [
+    {
+     "from": "2004-02-24",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f5ecab5ba1e80f6969ba22ad092bc11a6ddb88700503e1d90eb75b5c1d41703c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-10",
+   "short": "قرار أميري رقم (10) لسنة 2004",
+   "title": "قرار أميري رقم (10) لسنة 2004 بتشكيل مجلس إدارة هيئة الأشغال العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/10/general",
+   "versions": [
+    {
+     "from": "2004-04-15",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d6d1ce48f9b4543ea66e0cc24f44cfa4dedf434cf77b16b15a9eaf67cd2fda59"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-14",
+   "short": "قرار أميري رقم (14) لسنة 2004",
+   "title": "قرار أميري رقم (14) لسنة 2004 بإعادة تشكيل المجلس الوطني للثقافة والفنون والتراث",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/14/general",
+   "versions": [
+    {
+     "from": "2005-02-15",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "41452e065c1d501427a11d8f795508d976d093050ca454ac9e1d51c920526a4d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-18",
+   "short": "قرار أميري رقم (18) لسنة 2004",
+   "title": "قرار أميري رقم (18) لسنة 2004 بإضافة عضو إلى لجنة تسيير مشروع إنشاء مطار الدوحة الدولي الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/18/general",
+   "versions": [
+    {
+     "from": "2004-06-10",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7d7f78001fcc010aaf97d269a4288e5278016bb46bc7b09e0a500ad389df5216"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-19",
+   "short": "قرار أميري رقم (19) لسنة 2004",
+   "title": "قرار أميري رقم (19) لسنة 2004 بنظام المناقصات والمزايدات لجهاز أمن الدولة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/19/general",
+   "versions": [
+    {
+     "from": "2004-06-21",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "fc81d459165e7296c6df18667f557a7fb3d6bb0dbdb1835e6cab8c007564bc3e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-20",
+   "short": "قرار أميري رقم (20) لسنة 2004",
+   "title": "قرار أميري رقم (20) لسنة 2004 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/20/general",
+   "versions": [
+    {
+     "from": "2004-06-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "37cef41b83f47aae62beb08005ecc02ea26cb481d5b4fde4a367a6a454f4e481"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-21",
+   "short": "قرار أميري رقم (21) لسنة 2004",
+   "title": "قرار أميري رقم (21) لسنة 2004 بإلغاء لجنة تسيير مشروع مركز قطر للعلوم",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/21/general",
+   "versions": [
+    {
+     "from": "2004-06-28",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "50706b85b4a36b30b1af48c3af7628e0344c001037954e0e61d8a3b816872a89"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-22",
+   "short": "قرار أميري رقم (22) لسنة 2004",
+   "title": "قرار أميري رقم (22) لسنة 2004 بتعديل رواتب وبدلات هيئة الإدارة وأعضاء هيئة التدريس بجامعة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/22/general",
+   "versions": [
+    {
+     "from": "2004-09-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "32f670d65cfcd77b0bd348f5e1e04aca99aee1538c62f80ee588ccee45dbe6c2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-47",
+   "short": "قرار أميري رقم (47) لسنة 2004",
+   "title": "قرار أميري رقم (47) لسنة 2004 بشأن الهيئة العامة للتخطيط والتطوير العمراني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/47/general",
+   "versions": [
+    {
+     "from": "2004-09-14",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=47&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b0d66e87c0ccf62dca37b4fb1ccdcb6a7c40e03ad4a48771ac19453867aab251"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-49",
+   "short": "قرار أميري رقم (49) لسنة 2004",
+   "title": "قرار أميري رقم (49) لسنة 2004 بشأن رواتب أعضاء قوة الشرطة المحالين إلى قوة الاحتياط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/49/general",
+   "versions": [
+    {
+     "from": "2004-09-28",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=49&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e83e997ec8a1febf8d7d4f8c06f2ae58dc62212fd920e33dbc8084479944f6c6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-55",
+   "short": "قرار أميري رقم (55) لسنة 2004",
+   "title": "قرار أميري رقم (55) لسنة 2004بتشكيل مجلس إدارة المجلس الأعلى للاتصالات وتكنولوجيا المعلومات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/55/general",
+   "versions": [
+    {
+     "from": "2004-10-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=55&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "121b0c9c616f21f8f9969b4f523c9d6cc4df7235910d0599da694bf53aa78af5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-56",
+   "short": "قرار أميري رقم (56) لسنة 2004",
+   "title": "قرار أميري رقم (56) لسنة 2004 بإعادة تشكيل مجلس إدارة قطر للبترول",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/56/general",
+   "versions": [
+    {
+     "from": "2004-11-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=56&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9f1a990426a0bc8fc21e040eff71e5f750a4d86cca4415b37b600b81755e5750"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-57",
+   "short": "قرار أميري رقم (57) لسنة 2004",
+   "title": "قرار أميري رقم (57) لسنة 2004 بتسوية أوضاع قضاة المحاكم الشرعية والعدلية وترتيب أقدمياتهم فيما بينهم",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/57/general",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=57&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "5f4e85ef01f9ca39b7367c2b11f0275ee864014e73257b66ce4f235867bdfe95"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-61",
+   "short": "قرار أمير دولة قطر رقم (61) لسنة 2004",
+   "title": "قرار أمير دولة قطر رقم (61) لسنة 2004 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/61/general",
+   "versions": [
+    {
+     "from": "2004-10-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=61&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dca19b78fbcfc7c93c66e1bdb5bae58374552f8a9b6e3bbdd2906342a3295ee9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-62",
+   "short": "قرار أمير دولة قطر رقم (62) لسنة 2004",
+   "title": "قرار أمير دولة قطر رقم (62) لسنة 2004 بتجديد عضوية بعض أعضاء مجلس الشورى وتعيين أعضاء جدد بالمجلس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/62/general",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=62&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6aeaaecec7407e423a8569787f5c7be2a055bcbd27d009b2a3f7526a77c1f164"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-63",
+   "short": "قرار أميري رقم (63) لسنة 2004",
+   "title": "قرار أميري رقم (63) لسنة 2004 باعتماد الحساب الختامي للدولة للسنة المالية 2002 /2003",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/63/general",
+   "versions": [
+    {
+     "from": "2004-11-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=63&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "01ea81f5cc989980537214474e1d201097e9f5f16fb9bbfd03939dfa002487d7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-65",
+   "short": "قرار أميري رقم (65) لسنة 2004",
+   "title": "قرار أميري رقم (65) لسنة 2004 بنظام المناقصات والمزايدات لقوة الأمن الداخلي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/65/general",
+   "versions": [
+    {
+     "from": "2004-11-22",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=65&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "5db07a366413d24ac1f831c252c46f3c420024ff1bf5bb13a956c9f0a54e5560"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2004-69",
+   "short": "قرار أميري رقم (69) لسنة 2004",
+   "title": "قرار أميري رقم (69) لسنة 2004 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 2002 بإنشاء لجنة تسيير مشروع إنشاء مطار الدوحة الدولي الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2004/69/general",
+   "versions": [
+    {
+     "from": "2004-12-15",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=69&year=2004&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "515fa31a2ea3ee15532fab4e002e5a75b09cfd7821ef5d5e1e3a580d02db3c55"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-2",
+   "short": "قرار أميري رقم (2) لسنة 2003",
+   "title": "قرار أميري رقم (2) لسنة 2003 بتعديل تنظيم الوحدات الإدارية بالديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/2/general",
+   "versions": [
+    {
+     "from": "2003-01-22",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "70b6b980e723c9ba5f4f44f35f365e5b5e126d98ee0f2b604fbd9676856600f2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-5",
+   "short": "قرار أميري رقم (5) لسنة 2003",
+   "title": "قرار أميري رقم (5) لسنة 2003 بتشكيل مجلس إدارة قناة الجزيرة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/5/general",
+   "versions": [
+    {
+     "from": "2003-02-04",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9a6103cb92f0c3bef0ca6fcdb9818d6ca8a7d7cb34fd141c8d62a62a19a41bfd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-11",
+   "short": "قرار أميري رقم (11) لسنة 2003",
+   "title": "قرار أميري رقم (11) لسنة 2003 بإضافة عضوين لمجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/11/general",
+   "versions": [
+    {
+     "from": "2003-03-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4d021316e0fd43b942636a22cbbfd0beee7e10a853a0bc8ea02eef723ddd8709"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-13",
+   "short": "قرار أميري رقم (13) لسنة 2003",
+   "title": "قرار أميري رقم (13) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (33) لسنة 2000 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/13/general",
+   "versions": [
+    {
+     "from": "2003-04-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "eb90473a89f1acf4556cc547e1c322b6c114d7036c73e5040229038163153a8d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-19",
+   "short": "قرار أميري رقم (19) لسنة 2003",
+   "title": "قرار أميري رقم (19) لسنة 2003 بإنشاء لجنة تسيير مشروع تكنولوجيا المعلومات والإتصالات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/19/general",
+   "versions": [
+    {
+     "from": "2003-05-26",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "08f8ac2a422a5a71189c22c1380a42d96b389a95ef634e5837a15ee01c6cbdc4"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-20",
+   "short": "قرار أميري رقم (20) لسنة 2003",
+   "title": "قرار أميري رقم (20) لسنة 2003 بتشكيل مجلس التخطيط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/20/general",
+   "versions": [
+    {
+     "from": "2003-06-02",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1082bec00d116b3c988b135d6716a60683c207a3ea336b495aff0a1b159632c9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-23",
+   "short": "قرار أميري رقم (23) لسنة 2003",
+   "title": "قرار أميري رقم (23) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (13) لسنة 2002 بإعادة تشكيل مجلس إدارة الهيئة العامة للطيران المدني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/23/general",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ba8f7edb1c2facf9853993b19aeae3225a8d799d3ba0e1391998178e7342e9ef"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-24",
+   "short": "قرار أميري رقم (24) لسنة 2003",
+   "title": "قرار أميري رقم (24) لسنة 2003 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للكهرباء والماء",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/24/general",
+   "versions": [
+    {
+     "from": "2005-05-05",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "78f2f4fb8d532d84e1e9b433bd2237fe31ceffab7e22ae0a9e5c412128315cc9"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-56",
+   "short": "قرار أميري رقم (56) لسنة 2003",
+   "title": "قرار أميري رقم (56) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/56/general",
+   "versions": [
+    {
+     "from": "2003-07-11",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=56&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0264c82988ab6ccc7a48aef8ec8857b54b37b8478aa3588c0b31a8048199ae45"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-57",
+   "short": "قرار أميري رقم (57) لسنة 2003",
+   "title": "قرار أميري رقم (57) لسنة 2003 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/57/general",
+   "versions": [
+    {
+     "from": "2003-09-18",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=57&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4c0e93c6af5896ebd2682087fb4e5d672ec753779df978ee3c65c3bfda2689cf"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-58",
+   "short": "قرار أميري رقم (58) لسنة 2003",
+   "title": "قرار أميري رقم (58) لسنة 2003 باعتماد الحساب الختامي للدولة للسنة المالية 2000/ 2001",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/58/general",
+   "versions": [
+    {
+     "from": "2003-09-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=58&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "32f7aa6b4a4501b19914d82c6f5f43880fcaca5473da673da7852d268cccf2d1"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-60",
+   "short": "قرار أميري رقم (60) لسنة 2003",
+   "title": "قرار أميري رقم (60) لسنة 2003 بتعديل بعض أحكام القرار الأميري رقم (10) لسنة 2003 بتعيين أربعة أعضاء في مجلس جامعة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/60/general",
+   "versions": [
+    {
+     "from": "2003-09-22",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=60&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "99fefa258576524b8826c3cc85af49bf20a80b7724befaab3fcfebd374de8014"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-64",
+   "short": "قرار أميري رقم (64) لسنة 2003",
+   "title": "قرار أميري رقم (64) لسنة 2003 بإعادة تشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/64/general",
+   "versions": [
+    {
+     "from": "2006-05-09",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=64&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "417d2291beeb06af7959b7e62e961f94f45ed1ae319265ff2e5cdea6edc5bece"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-66",
+   "short": "قرار أميري رقم (66) لسنة 2003",
+   "title": "قرار أميري رقم (66) لسنة 2003 بإعادة تشكيل مجلس إدارة قناة الجزيرة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/66/general",
+   "versions": [
+    {
+     "from": "2003-10-30",
+     "units": 6,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=66&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7ef3aeb2735bb866e9bac201f435d813b1c3ea10d973be0cc98fd7595b5c9819"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-68",
+   "short": "قرار أميري رقم (68) لسنة 2003",
+   "title": "قرار أميري رقم (68) لسنة 2003 بإضافة عضو إلى اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/68/general",
+   "versions": [
+    {
+     "from": "2003-11-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=68&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a983fc75fce413605ff5cad4f4b23403d677bb3f9606b4d15fd230bc3d79e00f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-69",
+   "short": "قرار أميري رقم (69) لسنة 2003",
+   "title": "قرار أميري رقم (69) لسنة 2003 بإعادة تشكيل مجلس إدارة الهيئة العامة للسياحة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/69/general",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=69&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "612d12e7a5853919263c2fabe3e4b17f98dbb48de9292b434a247b282b0f6f41"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-70",
+   "short": "قرار أميري رقم (70) لسنة 2003",
+   "title": "قرار أميري رقم (70) لسنة 2003 بإضافة عضو إلى اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/70/general",
+   "versions": [
+    {
+     "from": "2003-12-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=70&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "0e3bc14bc494ebd40e8c8c3416030eb082f25f87870f8a5c8cd88f6b673c8698"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2003-74",
+   "short": "قرار أميري رقم (74) لسنة 2003",
+   "title": "قرار أميري رقم (74) لسنة 2003 بإعادة تشكيل مجلس إدارة مؤسسة حمد الطبية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2003/74/general",
+   "versions": [
+    {
+     "from": "2003-12-24",
+     "units": 7,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=74&year=2003&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "98222e19bc85c4e9ebaa270e0f415a77b7ff92018ee9b67269127a5b22cae521"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-2",
+   "short": "قرار أميري رقم (2) لسنة 2002",
+   "title": "قرار أميري رقم (2) لسنة 2002 بتعديل تشكيل المجلس الأعلى للشؤون الاقتصادية والاستثمار",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/2/general",
+   "versions": [
+    {
+     "from": "2002-01-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c72c6b1940239165c5263d3a56b9d7d392cffc4a81438b2b3e72dabbf278dcf5"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-8",
+   "short": "قرار أميري رقم (8) لسنة 2002",
+   "title": "قرار أميري رقم (8) لسنة 2002 بتعديل رواتب وبدلات قضاة المحاكم العدلية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/8/general",
+   "versions": [
+    {
+     "from": "2002-04-08",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "88a7defae36efadb5382ccf3ed4bbbed751c021c18bb7413e1c0aa988529e3e0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-9",
+   "short": "قرار أميري رقم (9) لسنة 2002",
+   "title": "قرار أميري رقم (9) لسنة 2002 بإعادة تشكيل لجنة المناقصات المركزية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/9/general",
+   "versions": [
+    {
+     "from": "2002-04-08",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d2fe7bcd607e42837991dcef9251e5ca8be16f6fa5387367869cade95dc93e20"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-10",
+   "short": "قرار أميري رقم (10) لسنة 2002",
+   "title": "قرار أميري رقم (10) لسنة 2002 بإنشاء لجنة تسيير مشروع صيانة الطائرات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/10/general",
+   "versions": [
+    {
+     "from": "2002-06-03",
+     "units": 10,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "41ad249390f1fb368c7fd171bb8d81e3d89cac545bad3b555a553d824a1cb90e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-11",
+   "short": "قرار أمير دولة قطر رقم (11) لسنة 2002",
+   "title": "قرار أمير دولة قطر رقم (11) لسنة 2002 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/11/general",
+   "versions": [
+    {
+     "from": "2002-06-05",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "699735993b9fb513754e1532769ea70ee9b861e439c6370864bb0a9737edafa8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-13",
+   "short": "قرار أميري رقم (13) لسنة 2002",
+   "title": "قرار أميري رقم (13) لسنة 2002 بإعادة تشكيل مجلس إدارة الهيئة العامة للطيران المدني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/13/general",
+   "versions": [
+    {
+     "from": "2003-06-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "736e4276f2c35d5c45aca18f53c92ec6b7876a97108c05385eaeaf60ef999230"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-15",
+   "short": "قرار أميري رقم (15) لسنة 2002",
+   "title": "قرار أميري رقم (15) لسنة 2002 بإعتماد الحساب الختامي للدولة للسنة المالية 1999/ 2000",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/15/general",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=15&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f235d870a50c08803c1943a3a50fa7d6c001b2fc68382fb60375cd6108e4660d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-17",
+   "short": "قرار أميري رقم (17) لسنة 2002",
+   "title": "قرار أميري رقم (17) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (38) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للجمارك والموانئ",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/17/general",
+   "versions": [
+    {
+     "from": "2002-07-17",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=17&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "c98b11ebe47dbfbb8ef39361b8273119e85b6fca83e4e9f90e9137a379bd8dfd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-18",
+   "short": "قرار أميري رقم (18) لسنة 2002",
+   "title": "قرار أميري رقم (18) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 1998 بإنشاء مجلس التخطيط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/18/general",
+   "versions": [
+    {
+     "from": "2002-08-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "41d028c70d4b776bbe1e0c022d575f32f6f0e8f810819be00811b36806e9077e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-19",
+   "short": "قرار أميري رقم (19) لسنة 2002",
+   "title": "قرار أميري رقم (19) لسنة 2002 بشأن المشروع الوطني لتطوير إدارة الخدمات العامة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/19/general",
+   "versions": [
+    {
+     "from": "2003-01-01",
+     "units": 17,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "33cde454d3340b5586d79107aeefb2bd45ab5176fd401165c4a02f11f8d39c3b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-20",
+   "short": "قرار أميري رقم (20) لسنة 2002",
+   "title": "قرار أميري رقم (20) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (36) لسنة 2001 بإنشاء اللجنة المنظمة لدورة الألعاب الآسيوية - الدوحة 2006",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/20/general",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=20&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7c34866c90dd7afc98c2beb3554411dfdc9835e500a20e091f33c01b336ecf71"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-22",
+   "short": "قرار أميري رقم (22) لسنة 2002",
+   "title": "قرار أميري رقم (22) لسنة 2002 بإعادة تشكيل اللجنة العليا للتنسيق والمتابعة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/22/general",
+   "versions": [
+    {
+     "from": "2002-09-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a6428250207aefe7cfaabb768a0b210bf9e75ac0549e9076865245c63e74e705"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-24",
+   "short": "قرار أميري رقم (24) لسنة 2002",
+   "title": "قرار أميري رقم (24) لسنة 2002 بإضافة عضو إلى مجلس إدارة الهيئة العامة للطيران المدني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/24/general",
+   "versions": [
+    {
+     "from": "2002-10-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1e66737d3ff64cf766eef5ee5e8d9d596f3b77c817f8c8fa543ab0f45f30f577"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-25",
+   "short": "قرار أميري رقم (25) لسنة 2002",
+   "title": "قرار أميري رقم (25) لسنة 2002 بإنشاء لجنة تسيير مشروع الحكومة الإلكترونية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/25/general",
+   "versions": [
+    {
+     "from": "2002-10-06",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=25&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b0ece3decf8f4ac73c6e0cf1001493225bf80d5aca868b1cf3697cdddba35d7a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-26",
+   "short": "قرار أميري رقم (26) لسنة 2002",
+   "title": "قرار أميري رقم (26) لسنة 2002 بإنشاء لجنة تكنولوجيا المعلومات والإتصالات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/26/general",
+   "versions": [
+    {
+     "from": "2002-10-07",
+     "units": 12,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "96581744c37e6e6328f4515b282b57c50c7dbbf5cd2f5213de88225450859dbf"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-27",
+   "short": "قرار أميري رقم (27) لسنة 2002",
+   "title": "قرار أميري رقم (27) لسنة 2002 بتعديل بعض أحكام القرار الأميري رقم (6) لسنة 2000 بتعيين ثلاثة أعضاء في مجلس جامعة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/27/general",
+   "versions": [
+    {
+     "from": "2002-10-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "127f4ed8a76de5ab2db3f9df7b899a40f6c13dd00d473637d76cf995bb167236"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-28",
+   "short": "قرار أميري رقم (28) لسنة 2002",
+   "title": "قرار أميري رقم (28) لسنة 2002 بإضافة عضو إلى لجنة تسيير مشروع إنشاء مطار الدوحة الدولي الجديد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/28/general",
+   "versions": [
+    {
+     "from": "2002-10-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "10d255dbb6665a24148a1cac6e0b244f49a77930be8e4c20a873a67096d0aa57"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-31",
+   "short": "قرار أميري رقم (31) لسنة 2002",
+   "title": "قرار أميري رقم (31) لسنة 2002 بتشكيل مجلس إدارة الهيئة العامة للتقاعد والمعاشات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/31/general",
+   "versions": [
+    {
+     "from": "2003-03-29",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "596e7724eaf92c7f6c6da408f20422c69d2a4d77a4fb5396ee86e8643ce0ccdc"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2002-32",
+   "short": "قرار أميري رقم (32) لسنة 2002",
+   "title": "قرار أميري رقم (32) لسنة 2002 بإنشاء لجنة تسيير مشروع مركز قطر للعلوم",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2002/32/general",
+   "versions": [
+    {
+     "from": "2002-12-02",
+     "units": 14,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2002&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f01e069ff140d64c961db00012c2a7a389a38d3aa3059f26efc952c8efa0c4fa"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-2",
+   "short": "قرار أميري رقم (2) لسنة 2001",
+   "title": "قرار أميري رقم (2) لسنة 2001 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/2/general",
+   "versions": [
+    {
+     "from": "2001-01-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1092c72ce01d3e7f8f54bcdab8d8c4d50ece65c008d420b131cbce66b8469b1e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-7",
+   "short": "قرار أميري رقم (7) لسنة 2001",
+   "title": "قرار أميري رقم (7) لسنة 2001 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 2000 بتعديل تنظيم الوحدات الإدارية بالديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/7/general",
+   "versions": [
+    {
+     "from": "2001-04-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "65ea183a3c07b469c15401b9000533e44fee7c17be842f48d3c6591006866693"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-31",
+   "short": "قرار أميري رقم (31) لسنة 2001",
+   "title": "قرار أميري رقم (31) لسنة 2001 بالترقية إلى رتبة لواء",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/31/general",
+   "versions": [
+    {
+     "from": "2001-07-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=31&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "54ca1ea90927a9e2b478dfe8c8dc097bab0344be3af2cbe0cfffc52f47d588ae"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-32",
+   "short": "قرار أميري رقم (32) لسنة 2001",
+   "title": "قرار أميري رقم (32) لسنة 2001 بتعديل رواتب وبدلات هيئة الإدارة وأعضاء هيئة التدريس بجامعة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/32/general",
+   "versions": [
+    {
+     "from": "2001-08-06",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=32&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3bd92f99e0b1629064a4986db0802113d0a79d4d406fb91fd6feb49f6de4e21c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-35",
+   "short": "قرار أميري رقم (35) لسنة 2001",
+   "title": "قرار أميري رقم (35) لسنة 2001 بإعتماد الحساب الختامي للدولة للسنتين الماليتين 97/98، 98/1999",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/35/general",
+   "versions": [
+    {
+     "from": "2001-09-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=35&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9f1b3a7fbff219e073b3fdb320c0c3d1e1d1d7d087f9694e800a3df261f69d76"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-36",
+   "short": "قرار أميري رقم (36) لسنة 2001",
+   "title": "قرار أميري رقم (36) لسنة 2001 بإنشاء اللجنة المنظمة لدورة الألعاب الآسيوية الدوحة 2006",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/36/general",
+   "versions": [
+    {
+     "from": "2002-08-27",
+     "units": 16,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "280d31a4771de72456085109367b5ef992806acbc91b360d8cde184a90d07859"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-39",
+   "short": "قرار أميري رقم (39) لسنة 2001",
+   "title": "قرار أميري رقم (39) لسنة 2001 بتشكيل مجلس إدارة الهيئة العامة للطيران المدني",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/39/general",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2fbe0685ded0e9f09187f10aed92833a51047425b6ee88b4cd73c9f67b7cb724"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2001-40",
+   "short": "قرار أميري رقم (40) لسنة 2001",
+   "title": "قرار أميري رقم (40) لسنة 2001 بتشكيل مجلس إدارة المؤسسة العامة للبريد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2001/40/general",
+   "versions": [
+    {
+     "from": "2001-10-23",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=2001&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e9233c824337cd6cf945f9056aaefa3725d207fe23e71e03fc3f4c2cd4cd2923"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-1",
+   "short": "قرار أميري رقم (1) لسنة 2000",
+   "title": "قرار أميري رقم (1) لسنة 2000 بتعديل تنظيم الوحدات الإدارية بالديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/1/general",
+   "versions": [
+    {
+     "from": "2001-04-14",
+     "units": 14,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "eacf5213565878796b40663fa2b7947c576eb5f40b117ad6ca1ec376fd262bbb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-3",
+   "short": "قرار أميري رقم (3) لسنة 2000",
+   "title": "قرار أميري رقم (3) لسنة 2000 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/3/general",
+   "versions": [
+    {
+     "from": "2000-02-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9b1f22441b4b55a8acd786d39b713cec623ab8a0c148b3274c8cd2e412431227"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-18",
+   "short": "قرار أميري رقم (18) لسنة 2000",
+   "title": "قرار أميري رقم (18) لسنة 2000 بتشكيل مجلس إدارة شركة قطر الوطنية للفنادق",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/18/general",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=18&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "431d2dbd1c769dc3c66f8e26d78282b93ecc11dca4be3433387b8dd8f1e570bd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-33",
+   "short": "قرار أميري رقم (33) لسنة 2000",
+   "title": "قرار أميري رقم (33) لسنة 2000 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/33/general",
+   "versions": [
+    {
+     "from": "2014-05-07",
+     "units": 19,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=33&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7c36701f0921144f85bc4774971e3260697d7434534b6ead2ae0e30630d00c1a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-52",
+   "short": "قرار أميري رقم (52) لسنة 2000",
+   "title": "قرار أميري رقم (52) لسنة 2000 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/52/general",
+   "versions": [
+    {
+     "from": "2000-10-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=52&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "46d2546a37f38d6701514c5e97836cf2a741f1f27c31a22811e805497219d68d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-54",
+   "short": "قرار أميري رقم (54) لسنة 2000",
+   "title": "قرار أميري رقم (54) لسنة 2000 بإعادة تشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/54/general",
+   "versions": [
+    {
+     "from": "2000-10-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=54&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "78db32e82f1a50827a740ea1bb01c40f339254b75ad9aa714a15dbea4c3c87d2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-2000-56",
+   "short": "قرار أميري رقم (56) لسنة 2000",
+   "title": "قرار أميري رقم (56) لسنة 2000 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للبترول",
+   "url": "https://almeezan.qa/legislations/emiri-decision/2000/56/general",
+   "versions": [
+    {
+     "from": "2000-11-19",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=56&year=2000&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "608bb9053ac75d0d6a0551f209d65c67aa9719537aa872634dcdd98e6f7cc52e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-5",
+   "short": "قرار أميري رقم (5) لسنة 1999",
+   "title": "قرار أميري رقم (5) لسنة 1999 بإعادة تشكيل لجنة المناقصات المركزية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/5/general",
+   "versions": [
+    {
+     "from": "2000-05-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "48df32478d11ea798baa31221b3355504a6b25c093db56f070b51f3637988aae"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-6",
+   "short": "قرار أميري رقم (6) لسنة 1999",
+   "title": "قرار أميري رقم (6) لسنة 1999 بتخويل رئيس أركان القوات المسلحة تمثيل وزارة الدفاع",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/6/general",
+   "versions": [
+    {
+     "from": "1999-05-29",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "323d9688a49b65270ccfa4abece3020fa523690feada852bbf0921953baee391"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-8",
+   "short": "قرار أميري رقم (8) لسنة 1999",
+   "title": "قرار أميري رقم (8) لسنة 1999 بتشكيل المجلس الأعلى لشئون الأسرة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/8/general",
+   "versions": [
+    {
+     "from": "1999-05-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d31a46d372894b4bd5a46de2590fb3b7976de47ba6474273a1c3dfb4944126dc"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-9",
+   "short": "قرار أميري رقم (9) لسنة 1999",
+   "title": "قرار أميري رقم (9) لسنة 1999 بتشكيل مجلس إدارة المؤسسة العامة القطرية للقناة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/9/general",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "6410b8dc13d6347ac00f636a61c6b67ce1d3d494dfbe084425aea6c148d9ea4e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-10",
+   "short": "قرار أميري رقم (10) لسنة 1999",
+   "title": "قرار أميري رقم (10) لسنة 1999 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/10/general",
+   "versions": [
+    {
+     "from": "1999-06-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "98d035019a1450d0b7fd38a3808448c510256587251b176cc84b8dd1d1eb1077"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-11",
+   "short": "قرار أميري رقم (11) لسنة 1999",
+   "title": "قرار أميري رقم (11) لسنة 1999 بتشكيل لجنة إعداد الدستور الدائم وتعيين اختصاصاتها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/11/general",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=11&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "07e7eb0be54796fc4e57a620f051712a8711b50bb6979da24c8a558ff190c204"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-29",
+   "short": "قرار أميري رقم (29) لسنة 1999",
+   "title": "قرار أميري رقم (29) لسنة 1999بتعديل بعض أحكام القرار الأميري رقم (2) لسنة 1998 بتشكيل مجلس التخطيط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/29/general",
+   "versions": [
+    {
+     "from": "1999-12-29",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "d8d63b4ec818b8efe81a3571bd93300f70a167669e5771a89a411ac1869c900d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1999-30",
+   "short": "قرار أميري رقم (30) لسنة 1999",
+   "title": "قرار أميري رقم (30) لسنة 1999 بتشكيل مجلس إدارة شركة قطر للحديد والصلب المحدودة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1999/30/general",
+   "versions": [
+    {
+     "from": "1999-12-30",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=1999&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "09861f643eedd2e081a121a34a1a45dfb5175456a66a0819ea44af10572bbbc2"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-9",
+   "short": "قرار أميري رقم (9) لسنة 1998",
+   "title": "قرار أميري رقم (9) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (1) لسنة 1998 بإنشاء مجلس التخطيط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/9/general",
+   "versions": [
+    {
+     "from": "1998-04-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9deab57c01adda9ec7d301430868cfe99f44c23fa88f3191418edee9eb2addc0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-10",
+   "short": "قرار أميري رقم (10) لسنة 1998",
+   "title": "قرار أميري رقم (10) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (2) لسنة 1998 بتشكيل مجلس التخطيط",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/10/general",
+   "versions": [
+    {
+     "from": "1998-04-14",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=10&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e30f7de689d292644435fd852d76d382aae79f3433c4eb562e2f8bab070190c6"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-12",
+   "short": "قرار أميري رقم (12) لسنة 1998",
+   "title": "قرار أميري رقم (12) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (19) لسنة 1997 بإعادة تشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/12/general",
+   "versions": [
+    {
+     "from": "1998-04-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=12&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "fd2f496269b1378594655b3a114b6738b451750544e08742ebf762d4c2e40cd1"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-13",
+   "short": "قرار أميري رقم (13) لسنة 1998",
+   "title": "قرار أميري رقم (13) لسنة 1998 بتشكيل مجلس إدارة المؤسسة العامة لمطار الدوحة الدولي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/13/general",
+   "versions": [
+    {
+     "from": "1998-05-04",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=13&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7a669f819ccbaa93d68813c2798a97ebc423ff405db7374bb32a628509b01a8f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-14",
+   "short": "قرار أميري رقم (14) لسنة 1998",
+   "title": "قرار أميري رقم (14) لسنة 1998 بإنشاء اللجنة القطرية الدائمة لدعم القدس",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/14/general",
+   "versions": [
+    {
+     "from": "2018-01-21",
+     "units": 9,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "7a235e091bf0a21d56bbcb75b7ca17e82a246c24abf797a5171c72a75a001c29"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-23",
+   "short": "قرار أمير دولة قطر رقم (23) لسنة 1998",
+   "title": "قرار أمير دولة قطر رقم (23) لسنة 1998 بمد مدة مجلس الشورى",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/23/general",
+   "versions": [
+    {
+     "from": "1998-06-16",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=23&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "db7219164d553036b307cbd0942b97235d61685c8da2227abbceda084fdeffea"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-26",
+   "short": "قرار أميري رقم (26) لسنة 1998",
+   "title": "قرار أميري رقم (26) لسنة 1998 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/26/general",
+   "versions": [
+    {
+     "from": "1998-07-21",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4cd51b5d87e702d887fa9d8f50e672b2ddcd9dd56d01db7d021841fd5381763c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-30",
+   "short": "قرار أميري رقم (30) لسنة 1998",
+   "title": "قرار أميري رقم (30) لسنة 1998 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/30/general",
+   "versions": [
+    {
+     "from": "1998-07-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f0b45b129a763ab37d8b1db7ba34342ef5e97788745d3b5fe75882809405fbac"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-34",
+   "short": "قرار أميري رقم (34) لسنة 1998",
+   "title": "قرار أميري رقم (34) لسنة 1998 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/34/general",
+   "versions": [
+    {
+     "from": "1998-08-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "19a52ef744b1b42047daa780d07d7a3d58dd63542eb491a92e3fea8fbacfda56"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-44",
+   "short": "قرار أميري رقم (44) لسنة 1998",
+   "title": "قرار أميري رقم (44) لسنة 1998 بمد مدة مجلس إدارة المؤسسة العامة القطرية للاتصالات السلكية واللاسلكية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/44/general",
+   "versions": [
+    {
+     "from": "1998-09-27",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=44&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "3cdd92080e8d6f2d7b3485d632289a572ac78d1f883a11be69bd50561a092b55"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-45",
+   "short": "قرار أميري رقم (45) لسنة 1998",
+   "title": "قرار أميري رقم (45) لسنة 1998 بتعديل بعض أحكام القرار الأميري رقم (14) لسنة 1991 بشأن إجراءات إعداد التشريعات",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/45/general",
+   "versions": [
+    {
+     "from": "1998-10-06",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=45&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "ccbdbd13c6a45ab53222b8e1c90fdeb38ee9878efeb35f96904cb62954feec23"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-49",
+   "short": "قرار أميري رقم (49) لسنة 1998",
+   "title": "قرار أميري رقم (49) لسنة 1998 بإضافة وحدة جديدة إلى الوحدات الإدارية التي يتألف منها الديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/49/general",
+   "versions": [
+    {
+     "from": "1998-11-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=49&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2cfe37095d20b2b98ec84dbd6da1e78ed69b2a867d9ea6f2b04ff2b0e7e29e38"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-50",
+   "short": "قرار أميري رقم (50) لسنة 1998",
+   "title": "قرار أميري رقم (50) لسنة 1998 بإعتماد الحساب الختامي للدولة للسنة المالية 96/1997",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/50/general",
+   "versions": [
+    {
+     "from": "1998-11-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=50&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2ba090496e62b2555e8049fe794ef80ab48be88ec48f907847e95be7255d838f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1998-54",
+   "short": "قرار أميري رقم (54) لسنة 1998",
+   "title": "قرار أميري رقم (54) لسنة 1998 بإلغاء وحدة الطيران الأميري من الوحدات الإدارية التي يتألف منها الديوان الأميري",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1998/54/general",
+   "versions": [
+    {
+     "from": "1998-12-31",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=54&year=1998&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "493fb6e49dbfa094b1e6f6d266655702c3c0f75e0e6f19c3af42e8804830197c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-4",
+   "short": "قرار أميري رقم (4) لسنة 1997",
+   "title": "قرار أميري رقم (4) لسنة 1997 بتشكيل مجلس إدارة مؤسسة حمد الطبية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/4/general",
+   "versions": [
+    {
+     "from": "1998-01-20",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "504b0920024764b87d620727ed2015b890b3d0778c36d4ac7124f2ff7332a73d"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-5",
+   "short": "قرار أميري رقم (5) لسنة 1997",
+   "title": "قرار أميري رقم (5) لسنة 1997 باعتماد الموازنة العامة للدولة للعام المالي 1997 / 1998",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/5/general",
+   "versions": [
+    {
+     "from": "1997-04-01",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=5&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "745de4f5d436d756e24fc1518560a688ca0fc9cba4f8bbf4355b1b83353d1026"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-9",
+   "short": "قرار أميري رقم (9) لسنة 1997",
+   "title": "قرار أميري رقم (9) لسنة 1997 بتعديل القرار الأميري رقم (30) لسنة 1995 بتعيين ثلاثة أعضاء في مجلس جامعة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/9/general",
+   "versions": [
+    {
+     "from": "1997-04-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1f0e0bab568daa3164e990f184c0c24e533ac40c65f6ee44ead718fd47c61762"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-14",
+   "short": "قرار أميري رقم (14) لسنة 1997",
+   "title": "قرار أميري رقم (14) لسنة 1997 بتشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/14/general",
+   "versions": [
+    {
+     "from": "1997-05-05",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=14&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a1e454ec56df0a78c27a269808d4fb53ba1ac8b3e72f59ba3df401e22030073f"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-16",
+   "short": "قرار أمير دولة قطر رقم (16) لسنة 1997",
+   "title": "قرار أمير دولة قطر رقم (16) لسنة 1997 بتعديل بعض أحكام النظام الأساسي المؤقت المعدل",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/16/general",
+   "versions": [
+    {
+     "from": "1997-05-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=16&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "5a365a809fdd1c05512aae48a740f29b5c42563436b7c1a3b6036d8afab9ee18"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-19",
+   "short": "قرار أميري رقم (19) لسنة 1997",
+   "title": "قرار أميري رقم (19) لسنة 1997 بإعادة تشكيل لجنة قبول المحامين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/19/general",
+   "versions": [
+    {
+     "from": "1998-04-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f5fd86acf41b0074f5ea75ba6ea93a7be6973fa60fa76fe8ce14805eadc9bfa0"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-22",
+   "short": "قرار أميري رقم (22) لسنة 1997",
+   "title": "قرار أميري رقم (22) لسنة 1997 بتنظيم جهاز مباحث أمن الدولة وتعيين اختصاصاته",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/22/general",
+   "versions": [
+    {
+     "from": "1997-08-26",
+     "units": 56,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=22&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "babb8685e9c09af7abbcacf9ebfb541d2328b788141cbf571eedeb2ca197a4bc"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-24",
+   "short": "قرار أميري رقم (24) لسنة 1997",
+   "title": "قرار أميري رقم (24) لسنة 1997 بنظام المناقصات والمزايدات في جهاز مباحث أمن الدولة",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/24/general",
+   "versions": [
+    {
+     "from": "1997-09-01",
+     "units": 11,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=24&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "af1f0261406ae3052771538d3942d8692797a5fc955b6ddb02f681ad06e49f82"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-27",
+   "short": "قرار أميري رقم (27) لسنة 1997",
+   "title": "قرار أميري رقم (27) لسنة 1997 بتشكيل مجلس إدارة الهيئة العامة القطرية للإذاعة والتليفزيون",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/27/general",
+   "versions": [
+    {
+     "from": "1997-11-10",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e0d150d10aeaf606c02fb53b2d2e1a068686fb77ced3a0e577e56c68e067a41c"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1997-28",
+   "short": "قرار أميري رقم (28) لسنة 1997",
+   "title": "قرار أميري رقم (28) لسنة 1997 باعتماد الحساب الختامي للدولة للسنتين الماليتين 94/95، 95/96",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1997/28/general",
+   "versions": [
+    {
+     "from": "1997-12-07",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=1997&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e004ece6fe40b9ecfd663cfd175579d280b73054525651b4b73717aa9db104df"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-1",
+   "short": "قرار أميري رقم (1) لسنة 1996",
+   "title": "قرار أميري رقم (1) لسنة 1996 بإعادة تشكيل لجنة قيد المحامين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/1/general",
+   "versions": [
+    {
+     "from": "1996-03-30",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=1&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "4ce1d6c151693bdd450f53490053b30b84f8e353f4af54f4e24ea89ef60ca44a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-2",
+   "short": "قرار أميري رقم (2) لسنة 1996",
+   "title": "قرار أميري رقم (2) لسنة 1996 باعتماد الموازنة العامة للدولة للعام المالي 1996/1997",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/2/general",
+   "versions": [
+    {
+     "from": "1996-04-10",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=2&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "eb916c46fce886d716a41481ad4ba29cd3485b172a88b931b594f132d35f7c9e"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-3",
+   "short": "قرار أميري رقم (3) لسنة 1996",
+   "title": "قرار أميري رقم (3) لسنة 1996 بإعادة تشكيل مجلس إدارة شركة قطر الوطنية لصيد الأسماك",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/3/general",
+   "versions": [
+    {
+     "from": "1996-04-20",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=3&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "01dc538a99562c2c380cc63a4730150fa572d05a8a299c0364f9cdec90f67f6a"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-4",
+   "short": "قرار أميري رقم (4) لسنة 1996",
+   "title": "قرار أميري رقم (4) لسنة 1996 بتشكيل مجلس إدارة المؤسسة العامة القطرية للقناة الفضائية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/4/general",
+   "versions": [
+    {
+     "from": "1996-04-22",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=4&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e299ca62a9fd17dc7a83fbe1e476a9f4ea5c4da94b9687e385a3ab3dfaba6d56"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-6",
+   "short": "قرار أميري رقم (6) لسنة 1996",
+   "title": "قرار أميري رقم (6) لسنة 1996 بإعادة تشكيل لجنة المناقصات المركزية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/6/general",
+   "versions": [
+    {
+     "from": "1996-07-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=6&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "dcbd393bb9e7d82f43b443a6f645a5e1d731539017cf19ec27c93d9ef6e60189"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-7",
+   "short": "قرار أميري رقم (7) لسنة 1996",
+   "title": "قرار أميري رقم (7) لسنة 1996 بشأن الضمان الاجتماعي",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/7/general",
+   "versions": [
+    {
+     "from": "1996-06-26",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=7&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "f470e0588bec9f11e0c469ff192a9fe09219b0d9dc8bbd02ac4e351fb08b6485"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-8",
+   "short": "قرار أميري رقم (8) لسنة 1996",
+   "title": "قرار أميري رقم (8) لسنة 1996 في شأن العلاوة الاجتماعية للموظفين المدنيين وعلاوة بدل السكن وعلاوة بدل خدم للعسكريين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/8/general",
+   "versions": [
+    {
+     "from": "1996-06-26",
+     "units": 8,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=8&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2ab0fcbce9803cf4c55849d15b5c73d438728241566c7576d9673cc497c6448b"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-9",
+   "short": "قرار أميري رقم (9) لسنة 1996",
+   "title": "قرار أميري رقم (9) لسنة 1996 برفع مرتبات أفراد الشرطة وحرس المنشآت والجنود المهنيين والعمال العاملين بوزارتي الدفاع والداخلية لغير القطريين",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/9/general",
+   "versions": [
+    {
+     "from": "1996-06-26",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=9&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "161c7496d08ef013bd6c9100411a40fab762d16876c860b64e3fd0a514492062"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-19",
+   "short": "قرار أميري رقم (19) لسنة 1996",
+   "title": "قرار أميري رقم (19) لسنة 1996 بإلغاء القرارين الأميريين رقمي (10)، (38) لسنة 1995",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/19/general",
+   "versions": [
+    {
+     "from": "1996-09-24",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=19&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2ee1579059715e898ce7ec9736dae6d5c71e845b640e5e8eb3ad496ef0a8f353"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-21",
+   "short": "قرار أميري رقم (21) لسنة 1996",
+   "title": "قرار أميري رقم (21) لسنة 1996 بإلغاء القرارين الأميريين رقمي (26)، (27) لسنة 1995",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/21/general",
+   "versions": [
+    {
+     "from": "1996-09-25",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=21&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "9a30d282004e5ab72d67f43515630072918d5dbdee8ec95c8d6a8fe98f491514"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-26",
+   "short": "قرار أميري رقم (26) لسنة 1996",
+   "title": "قرار أميري رقم (26) لسنة 1996 في شأن علاوة بدل السكن وعلاوة بدل خدم للعسكريين القطريين المحالين إلى قوة الإحتياط بوزارتي الدفاع والداخلية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/26/general",
+   "versions": [
+    {
+     "from": "1996-10-16",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=26&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "2440c77054d45c4e4cbd01abdea03c7c3badd83c2e72aa27b041c8062a7aa933"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-27",
+   "short": "قرار أميري رقم (27) لسنة 1996",
+   "title": "قرار أميري رقم (27) لسنة 1996 في شأن العلاوة الإجتماعية للموظفين والعمال المدنيين القطريين المحالين إلى التقاعد",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/27/general",
+   "versions": [
+    {
+     "from": "1996-10-16",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=27&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e29a1ab9caa071f1fcce4300161c82a1907751880e3e84ab9f1cf0aa4c6105c7"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-28",
+   "short": "قرار أمير دولة قطر رقم (28) لسنة 1996",
+   "title": "قرار أمير دولة قطر رقم (28) لسنة 1996 بتعديل بعض أحكام النظام الأساسي المؤقت المعدل للحكم في دولة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/28/general",
+   "versions": [
+    {
+     "from": "1996-12-09",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=28&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "57f6f76b32815e031beb2575e44a8a7d930c0f8c2c3ff8f578adb40cf7a020db"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-29",
+   "short": "قرار أميري رقم (29) لسنة 1996",
+   "title": "قرار أميري رقم (29) لسنة 1996 بشأن قرارات مجلس الوزراء التي ترفع للأمير للتصديق عليها وإصدارها",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/29/general",
+   "versions": [
+    {
+     "from": "1996-10-23",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=29&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "a724b30937d94f23ff4f52d3c2e5dee2df0b1a2708914df06313242a2faa4ccb"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-30",
+   "short": "قرار أميري رقم (30) لسنة 1996",
+   "title": "قرار أميري رقم (30) لسنة 1996 بمنح لقب سفير فوق العادة مفوض",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/30/general",
+   "versions": [
+    {
+     "from": "1996-11-02",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=30&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "1d2a82d2ee3bbf17bfcbd23fa32138733a1ddc420f7f53ae9ae8fe4746ed20cd"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-34",
+   "short": "قرار أمير دولة قطر رقم (34) لسنة 1996",
+   "title": "قرار أمير دولة قطر رقم (34) لسنة 1996 بتعديل بعض أحكام النظام الأساسي المؤقت المعدل للحكم في دولة قطر",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/34/general",
+   "versions": [
+    {
+     "from": "1996-11-11",
+     "units": 3,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=34&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "40fb1ddcee870b3c1057124d1306b51ac8a3620612b089203c28703d106e2eb8"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-36",
+   "short": "قرار أميري رقم (36) لسنة 1996",
+   "title": "قرار أميري رقم (36) لسنة 1996 باعتماد إضافي للموازنة العامة للسنة المالية 1996/1997",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/36/general",
+   "versions": [
+    {
+     "from": "1996-11-17",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=36&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "e0f82273242c2053ef33f876cb19c10c09c31beed4ae50a6655ddd2c96e34681"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-39",
+   "short": "قرار أميري رقم (39) لسنة 1996",
+   "title": "قرار أميري رقم (39) لسنة 1996 بإعادة تشكيل مجلس إدارة المؤسسة العامة القطرية للبترول",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/39/general",
+   "versions": [
+    {
+     "from": "1996-11-20",
+     "units": 5,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=39&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "5c1bc063291eb9fa13b0880f15e7eccb27e1549ab653bdbb239b079890abd7ce"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-40",
+   "short": "قرار أميري رقم (40) لسنة 1996",
+   "title": "قرار أميري رقم (40) لسنة 1996 بشأن أمين عام مجلس الدفاع",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/40/general",
+   "versions": [
+    {
+     "from": "1996-11-24",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=40&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "520d0ecdd6b4872a13335e44ab9f3910a7f59575590aaec34d6bd7572eafeb24"
+    }
+   ]
+  },
+  {
+   "slug": "emiri-decision-1996-41",
+   "short": "قرار أميري رقم (41) لسنة 1996",
+   "title": "قرار أميري رقم (41) لسنة 1996 بتعديل تشكيل مجلس إدارة المؤسسة العامة القطرية للإتصالات السلكية واللاسلكية",
+   "url": "https://almeezan.qa/legislations/emiri-decision/1996/41/general",
+   "versions": [
+    {
+     "from": "1996-11-27",
+     "units": 4,
+     "source_url": "https://api.moj.gov.qa/api/v1/Legislation/details-by-key?number=41&year=1996&typeCode=emiri-decision&sourceCode=general&culture=ar",
+     "sha256": "b9d18355aca708de6b79ad097f56796ee410c6a18e4b2abe422ce00d0a1113a2"
+    }
+   ]
   }
  ]
 }
