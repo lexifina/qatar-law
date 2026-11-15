@@ -24,7 +24,8 @@ The text is in Arabic, the authoritative text, as Al Meezan publishes it. Al Mee
 
 - **[Ask Claude about Qatari law](https://global-law.lexifina.com/v1/try_claude?country=qatar)**: opens Claude with a first question ready.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=qatar)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9+%D8%B3%D9%86%D9%88%D9%8A%D8%A9&jurisdictions=qatar)**: a search of Qatari law for "إجازة سنوية" (annual leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
+- **[Search Qatari law on our site](https://lexifina.com/law?country=qatar&q=%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9+%D8%B3%D9%86%D9%88%D9%8A%D8%A9)**: a search for "إجازة سنوية" (annual leave), with each provision's text and its versions, no account needed.
+- **[Developer REST API](https://global-law.lexifina.com/v1/search_law?query=%D8%A5%D8%AC%D8%A7%D8%B2%D8%A9+%D8%B3%D9%86%D9%88%D9%8A%D8%A9&jurisdiction=qatar)**: the same search as JSON, with no key. See the [documentation here](https://lexifina.com/api/global-law).
 
 Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Arabic or in English.
 
