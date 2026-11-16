@@ -60,6 +60,7 @@ Each change to the Constitution and the Penal Code is credited to the law that m
 - `tools/check_repo.py` reads every version back from git on the day it took effect and on the day before and compares it with the corpus, whose hash is in `data/corpus.sha256`; it also checks that every commit's trailers parse, that `main` has no merge commits and that no commit is dated after the build. [`REPRODUCE.md`](REPRODUCE.md) records 1,722 versions of 1,714 acts read back with no mismatch.
 - Each Amiri and Council of Ministers decision is also compared with Al Meezan's Akoma Ntoso XML, which must carry the same Arabic text; one that does not is left out.
 - `tools/build.py` writes the history from the corpus, and the same corpus gives the same commit hashes; `tools/append.py` adds new acts and versions on top and never rewrites. No second build has been compared yet.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Qatari law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
