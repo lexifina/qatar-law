@@ -11,11 +11,11 @@ The law of Qatar as a git history: one file per article, one commit per version 
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Qatar's national law, which global-law reads at `qatar/national/acts/`.
 
-**What is in it now:** the Constitution and 1,713 acts from Al Meezan, the Ministry of Justice's legal portal, with 1,722 versions: 581 laws, 125 decree-laws, 300 Amiri decisions (1996-2013) and 707 decisions of the Council of Ministers (1994-2026). The Constitution (2 versions, the second from the 2024 amendments) and the Penal Code (8 versions, 2004 to 2024) have their full dated history; 188 acts Al Meezan shows as amended are here as today's text only; every other act is here as issued. [`data/laws.csv`](data/laws.csv) lists every act with its title and its page on Al Meezan; [`data/versions.json`](data/versions.json) lists each act's versions.
+**What is in it now:** the Constitution and 1,713 acts from Al Meezan, the Ministry of Justice's legal portal, with their versions (581 laws, 125 decree-laws, 300 Amiri decisions and 707 Council of Ministers decisions); 5,003 further decrees and decisions from Al Meezan, 1963 to 2026, one file each, in `decree/`, `emiri-decision/`, `cabinet-decision/`, `decision/`, `ministerial-decision/`, `prime-minister-decision/` and `public-prosecutor-decision/`; and 943 judgments of the Qatar International Court (2009-2026). [`data/laws.csv`](data/laws.csv) lists the 1,713 acts with their pages on Al Meezan; [`data/versions.json`](data/versions.json) their versions.
 
 Each act is a folder named `<kind>-<year>-<number>/`, with one file per article (`law-2004-14/` is قانون العمل, the Labour Law, Law No. 14 of 2004, and `law-2004-14/art-079.md` its Article 79, on annual leave); the first three acts recorded keep their own names: [`dustur/`](dustur/) (the Constitution), [`qanun-al-uqubat/`](qanun-al-uqubat/) (the Penal Code, Law No. 11 of 2004) and [`himayat-al-bayanat-al-shakhsiya/`](himayat-al-bayanat-al-shakhsiya/) (Law No. 13 of 2016 on personal data). Each folder's `README.md` lists its articles.
 
-The text is in Arabic, the authoritative text, as Al Meezan publishes it. Al Meezan's English translations are partial and unofficial and are not part of this record.
+The text is in Arabic, the authoritative text, as Al Meezan publishes it. Al Meezan's English translations are partial and unofficial and are not part of this record. The Qatar International Court's judgments are in English, as the court publishes them.
 
 ## Questions as git commands
 
